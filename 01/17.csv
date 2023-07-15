@@ -1,0 +1,258 @@
+"astro-ph/9901218","Glenn Schneider","Glenn Schneider, Bradford A. Smith, E. E. Becklin, David W. Koerner,
+  Roland Meier, Dean C. Hines, Patrick J. Lowrance, Richard J. Terrile, Rodger
+  I. Thompson and Marcia Rieke","NICMOS Imaging of the HR 4796A Circumstellar Disk","14 pages, 1 figure for associated gif file see:
+  http://nicmosis.as.arizona.edu:8000/AAS99/FIGURE1_HR4796A_ApJL.gif . Accepted
+  13 January 1999, Astrophyical Journal Letters",,"10.1086/311921",,"astro-ph",,"  We report the first near infrared (NIR) imaging of a circumstellar annular
+disk around the young (~8 Myr), Vega-like star, HR 4796A. NICMOS coronagraph
+observations at 1.1 and 1.6 microns reveal a ring-like symmetrical structure
+peaking in reflected intensity 1.05 arcsec +/- 0.02 arcsec (~ 70 AU) from the
+central A0V star. The ring geometry, with an inclination of 73.1 deg +/- 1.2
+deg and a major axis PA of 26.8 deg +/- 0.6 deg, is in good agreement with
+recent 12.5 and 20.8 micron observations of a truncated disk (Koerner, et al.
+1998). The ring is resolved with a characteristic width of less than 0.26
+arcsec (17 AU) and appears abruptly truncated at both the inner and outer
+edges. The region of the disk-plane inward of ~60 AU appears to be relatively
+free of scattering material. The integrated flux density of the part of the
+disk that is visible (greater than 0.65 arcsec from the star) is found to be
+7.5 +/- 0.5 mJy and 7.4 +/- 1.2 mJy at 1.1 and 1.6 microns, respectively.
+Correcting for the unseen area of the ring yields total flux densities of 12.8
++/- 1.0 mJy and 12.5 +/- 2.0 mJy, respectively (Vega magnitudes = 12.92 /+-
+0.08 and 12.35 +/-0.18). The NIR luminosity ratio is evaluated from these
+results and ground-based photometry of the star. At these wavelengths
+Ldisk(lambda)/L*(lambda) = 1.4 +/- 0.2E-3 and 2.4 +/- 0.5E-3, giving reasonable
+agreement between the stellar flux scattered in the NIR and that which is
+absorbed in the visible and re-radiated in the thermal infrared. The somewhat
+red reflectance of the disk at these wavelengths implies mean particle sizes in
+excess of several microns, larger than typical interstellar grains. The
+confinement of material to a relatively narrow annular zone implies dynamical
+constraints on the disk particles by one or more as yet unseen bodies.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1999 20:00:50 GMT""}]","2009-10-31"
+"astro-ph/9901220",,"A. Melchiorri, M. V. Sazhin, V.V. Shulga, N. Vittorio","The Gravitational-Wave contribution to the CMB anisotropies","21 pages, 3 figures, to appear in ApJ","Astrophys.J. 518 (1999) 562","10.1086/307308",,"astro-ph gr-qc",,"  We study the possible contribution of a stochastic gravitational wave
+background to the anisotropy of the cosmic microwave background (CMB) in cold
+and mixed dark matter (CDM and MDM) models. We test this contribution against
+recent detections of CMB anisotropy at large and intermediate angular scales.
+Our likelihood analysis indicates that models with blue power spectra ($n
+\simeq 1.2$) and a tensor to the scalar quadrupole ratio of $R = C_2^T /C_2^S
+\sim 2$ are most consistent with the anisotropy data considered here. We find
+that by including the possibility of such background in CMB data analysis it
+can drastically alter the conclusion on the remaining cosmological parameters.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 12:55:56 GMT""}]","2009-10-31"
+"cond-mat/9901151","Vahid Karimipor","V. Karimipour","A Remark on Integrability of Stochastic Systems Solvable by Matrix
+  Product Ansatz","9 pages, latex, major revisions in the introduction, references added",,"10.1209/epl/i1999-00416-x","IPM 99-24","cond-mat.stat-mech",,"  Within the Matrix Product Formalism we have already introduced a multi-
+species exclusion process in which different particles hop with different rates
+and fast particles stochastically overtake slow ones. In this letter we show
+that on an open chain, the master equation of this process can be exactly
+solved via the coordinate Bethe ansatz. It is shown that the N-body S-matrix of
+this process is factorized into a product of two-body S-matrices, which in turn
+satisfy the quantum Yang-Baxter equation (QYBE). This solution is to our
+knowledge, a new solution of QYBE.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 12:33:57 GMT""},{""version"":""v2"",""created"":""Mon, 10 May 1999 12:00:05 GMT""}]","2009-10-31"
+"cs/9901008","Eirik Fossgaard","Eirik Fossgaard","Fast Computational Algorithms for the Discrete Wavelet Transform and
+  Applications of Localized Orthonormal Bases in Signal Classification","127 pages, 25 figures, LaTeX2e",,,"82-90487-93-2","cs.MS cs.CE",,"  We construct an algorithm for implementing the discrete wavelet transform by
+means of matrices in SO_2(R) for orthonormal compactly supported wavelets and
+matrices in SL_m(R), m > = 2, for compactly supported biorthogonal wavelets. We
+show that in 1 dimension the total operation count using this algorithm can be
+reduced to about 50% of the conventional convolution and downsampling by
+2-operation for both orthonormal and biorthogonal filters. In the special case
+of biorthogonal symmetric odd-odd filters, we show an implementation yielding a
+total operation count of about 38% of the conventional method. In 2 dimensions
+we show an implementation of this algorithm yielding a reduction in the total
+operation count of about 70% when the filters are orthonormal, a reduction of
+about 62% for general biorthogonal filters, and a reduction of about 70% if the
+filters are symmetric odd-odd length filters. We further extend these results
+to 3 dimensions. We also show how the SO_2(R)-method for implementing the
+discrete wavelet transform may be exploited to compute short FIR filters, and
+we construct edge mappings where we try to improve upon the degree of
+preservation of regularity in the conventional methods. We also consider a
+two-class waveform discrimination problem. A statistical space-frequency
+analysis is performed on a training data set using the LDB-algorithm of N.Saito
+and R.Coifman. The success of the algorithm on this particular problem is
+evaluated on a disjoint test data set.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1999 16:54:01 GMT""}]","2007-05-23"
+"gr-qc/9901048","Keisuke Taniguchi","Keisuke Taniguchi","Irrotational and Incompressible Binary Systems in the First
+  Post-Newtonian Approximation of General Relativity","36 pages with 5 figures, revtex, Prog. Theor. Phys. in press","Prog.Theor.Phys. 101 (1999) 283-328","10.1143/PTP.101.283","KUNS 1540","gr-qc astro-ph",,"  The first post-Newtonian (PN) hydrostatic equations for an irrotational fluid
+are solved for an incompressible binary system. The equilibrium configuration
+of the binary system is given by a small deformation from the irrotational
+Darwin-Riemann ellipsoid which is the solution at Newtonian order. It is found
+that the orbital separation at the innermost stable circular orbit (ISCO)
+decreases when one increases the compactness parameter $M_{\ast}/c^2 a_{\ast}$,
+in which $M_{\ast}$ and $a_{\ast}$ denote the mass and the radius of a star,
+respectively. If we compare the 1PN angular velocity of the binary system at
+the ISCO in units of $\sqrt{M_{\ast}/a_{\ast}^3}$ with that of Newtonian order,
+the angular velocity at the ISCO is almost the same value as that at Newtonian
+order when one increases the compactness parameter. Also, we do not find the
+instability point driven by the deformation at 1PN order, where a new sequence
+bifurcates throughout the equilibrium sequence of the binary system until the
+ISCO.
+  We also investigate the validity of an ellipsoidal approximation, in which a
+1PN solution is obtained assuming an ellipsoidal figure and neglecting the
+deformation. It is found that the ellipsoidal approximation gives a fairly
+accurate result for the total energy, total angular momentum and angular
+velocity. However, if we neglect the velocity potential of 1PN order, we tend
+to overestimate the angular velocity at the ISCO regardless of the shape of the
+star (ellipsoidal figure or deformed figure).
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 14:07:46 GMT""}]","2009-10-31"
+"hep-lat/9901011","Ting-Wai  Chiu","Ting-Wai Chiu and Tung-Han Hsieh","Perturbation calculation of the axial anomaly of Ginsparg-Wilson fermion","38 pages, latex, 1 figure, add appendix C and several remarks",,,"NTUTH-98-098","hep-lat hep-ph hep-th",,"  We evaluate the axial anomaly for the general Ginsparg-Wilson fermion
+operator $D = D_c (\Id + R D_c)^{-1}$ with $R = r \Id$. For any chirally
+symmetric $D_c$ which in the free fermion limit, is free of species doubling
+and behaves like $i \gamma_\mu p_\mu$ as $p \to 0$, the axial anomaly
+$\tr[\gamma_5 (R D) (x,x)]$ for U(1) lattice gauge theory with single fermion
+flavor is equal to $e^2/(32 \pi^2) \epsilon_{\mu\nu\lambda\sigma} F_{\mu\nu}(x)
+F_{\lambda\sigma}(x+\hat\mu+\hat\nu)$ plus terms which are higher orders and/or
+non-perturbative contribtuons. The $F \tilde{F}$ term is r-invariant and has
+the correct continuum limit.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 12:41:44 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jan 1999 05:54:01 GMT""},{""version"":""v3"",""created"":""Fri, 12 Mar 1999 08:46:16 GMT""}]","2007-05-23"
+"hep-ph/9901329","Xing Zhi-Zhong","Harry J. Lipkin and Zhi-zhong Xing","Flavor Symmetry, K^0-\bar{K}^0 Mixing and New Physics Effects on CP
+  Violation in D^{\pm} and D^{\pm}_s Decays","Latex 12 pages (3 figs). Phys. Lett. B (in printing)","Phys.Lett. B450 (1999) 405-411","10.1016/S0370-2693(99)00170-7","LMU-99-02, WIS-99/01/Jan.DPP, TAU-2547-99","hep-ph hep-ex",,"  Flavor symmetry and symmetry breaking, K^0-\bar{K}^0 mixing and possible
+effects of new physics on CP violation in weak decay modes D^{\pm} \to K_{S,L}
++ X^{\pm}, (K_{S,L} + \pi^0)_{K^*} + X^{\pm} (for X =\pi, \rho, a_1) and
+D^{\pm}_s \to K_{S,L} + X^{\pm}_s, (K_{S,L} +\pi^0)_{K^*} + X^{\pm}_s (for X_s
+= K, K^*) are analyzed. Relations between D^{\pm} and D^{\pm}_s decay branching
+ratios are obtained from the d \Leftrightarrow s subgroup of SU(3) and dominant
+symmetry-breaking mechanisms are investigated. A CP asymmetry of magnitude
+3.3\times 10^{-3} is shown to result in the standard model from K^0-\bar{K}^0
+mixing in the final-state. New physics affecting the doubly Cabibbo-suppressed
+channels might either cancel this asymmetry or enhance it up to the percent
+level. A comparison between the CP asymmetries in D^{\pm}_{(s)} \to K_{S}
+X^{\pm}_{(s)} and D^{\pm}_{(s)} \to K_L X^{\pm}_{(s)} can pin down effects of
+new physics.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1999 17:33:28 GMT""},{""version"":""v2"",""created"":""Tue, 2 Feb 1999 13:24:44 GMT""}]","2009-10-31"
+"hep-ph/9901330","Robert Harlander","J.H. Kuehn","Expansion Techniques in Massive Quark Production: Results and
+  Applications","21 pages, 15 figures. Presented at the 4th International Symposium on
+  Radiative Corrections (RADCOR 98), Barcelona, 8-12 Sep 1998, to appear in the
+  proceedings. The complete paper is also available via anonymous ftp at
+  ftp://ttpux2.physik.uni-karlsruhe.de/ttp99/ttp99-01/ or via www at
+  http://www-ttp.physik.uni-karlsruhe.de/Preprints",,,"TTP99-01","hep-ph",,"  Recent progress in the calculation of multi-loop, multi-scale diagrams is
+reviewed. Expansion techniques combined with new developments in Computer
+algebra allow to evaluate the R ratio for massive quarks up to order
+$\alpha_s^2$ and, partly, even $\alpha_s^3$. Similar techniques can be applied
+to Higgs- or Z-boson decays and mixed QCD and electroweak interactions.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 14:57:01 GMT""}]","2007-05-23"
+"hep-ph/9901331","Robert Thorne","R.S. Thorne","NLO BFKL Equation, Running Coupling and Renormalization Scales","Tex file, including a modification of Harvmac, 46 pages, 8 figures as
+  .ps files. Correction of typos, updating of references, very minor
+  corrections to text and fig.4","Phys.Rev. D60 (1999) 054031","10.1103/PhysRevD.60.054031","OUTP-9902P","hep-ph",,"  I examine the solution of the BFKL equation with NLO corrections relevant for
+deep inelastic scattering. Particular emphasis is placed on the part played by
+the running of the coupling. It is shown that the solution factorizes into a
+part describing the evolution in Q^2, and a constant part describing the input
+distribution. The latter is infrared dominated, being described by a coupling
+which grows as x decreases, and thus being contaminated by infrared
+renormalons. Hence, for this part we agree with previous assertions that
+predictive power breaks down for small enough x at any Q^2. However, the former
+is ultraviolet dominated, being described by a coupling which falls like
+1/(\ln(Q^2/\Lambda^2) + A(\bar\alpha_s(Q^2)\ln(1/x))^1/2)with decreasing x, and
+thus is perturbatively calculable at all x. Therefore, although the BFKL
+equation is unable to predict the input for a structure function for small x,
+it is able to predict its evolution in Q^2, as we would expect from the
+factorization theory. The evolution at small x has no true powerlike behaviour
+due to the fall of the coupling, but does have significant differences from
+that predicted from a standard NLO in alpha_s treatment. Application of the
+resummed splitting functions with the appropriate coupling constant to an
+analysis of data, i.e. a global fit, is very successful.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 15:25:18 GMT""},{""version"":""v2"",""created"":""Thu, 29 Apr 1999 14:30:24 GMT""}]","2009-10-31"
+"hep-th/9901067","Aleksandr Zheltukhin","D.V.Uvarov, A.A.Zheltuklhin","N=2 Massive superparticle: the Minimality Principle and the k-symmetry","20 pages, Latex, no figures","Phys. Rev. D 61, 015004 (1999)","10.1103/PhysRevD.61.015004","USITP-98-23","hep-th",,"  The electromagnetic interaction of massive superparticles with N=2 extended
+Maxwell supermultiplet is studied. It is proved that the minimal coupling
+breaks the k-symmetry. A non-minimal k-symmetric action is built and it is
+established that the k-symmetry uniquely fixes the value of the superparticle's
+anomalous magnetic moment
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 11:57:59 GMT""}]","2016-08-25"
+"hep-th/9901068","Angelo Galante","Vicente Azcoiti, Angelo Galante","Parity and CT realization in QCD","11 pages. Some comments added in the conclusions; final version to
+  appear in Phys. Rev. Lett","Phys.Rev.Lett. 83 (1999) 1518-1520","10.1103/PhysRevLett.83.1518","DFTUZ 98/34","hep-th hep-lat",,"  We show that an essential assumption in the Vafa and Witten's theorem on P
+and CT realization in vector-like theories, the existence of a free energy
+density in Euclidean space in the presence of any external hermitian symmetry
+breaking source, does not apply if the symmetry is spontaneously broken. The
+assumption that the free energy density is well defined requires the previous
+assumption that the symmetry is realized in the vacuum. Even if Vafa and
+Witten's conjecture is plausible, actually a theorem is still lacking.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 14:36:16 GMT""},{""version"":""v2"",""created"":""Mon, 19 Jul 1999 17:42:44 GMT""}]","2009-10-31"
+"math/9901066","Naihuan Jing","Naihuan Jing","New twisted quantum current algebras","10 pages, Amslatex, revised version","in Representations and Quantizations, China High Educ Press and
+  Springer, 2000, pp263-274",,,"math.QA",,"  We introduce a twisted quantum affine algebra associated to each simply laced
+finite dimensional simple Lie algebra. This new algebra is a Hopf algebra with
+a Drinfeld-type comultiplication. We obtain this algebra by considering its
+vertex representation. The vertex representation quantizes the twisted vertex
+operators of Lepowsky-Wilson and Frenkel-Lepowsky-Meurman. We also introduce a
+twisted quantum loop algebra for the Kac-Moody case and give its level one
+representation.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1999 16:21:54 GMT""},{""version"":""v2"",""created"":""Fri, 5 Feb 1999 23:15:07 GMT""},{""version"":""v3"",""created"":""Tue, 27 Jul 1999 17:15:28 GMT""}]","2007-05-23"
+"math/9901067","Tetsuji Miwa","Boris Feigin and Tetsuji Miwa","Extended vertex operator algebras and monomial bases","To appear in the Festschrift in honor of Prof. McGuire published by
+  World Scientific PC. In the present version several corrections are made",,,,"math.QA math.RT",,"  We present a vertex operator algebra which is an extension of the level $k$
+vertex operator algebra for the $\hat{sl}_2$ conformal field theory. We
+construct monomial basis of its irreducible representations.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 02:56:06 GMT""}]","2007-05-23"
+"physics/9901024","Igor P. Omelyan","Igor P. Omelyan","A new approach to the integration of rotational motion in systems with
+  interacting rigid bodies","27 pages, 2 figures; submitted to J. Comput. Phys",,,,"physics.comp-ph physics.chem-ph",,"  A new approach is developed to integrate numerically the equations of motion
+for systems of interacting rigid polyatomic molecules. With the aid of a
+leapfrog framework, we directly involve principal angular velocities into the
+integration, whereas orientational positions are expressed in terms of either
+principal axes or quaternions. As a result, the rigidness of molecules appears
+to be an integral of motion, despite the atom trajectories are evaluated
+approximately. The algorithm derived is free of any iterative procedures and it
+allows to perform both energy- and temperature-conserving simulations. The
+corresponding integrators are time reversible but the symplectic behaviour is
+only achieved in mean. Symplectic versions are also described. The provide the
+conservation of volume in phase space precisely at each time step and,
+moreover, lead to exact solutions for angular velocities in the inertial-motion
+regime. It is shown that the algorithm exhibits excellent stability properties
+and conserves the energy even somewhat better than the atomic-constraint
+technique.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 12:54:05 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1999 15:59:16 GMT""}]","2007-05-23"
+"quant-ph/9901047","Paolo-Zanardi","Paolo Zanardi (Institute for Scientific Interchange Foundation, and
+  Unit\`a INFM, Politecnico di Torino)","Computation on a Noiseless Quantum Code and Symmetrization","One result added, to appear in Phys. Rev. A (RC) 4 pages LaTeX, no
+  figures","Phys. Rev. A 60 (1999) R729","10.1103/PhysRevA.60.R729",,"quant-ph",,"  Let ${\cal H}$ be the state-space of a quantum computer coupled with the
+environment by a set of error operators spanning a Lie algebra ${\cal L}.$
+Suppose ${\cal L}$ admits a noiseless quantum code i.e., a subspace ${\cal
+C}\subset{\cal H}$ annihilated by ${\cal L}.$ We show that a universal set of
+gates over $\cal C$ is obtained by any generic pair of ${\cal L}$-invariant
+gates. Such gates - if not available from the outset - can be obtained by
+resorting to a symmetrization with respect to the group generated by ${\cal
+L}.$ Any computation can then be performed completely within the coding
+decoherence-free subspace.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1999 17:41:45 GMT""},{""version"":""v2"",""created"":""Wed, 9 Jun 1999 09:15:00 GMT""}]","2009-10-31"
+"quant-ph/9901048","De-Horng Lin","De-Hone Lin","Path Integral on Relativistic Spinless Potential Problems","4 pages, LaTeX file uses sprocl.sty, Talk given at the sixth
+  International Conference on Path-Integrals from peV to TeV 50 Years from
+  Feynman's Paper, Florence, Italy, 25-29 August 1998, to appear in the
+  Proceedings",,,,"quant-ph",,"  The formulation of the relativistic spinless path integral on the general
+affine space is presented. For the one dimensional space, the Duru-Kleinert
+(DK) method and the $\delta $-function perturbation technique are applied to
+solve the relativistic path integrals of the smooth potential and the Dirichlet
+boundary condition problems, respectively.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 02:04:40 GMT""}]","2007-05-23"
+"quant-ph/9901049","De-Horng Lin","De-Hone Lin","Quantum Conditions of the Relativistic Potential Problems","10 pages, ReVTeX, no figures",,,,"quant-ph",,"  The quantum conditions of the relativistic integrable systems whose classical
+motion is multiply periodic are given by considering the single-valuedness of
+the linear superposition of the approximate solutions $R_{i}\exp
+{\{iS_{i}/\hbar \}}$ with $R_{i}$ and $S_{i}$ being the solutions of the
+different branches of the current conservation equation and the relativistic
+Hamilton-Jacobian equation, respectively.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 02:05:21 GMT""}]","2007-05-23"
+"quant-ph/9901050","De-Horng Lin","De-Hone Lin","Quantization via Classical Orbits","8 pages, ReVTeX, no figures",,,,"quant-ph",,"  A systematic method for calculating higher-order corrections of the
+relativistic semiclassical fixed-energy amplitude is given. The central scheme
+in computing corrections of all orders is related to a time ordering operation
+of an operator involving the Van Vleck determinant. This study provides us a
+new viewpoint for quantization.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 02:05:50 GMT""}]","2007-05-23"
+"quant-ph/9901051","De-Horng Lin","De-Hone Lin","Green's Function of the Relativistic Coulomb System via Duru-Kleinert
+  Method","10 pages, ReVTeX, no figures",,,,"quant-ph",,"  In this paper the fixed-energy amplitude (Green's function) of the
+relativistic Coulomb system is solved by Duru-Kleinert (DK) method. In the
+course of the calculations we observe an equivalence between the relativistic
+Coulomb system and a radial oscillator.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 02:06:13 GMT""}]","2007-05-23"
+"quant-ph/9901052","De-Horng Lin","De-Hone Lin","Green's function for the Relativistic Coulomb System via Sum Over
+  Perturbation Series","13 pages, ReVTeX, no figures","J.Phys.A31:7577,1998","10.1088/0305-4470/31/37/015",,"quant-ph",,"  We evaluate the Green's function of the D-dimensional relativistic Coulomb
+system via sum over perturbation series which is obtained by expanding the
+exponential containing the potential term $V({\bf x)}$ in the path integral
+into a power series. The energy spectra and wave functions are extracted from
+the resulting amplitude.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 02:06:44 GMT""}]","2008-11-26"
+"quant-ph/9901053","Vladimir Buzek","V. Buzek, M. Hillery, and R. Werner","Optimal Manipulations with Qubits: Universal NOT Gate","4 pages, revtex",,,,"quant-ph",,"  It is not a problem to complement a classical bit, i.e. to change the value
+of a bit, a 0 to a 1 and vice versa. This is accomplished by a NOT gate.
+Complementing a qubit in an unknown state, however, is another matter. We show
+that this operation cannot be done perfectly. We define the Universal-NOT
+(U-NOT) gate which out of N identically prepared pure input qubits generates M
+output qubits in a state which is as close as possible to the perfect
+complement. This gate can be realized by classical estimation and subsequent
+re-preparation of complements of the estimated state. Its fidelity is therefore
+equal to the fidelity F= (N+1)/(N+2) of optimal estimation, and does not depend
+on the required number of outputs. We also show that when some additional a
+priori information about the state of input qubit is available, than the
+fidelity of the quantum NOT gate can be much better than the fidelity of
+estimation.
+","[{""version"":""v1"",""created"":""Sun, 17 Jan 1999 11:12:21 GMT""}]","2007-05-23"

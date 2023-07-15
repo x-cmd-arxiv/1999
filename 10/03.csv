@@ -1,0 +1,267 @@
+"astro-ph/9910033","Hitoshi Hanami","Hitoshi Hanami","Statistics of Merging Peaks of Random Gaussian Fluctuations: Skeleton
+  Tree Formalism","16 pages, 4 figures, submitted to MNRAS at 28th July, not yet
+  refereed until 4th Oct","Mon.Not.Roy.Astron.Soc. 327 (2001) 721","10.1046/j.1365-8711.2001.04652.x",,"astro-ph",,"  In order to study the statistics of the objects with hierarchical merging, we
+propose the skeleton tree formalism, which can analytically distinguish the
+episodic merging and the continuous accretion in the mass growth processes. The
+distinction was not clear in extended Press-Schechter (PS) formalism. The
+skeleton tree formalism is a natural extension of the peak theory which is an
+alternative formalism for the statistics of the bound objects. The fluctuation
+field smoothing with Gaussian filter produces the landscape with adding the
+extra-dimension of the filter resolution scale to the spatial coordinate of the
+original fluctuation. In the landscape, some smoothing peaks are nesting into
+the neighboring peaks at a type of critical points called sloping saddles
+appears, which can be interpreted as merging events of the objects in the
+context of the hierarchical structure formation. The topological properties of
+the landscape can be abstracted in skeleton trees, which consist of line
+process of the smoothing peaks and the point process of the sloping saddles.
+According to this abstract topological picture, in this paper, we present the
+concept and the basic results of the skeleton tree formalism to describe (1)
+the distinction between the accretion and the merger in the hierarchical
+structure formation from various initial random Gaussian fields; (2) the
+instantaneous number density of the sloping saddles which gives the
+instantaneous scale function of the objects with the destruction and
+reformation in the mergers; (3) the rates of the destruction, the reformation,
+and the relative accretion growth; (4) the self-consistency of the formalism
+for the statistics of the mass growth processes of the objects; (5) the mean
+growth history of the objects at the fixed mass.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 16:24:23 GMT""}]","2009-10-31"
+"astro-ph/9910034","Andrew MacFadyen","A. I. MacFadyen, S. E. Woosley, and A. Heger","Supernovae, Jets, and Collapsars","Submitted to ApJ, 43 pages, 14 figures (6 color), paper with full
+  resolution figures will be available at http://www.ucolick.org/~andrew","Astrophys.J.550:410,2001","10.1086/319698",,"astro-ph",,"  We consider the explosion of supernovae and the possible production of a
+variety of high energy transients by delayed black hole formation in massive
+stars endowed with rotation. Following the launch of a ``successful'' shock by
+the usual neutrino powered mechanism, the inner layers of the star move
+outwards, but lack adequate energy to eject all the matter exterior to the
+neutron star. Over a period of minutes to hours a variable amount of mass,
+about 0.1 to 5 solar masses falls back into the collapsed remnant, often
+turning it into a black hole and establishing an accretion disk. The accretion
+rate, about 0.001 to 0.01 solar masses per second, is inadequate to produce a
+jet mediated by neutrino annihilation, but similar to that invoked in
+magnetohydrodynamic (MHD) models for gamma-ray bursts (GRBs). We thus consider
+the effect of jets formed by ``fallback'' in stars that are already in the
+process of exploding. We justify a parameterization of the jet power as a
+constant times the mass accretion rate, $\epsilon \dot {\rm M} c^2$, and
+explore the consequences of $\epsilon$ = 0.001 and 0.01. In supergiants, shock
+breakout produces bright x-ray transients that might be a diagnostic of the
+model. Jets produced by fallback should be more frequent than those made by the
+prompt formation of a black hole and may power the most common form of
+gamma-ray transient in the universe, although not the most common form seen so
+far by BATSE. Those are still attributed to prompt black hole formation, but it
+may be that the diverse energies observed for GRBs so far reflect chiefly the
+variable collimation of the jet inside the star and a consequently highly
+variable fraction of relativistic ejecta. Indeed, these events may all have a
+common total energy near 10$^{52}$ erg.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 21:50:42 GMT""}]","2011-02-11"
+"astro-ph/9910035","Nissim Kanekar","T. Padmanabhan (1) and Nissim Kanekar (2) ((1) Inter-University for
+  Astronomy and Astrophysics, Pune, India, (2) National Centre for Radio
+  Astrophysics, Pune, India)","Gravitational clustering in a D-dimensional Universe","4 pages, no figures. Accepted by Physical Review D","Phys.Rev. D61 (2000) 023515","10.1103/PhysRevD.61.023515",,"astro-ph",,"  We consider the problem of gravitational clustering in a D-dimensional
+expanding Universe and derive scaling relations connecting the exact mean
+two-point correlation function with the linear mean correlation function, in
+the quasi-linear and non-linear regimes, using the standard paradigms of
+scale-invariant radial collapse and stable clustering. We show that the
+existence of scaling laws is a generic feature of gravitational clustering in
+an expanding background, in all dimensions except D=2 and comment on the
+special nature of the 2-dimensional case. The D-dimensional scaling laws
+derived here reduce, in the 3-dimensional case, to scaling relations obtained
+earlier from N-body simulations. Finally, we consider the case of clustering of
+2-dimensional particles in a 2-D expanding background, governed by a force
+-GM/R, and show that the correlation function does not grow (to first order)
+until much after the recollapse of any shell.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1999 05:43:40 GMT""}]","2009-10-31"
+"astro-ph/9910036","Takashi Murayama","Yoshiaki Taniguchi, Takashi Murayama, & Tohru Nagao (Tohoku
+  University)","What Are Narrow-Line Seyfert 1 Galaxies ?: Toward A
+  Viewing-Angle-Dependent Unified Model for Seyfert Galaxies","Submitted to the Astrophysical Journal, emulateapj.sty, 20 pages",,,,"astro-ph",,"  Recently growing evidence has been accumulated that the NLS1s are viewed from
+nearly pole-on viewing angles. However, there has been no theoretical model
+which explains the following important correlations; 1) weaker optical Fe II
+emitters always have wider emission-line widths but stronger optical Fe II
+emitters have either wider or narrower line widths, and 2) S1s with wider line
+widths always have flatter soft X-ray spectra but S1s with narrower line widths
+have either steeper or flatter soft X-ray spectra.
+  Photoionization models predict that the partly-ionized zone in the broad line
+region (BLR) with a disk-like configuration, in which the optical Fe II
+emission is thought to arise, is very optically thick. If we observe this
+disk-like BLR from an inclined viewing angle, the Fe II emitting region located
+in the far-side half disk cannot be seen entirely because of the large optical
+depth while almost all the Hbeta emission can be seen because the ionized
+hydrogen is located in the outer surfaces of BLR clouds. This explains that the
+Fe II/Hbeta ratio depends on viewing angle.
+  Recent discovery of relativistic outflows in some NLS1s suggests that the
+nuclear radio jet interacts with the dense ambient gas very close to the
+central engine. The kinetic Doppler effect increases the soft X-ray
+luminosities if we observe S1s from a nearly pole-on view given the above range
+of beta. These explain why NLS1s tend to have steeper soft X-ray spectra
+together with higher soft X-ray luminosities. Furthermore, the extinction of
+soft X-ray photons due to dust grain above the dusty tori are expected to more
+serious for the BLS1s than for the NLS1s. We thus suggest that these
+orientation effects are responsible for the second important correlation.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1999 07:40:13 GMT""}]","2007-05-23"
+"cond-mat/9910017","Cynthia J. Olson","C. J. Olson and C. Reichhardt","Transverse depinning in strongly driven vortex lattices with disorder","4 pages, 4 figures","Phys. Rev. B 61, R3811 (2000).","10.1103/PhysRevB.61.R3811",,"cond-mat.supr-con",,"  Using numerical simulations we investigate the transverse depinning of moving
+vortex lattices interacting with random disorder. We observe a finite
+transverse depinning barrier for vortex lattices that are driven with high
+longitudinal drives, when the vortex lattice is defect free and moving in
+correlated 1D channels. The transverse barrier is reduced as the longitudinal
+drive is decreased and defects appear in the vortex lattice, and the barrier
+disappears in the plastic flow regime. At the transverse depinning transition,
+the vortex lattice moves in a staircase pattern with a clear transverse
+narrow-band voltage noise signature.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 20:19:47 GMT""}]","2009-10-31"
+"cond-mat/9910018","K. Das Gupta","K. Das Gupta, G. Sambandamurthy, V.H.S. Moorthy, N. Chandrasekhar","Magnetoresistance and conductivity exponents of quench-condensed
+  ultra-thin films of Bi","2 pages, 2 eps figures included",,,,"cond-mat.supr-con",,"  We have studied the magnetoresistance (MR) and evolution of conductivity with
+thickness of quench-condensed Bismuth films on substrates of various dielectric
+constants. Our results indicate a negative intial MR proportional to the square
+of the magnetic field. The conductance shows a power-law kind of dependence on
+thickness, with an exponent close to 1.33, characterisitic of a 2-D percolating
+system, only when the films are grown on a thin ($\sim 10${\rm \AA} Germanium
+underlayer but not otherwise.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 22:32:10 GMT""}]","2007-05-23"
+"cond-mat/9910019","Tapash Chakraborty","Tapash Chakraborty (Max Planck Institute for Physics of Complex
+  Systems, Dresden, Germany) and Pekka Pietil\""ainen (Theoretical Physics,
+  University of Oulu, Oulu, Finland)","Temperature dependence of spin polarizations at higher Landau Levels","4 pages, REVTEX, and 3 .ps files, To be published in Physical Review
+  Letters",,"10.1103/PhysRevLett.83.5559",,"cond-mat.mes-hall",,"  We report our results on temperature dependence of spin polarizations at
+$\nu=1$ in the lowest as well as in the next higher Landau level that compare
+well with recent experimental results. At $\nu=3$, except having a much smaller
+magnitude the behavior of spin polarization is not much influenced by higher
+Landau levels. In sharp contrast, for filling factor $\nu=\frac83$ we predict
+that unlike the case of $\nu=\frac23$ the system remains fully spin polarized
+even at vanishingly small Zeeman energies.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1999 10:22:53 GMT""}]","2009-10-31"
+"hep-ex/9910006","Salvatore Mele","L3 Collaboration","Search for Scalar Leptons in e+e- collisions at \sqrt{s}=189 GeV",,"Phys.Lett.B471:280-292,1999","10.1016/S0370-2693(99)01314-3","CERN-EP/99-128","hep-ex",,"  We report the result of a search for scalar leptons in e+e- collisions at 189
+GeV centre-of-mass energy at LEP. No evidence for such particles is found in a
+data sample of 176 pb^{-1}. Improved upper limits are set on the production
+cross sections for these new particles. New exclusion contours in the parameter
+space of the Minimal Supersymmetric Standard Model are derived, as well as new
+lower limits on the masses of these supersymmetric particles. Under the
+assumptions of common gaugino and scalar masses at the GUT scale, we set an
+absolute lower limit on the mass of the lightest scalar electron of 65.5 GeV
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 17:45:56 GMT""}]","2012-08-27"
+"hep-ex/9910007","Salvatore Mele","L3 Collaboration","Search for Charginos and Neutralinos in e+e- collisions at \sqrt{s} =
+  189 Gev",,"Phys.Lett.B472:420-433,2000","10.1016/S0370-2693(99)01388-X","CERN-EP/99-127","hep-ex",,"  We report the result of a search for charginos and neutralinos, in e+e-
+collisions at 189 GeV centre-of-mass energy at LEP. No evidence for such
+particles is found in a data sample of 176 pb^{-1}. Improved upper limits for
+these particles are set on the production cross sections. New exclusion
+contours in the parameter space of the Minimal Supersymmetric Standard Model
+are derived, as well as new lower limits on the masses of these supersymmetric
+particles. Under the assumptions of common gaugino and scalar masses at the GUT
+scale, we set an absolute lower limit on the mass of the lightest neutralino of
+32.5 GeV and on the mass of the lightest chargino of 67.7 GeV.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 17:40:47 GMT""}]","2012-08-27"
+"hep-ex/9910008","Salvatore Mele","L3 Collaboration","Measurement of Triple-Gauge-Boson Couplings of the W Boson at LEP",,"Phys.Lett.B467:171-184,1999","10.1016/S0370-2693(99)01195-8","CERN-EP/99-131","hep-ex",,"  We report on measurements of the triple-gauge-boson couplings of the W boson
+in e+e- collisions with the L3 detector at LEP. W-pair, single-W and
+single-photon events are analysed in a data sample corresponding to a total
+luminosity of 76.7 pb^{-1} collected at centre-of-mass energies between 161 GeV
+and 183 GeV. CP-conserving as well as both C- and P-conserving
+triple-gauge-boson couplings are determined. The results, in good agreement
+with the Standard-Model expectations, confirm the existence of the self
+coupling among the electroweak gauge bosons and constrain its structure.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 20:12:51 GMT""}]","2012-08-27"
+"hep-ex/9910009","Salvatore Mele","L3 Collaboration","Single and Multi-Photon Events with Missing Energy in e+e- Collisions at
+  \sqrt{s} = 189 GeV",,"Phys.Lett.B470:268-280,1999","10.1016/S0370-2693(99)01286-1","CERN-EP/99-129","hep-ex",,"  Single and multi-photon events with missing energy are analysed using data
+collected with the L3 detector at LEP at a centre-of-mass energy of 189 GeV,
+for a total of 176 pb^{-1} of integrated luminosity. The cross section of the
+process e+e- -> nu nu gamma (gamma) is measured and the number of light
+neutrino flavours is determined to be N_\nu = 3.011 +/- 0.077 including lower
+energy data. Upper limits on cross sections of supersymmetric processes are set
+and interpretations in supersymmetric models provide improved limits on the
+masses of the lightest neutralino and the gravitino. Graviton-photon production
+in low scale gravity models with extra dimensions is searched for and limits on
+the energy scale of the model are set exceeding 1 TeV for two extra dimensions.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 21:33:12 GMT""}]","2012-08-27"
+"hep-ph/9910211","Patricia Ball","Patricia Ball, J.-M. Frere and J. Matias","Anatomy of Mixing-Induced CP Asymmetries in Left-Right-Symmetric Models
+  with Spontaneous CP Violation","33 pages Latex with 11 Postscript-Figures (included)","Nucl.Phys.B572:3-35,2000","10.1016/S0550-3213(99)00824-X","CERN-99/TH-297, ULB-TH-20","hep-ph",,"  We investigate the pattern of CP violation in K, B_d and B_s mixing in a
+symmetrical SU(2)_R x SU(2)_L x U(1) model with spontaneous CP violation. We
+calculate the phases of the left and right quark mixing matrices beyond the
+small phase approximation and perform a careful analysis of all relevant
+restrictions on the model's parameters from Delta m_K, Delta m_B, epsilon,
+epsilon'/epsilon and the CP asymmetry in B->J/psi K_S. We find that, with
+current experimental data, the mass of the right-handed charged gauge boson,
+M2, is restricted to be in the range 2.75 to 13 TeV and the mass of the
+flavour-changing neutral Higgs boson, MH, in 10.2 to 14.6 TeV. This means in
+particular that the decoupling limit M2, MH -> infinity is already excluded by
+experiment. We also find that the model favours opposite signs of epsilon and
+sin 2beta and is excluded if sin 2beta > 0.1.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 16:43:43 GMT""}]","2008-11-26"
+"hep-ph/9910213","Dr. Amon Ilakovac","A. Ilakovac","Lepton Flavor Violation in the Standard Model Extended by Heavy Singlet
+  Dirac Neutrinos","38 pages, latex, two postscript figures","Phys.Rev. D62 (2000) 036010","10.1103/PhysRevD.62.036010","ZTF-99-12","hep-ph",,"  Low energy neutrinoless lepton flavor violating (LFV) processes are studied
+in an extension of the Standard Model (SM) by heavy SU(2)xU(1) singlet Dirac
+neutrinos. An upper bound procedure is elaborated for the evaluation of
+amplitudes. A comment on the extraction of heavy neutrino mixings from
+astrophysical observations is given. For processes not treated in the applied
+model the formalism not treated in the applied model the formalism for
+evaluating the branching ratios (BRs) is presented. The processes previously
+studied in the model are carefully examined. Some of the previous results are
+improved. Special attention is paid to the structure of the amplitudes and BRs
+as well as to the relations between BRs of different LFV processes. Numerical
+analysis of the BRs is done. The decoupling of heavy neutrinos is discussed and
+it is explicitely shown that the very heavy neutrinos decouple when the upper
+bound procedure is applied. The upper limits of the BRs are compared with the
+current experimental upper bounds and the processes interesting for the search
+for LFV are proposed. The LFV decays are shown to be unsuitable for finding
+upper bounds on ""diagonal"" LFV parameters. The B-meson LFV processes are
+suggested for the search of LFV in future B-factories.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1999 15:42:19 GMT""}]","2009-10-31"
+"hep-th/9910021","Linde","Renata Kallosh, Andrei Linde, and Marina Shmakova","Supersymmetric Multiple Basin Attractors","14 pages, 1 fig, JHEP, added proof of positivity of vector metric at
+  critical points, analysis of interpolating solutions, and refs","JHEP 9911:010,1999","10.1088/1126-6708/1999/11/010","CERN-TH/99-305","hep-th gr-qc hep-ph",,"  We explain that supersymmetric attractors in general have several critical
+points due to the algebraic nature of the stabilization equations. We show that
+the critical values of the cosmological constant of the adS_5 vacua are given
+by the topological (moduli independent) formulae analogous to the entropy of
+the d=5 supersymmetric black holes. We present conditions under which more than
+one critical point is available (for black hole entropy as well as to the
+cosmological constant) so that the system tends to its own locally stable
+attractor point. We have found several families of Z_2-symmetric critical
+points where the central charge has equal absolute values but opposite signs in
+two attractor points. We present examples of interpolating solutions and
+discuss their generic features.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 23:09:50 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1999 23:25:01 GMT""},{""version"":""v3"",""created"":""Sun, 17 Oct 1999 19:26:00 GMT""}]","2009-10-31"
+"hep-th/9910024",,"J. Boguszynski (1), H. D. Dahmen (2), R. Kretschmer (2), L. Lukaszuk
+  (1) ((1) Soltan Institute for Nuclear Studies, Warsaw, Poland, (2) Siegen
+  University, Siegen, Germany)","Multi-channel Bethe-Salpeter equation","16 pages. Extended version published in JHEP. Uses JHEP.cls
+  (included)","JHEP 0011:002,2000","10.1088/1126-6708/2000/11/002","SI-99-8","hep-th",,"  A general form of multi-channel Bethe-Salpeter equation is considered. In
+contradistinction to the hitherto applied approaches, our coupled system of
+equations leads to the simultaneous solutions for all relativistic four-point
+Green functions (elastic and inelastic) appearing in a given theory. A set of
+relations which may be helpful in approximate treatments is given. An example
+of extracting useful information from the equations is discussed: we consider
+the most general trilinear coupling of N different scalar fields and obtain -
+in the ladder approximation - closed expressions for the Regge trajectories and
+their couplings to different channels in the vicinity of l = -1. Sum rules and
+an example containing non-obvious symmetry are discussed.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1999 15:09:26 GMT""},{""version"":""v2"",""created"":""Thu, 14 Dec 2000 13:40:58 GMT""}]","2010-02-03"
+"math-ph/9910006","Zorka Papadopolos","Oleg Ogievetsky, Zorka Papadopolos","On Quasiperiodic Space Tilings, Inflation and Dehn Invariants","LaTeX file, 25 pages + 9 figures (Fig1.gif, Fig2.gif... Fig9.gif);
+  hard copies with all figures are available from the authors",,,,"math-ph math.MP",,"  We introduce Dehn invariants as a useful tool in the study of the inflation
+of quasiperiodic space tilings. The tilings by ``golden tetrahedra'' are
+considered. We discuss how the Dehn invariants can be applied to the study of
+inflation properties of the six golden tetrahedra. We also use geometry of the
+faces of the golden tetrahedra to analyze their inflation properties. We give
+the inflation rules for decorated Mosseri-Sadoc tiles in the projection class
+of tilings ${\cal T}^{(MS)}$. The Dehn invariants of the Mosseri-Sadoc tiles
+provide two eigenvectors of the inflation matrix with eigenvalues equal to
+$\tau = \frac{1+\sqrt{5}}{2}$ and $-\frac{1}{\tau}$, and allow to reconstruct
+the inflation matrix uniquely.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 16:52:01 GMT""}]","2007-05-23"
+"math-ph/9910007","Andrey M. Shirokov","J. M. Bang (1), A. I. Mazur (2), A. M. Shirokov (1,3,4), Yu. F.
+  Smirnov (3,5) and S. A. Zaytsev (2,3) ((1) Niels Bohr Institute, Copenhagen,
+  (2) Khabarovsk State Technical University, (3) Moscow State University, (4)
+  Iowa State University, (5) Universidad Nacional Autonoma de Mexico)","P-matrix and J-matrix approaches. Coulomb asymptotics in the harmonic
+  oscillator representation of scattering theory","Revtex, 57 pages including 15 figures; to be published in Annals of
+  Physics",,"10.1006/aphy.1999.5992",,"math-ph math.MP quant-ph",,"  The relation between the R- and P-matrix approaches and the harmonic
+oscillator representation of the quantum scattering theory (J-matrix method) is
+discussed. We construct a discrete analogue of the P-matrix that is shown to be
+equivalent to the usual P-matrix in the quasiclassical limit. A definition of
+the natural channel radius is introduced. As a result, it is shown to be
+possible to use well-developed technique of R- and P-matrix theory for
+calculation of resonant states characteristics, scattering phase shifts, etc.,
+in the approaches based on harmonic oscillator expansions, e.g., in nuclear
+shell-model calculations. P-matrix is used also for formulation of the method
+of treating Coulomb asymptotics in the scattering theory in oscillator
+representation.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1999 15:05:14 GMT""}]","2009-10-31"
+"math/9910008","Eugene Z. Xia","Joseph P. Previte, Eugene Z. Xia","Topological Dynamics on Moduli Spaces, I","22 pages, 1 figure in Postscript format",,,,"math.DS",,"  Let M be a one-holed torus with boundary $\partial M$ (a circle) and $\Gamma$
+the mapping class group of M fixing $\partial M$. The group $\Gamma$ acts on
+${\mathcal M}_{\mathcal C}(SU(2))$ which is the space of SU(2)-gauge
+equivalence classes of flat SU(2)-connections on M with fixed holonomy on
+$\partial M$. We study the topological dynamics of the $\Gamma$-action and give
+conditions for the individual $\Gamma$-orbits to be dense in ${\mathcal
+M}_{\mathcal C}(SU(2))$.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 20:42:41 GMT""},{""version"":""v2"",""created"":""Thu, 7 Oct 1999 00:01:55 GMT""}]","2007-05-23"
+"physics/9910003","Haret Rosu","Erwin Schroedinger","The factorization of the hypergeometric equation","2 pages, LaTexed by H.C. Rosu","Proc. Roy. Irish Ac. 46 A (1941) 53-54",,,"physics.hist-ph",,"  Schroedinger's famous quadruple of factorizations of the hypergeometric
+equation is archived here
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1999 23:23:35 GMT""}]","2007-05-23"

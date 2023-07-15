@@ -1,0 +1,421 @@
+"astro-ph/9912518","S. C. Tripathy","Kiran Jain, S.C. Tripathy, A. Bhatnagar and B. Kumar","Empirical estimate of p-mode frequency shift for solar cycle 23","Submitted to Solar Physics. Uses Kluwer.sty. Also available at
+  http://www.uso.ernet.in/~sushant","Solar Phys. 2000, 192, 487","10.1023/A:1005207921440",,"astro-ph",,"  We have obtained empirical relations between the p-mode frequency shift and
+the change in solar activity indices. The empirical relations are determined on
+the basis of frequencies obtained from BBSO and GONG stations during solar
+cycle 22. These relations are applied to estimate the change in mean frequency
+for the cycle 21 and 23. A remarkable agreement between the calculated and
+observed frequency shifts for the ascending phase of cycle 23 indicates that
+the derived relations are independent of epoch and do not change significantly
+from cycle to cycle. We propose that these relations could be used to estimate
+the shift in p-mode frequencies for past, present and future solar activity
+cycles, if the solar activity index is known. The maximum frequency shift for
+cycle 23 is estimated to be 265 \pm 90 nHz corresponding to the predicted
+maximum smoothed sunspot number 118.1 \pm 35.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 12:03:35 GMT""}]","2015-06-24"
+"astro-ph/9912519","Joao Braga","Joao Braga, Marildo G. Pereira and Francisco J. Jablonski","Evidence for a 304-day Orbital Period for GX 1+4","5 pages, 2 figures, 1 single PS file, to appear in ""Proceedings of
+  the 5th Compton Symposium on Gamma-Ray Astrophysics"", AIP",,"10.1063/1.1303200",,"astro-ph",,"  In this paper we report strong evidence for a ~304-day periodicity in the
+spin history of the accretion-powered pulsar GX 1+4 that is very likely to be a
+signature of the orbital period of the system. Using BATSE public-domain data,
+we show a highly-significant periodic modulation of the pulsar frequency from
+1991 to date which is in excellent agreement with the ephemeris proposed by
+Cutler, Dennis & Dolan in 1986, which were based on a few events of enhanced
+spin-up that occurred during the pulsar's spin-up era in the 1970s. Our results
+indicate that the orbital period of GX 1+4 is 303.8+-1.1 days, making it by far
+the widest low-mass X-ray binary system known. A likely scenario for this
+system is an elliptical orbit in which the neutron star decreases its spin-down
+rate (or even exhibits a momentary spin-up behavior) at periastron passages due
+to the higher torque exerted by the accretion disk onto the magnetosphere of
+the neutron star.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 14:38:26 GMT""}]","2009-10-31"
+"cond-mat/9912450","Chao Tang","Chao Tang (NEC Research Institute)","Simple Models of the Protein Folding Problem","21 pages, 14 figures. Invited talk at Dynamics Days Asian Pacific,
+  Hong Kong, July 13-16, 1999. To appear in Physica A","Physica A, vol.288, p31 (2000).","10.1016/S0378-4371(00)00413-1",,"cond-mat.stat-mech cond-mat.soft q-bio.BM",,"  The protein folding problem has attracted an increasing attention from
+physicists. The problem has a flavor of statistical mechanics, but possesses
+the most common feature of most biological problems -- the profound effects of
+evolution. I will give an introduction to the problem, and then focus on some
+recent work concerning the so-called ``designability principle''. The
+designability of a structure is measured by the number of sequences that have
+that structure as their unique ground state. Structures differ drastically in
+terms of their designability; highly designable structures emerge with a number
+of associated sequences much larger than the average. These highly designable
+structures 1) possess ``proteinlike'' secondary structures and motifs, 2) are
+thermodynamically more stable, and 3) fold faster than other structures. These
+results suggest that protein structures are selected in nature because they are
+readily designed and stable against mutations, and that such selection
+simultaneously leads to thermodynamic stability and foldability. According to
+this picture, a key to the protein folding problem is to understand the
+emergence and the properties of the highly designable structures.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 22:45:29 GMT""}]","2009-10-31"
+"cond-mat/9912451","Jong Hoon Jung","J. H. Jung, H. J. Lee, T. W. Noh, E. J. Choi, Y. Moritomo, Y. J. Wang,
+  and X. Wei","Melting of Charge/Orbital Ordered States in Nd$_{1/2}$Sr$_{1/2}$MnO$_3$:
+  Temperature and Magnetic Field Dependent Optical Studies","submitted to Phys. Rev. B",,"10.1103/PhysRevB.62.481",,"cond-mat.str-el",,"  We investigated the temperature ($T=$ 15 $\sim $ 290 K) and the magnetic
+field ($H=$ 0 $\sim $ 17 T) dependent optical conductivity spectra of a
+charge/orbital ordered manganite, Nd$_{1/2}$Sr$_{1/2}$MnO$_3$. With variation
+of $T$ and $H$, large spectral weight changes were observed up to 4.0 eV. These
+spectral weight changes could be explained using the polaron picture.
+Interestingly, our results suggested that some local ordered state might remain
+above the charge ordering temperature, and that the charge/orbital melted state
+at a high magnetic field (i.e. at $H=$ 17 T and $% T=$ 4.2 K) should be a three
+dimensional ferromagnetic metal. We also investigated the first order phase
+transition from the charge/orbital ordered state to ferromagnetic metallic
+state using the $T$- and $H$% -dependent dielectric constants $\epsilon_1$. In
+the charge/orbital ordered insulating state, $\epsilon_1$ was positive and
+$d\epsilon_1/d\omega \approx 0$. With increasing $T$ and $H$, $\epsilon_1$ was
+increased up to the insulator-metal phase boundaries. And then, $\epsilon_1$
+abruptly changed into negative and $d\epsilon_1/d\omega >0$, which was
+consistent with typical responses of a metal. Through the analysis of $%
+\epsilon_1$ using an effective medium approximation, we found that the melting
+of charge/orbital ordered states should occur through the percolation of
+ferromagnetic metal domains.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 02:18:18 GMT""}]","2009-10-31"
+"cond-mat/9912452","Hangmo Yi","Hangmo Yi","Resonant tunneling and the multichannel Kondo problem: the quantum
+  Brownian motion description",,,"10.1103/PhysRevB.65.195101",,"cond-mat.mes-hall",,"  We study mesoscopic resonant tunneling as well as multichannel Kondo problems
+by mapping them to a first-quantized quantum mechanical model of a particle
+moving in a multi-dimensional periodic potential with Ohmic dissipation. From a
+renormalization group analysis, we obtain phase diagrams of the quantum
+Brownian motion model with various lattice symmetries. For a symmorphic
+lattice, there are two phases at T=0: a localized phase in which the particle
+is trapped in a potential minimum, and a free phase in which the particle is
+unaffected by the periodic potential. For a non-symmorphic lattice, however,
+there may be an additional intermediate phase in which the particle is neither
+localized nor completely free. The fixed point governing the intermediate phase
+is shown to be identical to the well-known multichannel Kondo fixed point in
+the Toulouse limit as well as the resonance fixed point of a quantum dot model
+and a double-barrier Luttinger liquid model. The mapping allows us to compute
+the fixed-poing mobility $\mu^*$ of the quantum Brownian motion model exactly,
+using known conformal-field-theory results of the Kondo problem. From the
+mobility, we find that the peak value of the conductance resonance of a
+spin-1/2 quantum dot problem is given by $e^2/2h$. The scaling form of the
+resonance line shape is predicted.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 04:13:59 GMT""},{""version"":""v2"",""created"":""Wed, 10 Oct 2001 07:45:56 GMT""}]","2013-05-29"
+"cond-mat/9912453","Chul-Ho Lee","Chul-Ho Lee, Kazuyoshi Yamada, Yasuo Endoh, Gen Shirane, R. J.
+  Birgeneau, M. A. Kastner, M. Greven, Y-J. Kim","Energy Spectrum of Spin Fluctuations in Superconducting La2-xSrxCuO4
+  (0.10 < x < 0.25)","15 pages, 8 figures, revtex","J. Phys. Soc. Jpn. 69 (2000) 1170","10.1143/JPSJ.69.1170",,"cond-mat.supr-con cond-mat.str-el",,"  The energy spectrum of incommensurate spin fluctuations in superconducting
+Sr-doped La2CuO4 has been studied by inelastic neutron scattering experiments.
+An energy gap in the spin excitation spectrum is observed in the
+superconducting state of optimally doped (x=0.15) and slightly overdoped
+(x=0.18) samples. At temperatures well below Tc, the incommensurate peaks
+diminish rapidly in intensity with decreasing energy below ~8meV and merge into
+the background below ~3.5meV for x=0.15 and ~4.5meV for x=0.18. For both
+samples, the energy spectrum of the q-integrated spin susceptibility, x""(w),
+exhibits an enhancement around 7meV, which is caused by a broadening in the
+momentum width of the incommensurate peaks. The gap-like structure in the
+energy spectrum and the enhancement of x""(w) survive at Tc. On the other hand,
+for both underdoped (x=0.10) and heavily overdoped (x=0.25) samples there is
+neither a clear energy gap nor an enhancement of x""(w) below Tc.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 06:01:57 GMT""},{""version"":""v2"",""created"":""Wed, 29 Dec 1999 12:42:22 GMT""}]","2009-10-31"
+"cond-mat/9912454","Kenichi Sasaki","K. Sasaki, M. Hotta","Toward Generalized Entropy Composition with Different q Indices and
+  H-Theorem","25 pages, corrected some typos, to be published in J. Phys. Soc. Jap",,"10.1143/JPSJ.69.3830","TU-584","cond-mat.stat-mech",,"  An attempt is made to construct composable composite entropy with different
+$q$ indices of subsystems and address the H-theorem problem of the composite
+system. Though the H-theorem does not hold in general situations, it is shown
+that some composite entropies do not decrease in time in near-equilibrium
+states and factorized states with negligibly weak interaction between the
+subsystems.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 05:47:28 GMT""},{""version"":""v2"",""created"":""Wed, 5 Jan 2000 04:36:11 GMT""},{""version"":""v3"",""created"":""Thu, 30 Mar 2000 04:05:41 GMT""},{""version"":""v4"",""created"":""Tue, 26 Sep 2000 07:05:44 GMT""}]","2009-10-31"
+"cond-mat/9912455","A. S. Mel'nikov","A. S. Mel'nikov","Theory of vortex lattice effects on STM spectra in d-wave
+  superconductors","4 pages, 3 eps figures, M2S-HTSC-VI conference paper, using Elsevier
+  style espcrc2.sty",,"10.1134/1.568343",,"cond-mat.supr-con",,"  Theory of scanning tunneling spectroscopy of low energy quasiparticle (QP)
+states in vortex lattices of d-wave superconductors is developed taking account
+of the effects caused by an extremely large extension of QP wavefunctions in
+the nodal directions and the band structure in the QP spectrum. The oscillatory
+structures in STM spectra, which correspond to van Hove singularities are
+analysed. Theoretical calculations carried out for finite temperatures and
+scattering rates are compared with recent experimental data for high
+temperature cuprates.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 08:02:17 GMT""}]","2009-10-31"
+"cond-mat/9912456","M. A. Korotin","Michael Korotin, Takeo Fujiwara, and Vladimir Anisimov","La 7/8 Sr 1/8 MnO3: long period orbital order with hole stripes",,"Phys. Rev. B62 N9 (2000) pp.5696-5699.",,,"cond-mat.str-el cond-mat.mtrl-sci",,"  The electronic structure of La 7/8 Sr 1/8 MnO 3 was studied by using the
+rotation-invariant LSDA (Local Spin Density Approximation)+U formalism. We
+found the specific kind of charge and orbital order for ferromagnetic
+insulating solution in 2a*2b*4c supercell, where a, b, and c denote cubic
+perovskite axes. The holes are distributed over 3-line stripes in every second
+ac plane along a axis. The stabilization mechanism of the hole stripe is
+attributed to the strong p-d hybridization.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 10:40:20 GMT""}]","2007-05-23"
+"cond-mat/9912457","Francisco Dominguez-Adame","J. C. Flores, V. Bellani and F. Dominguez-Adame","A simple model for the metal-insulator transition in a two-dimensional
+  electron gas","REVTeX 3.0, 8 pages, 1 Postscript figure included",,,,"cond-mat.mes-hall",,"  We introduce an elementary model for the electrostatic self-consistent
+potential in a two-dimensional electron gas. By considering the perpendicular
+degree of freedom arising from the electron tunneling out of the system plane,
+we predict a threshold carrier density above which this effect is relevant. The
+predicted value agrees remarkably well with the onset for the insulator to
+quasi-metallic transition recently observed in several experiments in SiO2-Si
+and AlGaAs-GaAs heterojunctions.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 12:39:30 GMT""}]","2007-05-23"
+"cond-mat/9912458","Hans A. Weidenmueller","Z. Pluhar and H. A. Weidenmueller","Ergodicity of Random-Matrix Theories: The Unitary Case","4 pages","Phys. Rev. Lett. 84 (2000) 2833","10.1103/PhysRevLett.84.2833",,"cond-mat.mes-hall cond-mat.stat-mech",,"  We prove ergodicity of unitary random-matrix theories by showing that the
+autocorrelation function with respect to energy or magnetic field strength of
+any observable vanishes asymptotically. We do so using Efetov's supersymmetry
+method, a polar decomposition of the saddle-point manifold, and an asymptotic
+evaluation of the boundary terms generated in this fashion.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 12:52:29 GMT""}]","2009-10-31"
+"cond-mat/9912459","Wellington Da Cruz","Wellington da Cruz and Marcelo Pagotto Carneiro","Fractons and high-$T_{c}$ superconductivity","8 pages, latex, references added",,,"preprint UEL/DF-991202","cond-mat.str-el hep-th quant-ph",,"  We consider the concept of fractons in the context of high-$T_{c}$
+superconductivity. These objects, which carry rational or irrational quantum
+numbers, are classified into universal classes $h$ of particles or
+quasiparticles which obey specific fractal distribution function. We show that
+the relaxation time associated to Hall conductivity for the superconducting
+cuprate systems came to out as $\tau_{H}\propto T^{-2}$. We also consider the
+pairing of fractons as a mechanism to produce bosonic systems and therefore
+superconducting states. For that an effective mass obtained from the propagator
+of a charge-flux system is considered. In this way, some experimental results
+of infrared studies of the cuprates for the effective mass,
+$m^*=m_{e}(1+\lambda)$, compared with our effective mass expression,
+$m_{eff}=m(1+s)$, show us that the dominant factor for interactions came from
+the spin. Thus spin flutuactions as a mechanism of high-$T_{c}$
+superconductivity and fractons as quasiparticles are related. An expression to
+the low temperature specific heat of a quantum liquid of fractons is also
+obtained.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 13:49:36 GMT""},{""version"":""v2"",""created"":""Tue, 28 Dec 1999 13:13:12 GMT""},{""version"":""v3"",""created"":""Mon, 3 Jan 2000 13:30:42 GMT""},{""version"":""v4"",""created"":""Wed, 5 Jan 2000 13:27:52 GMT""},{""version"":""v5"",""created"":""Tue, 11 Jan 2000 13:07:30 GMT""},{""version"":""v6"",""created"":""Tue, 7 Mar 2000 12:52:02 GMT""},{""version"":""v7"",""created"":""Thu, 16 Mar 2000 16:48:16 GMT""},{""version"":""v8"",""created"":""Fri, 5 Jan 2001 14:34:08 GMT""},{""version"":""v9"",""created"":""Thu, 18 Jan 2001 13:13:58 GMT""}]","2007-05-23"
+"gr-qc/9912107","Nazeem Mustapha","Nazeem Mustapha, George F R Ellis, Henk van Elst and Mattias Marklund
+  (University of Cape Town)","Partially locally rotationally symmetric perfect fluid cosmologies","20 pages, LaTeX2.09 (10pt), no figures; shortened revised version,
+  new references; accepted for publication in Classical and Quantum Gravity","Class.Quant.Grav.17:3135-3156,2000","10.1088/0264-9381/17/16/304","uct-cosmology-99/09","gr-qc",,"  We show that there are no new consistent cosmological perfect fluid solutions
+when in an open neighbourhood ${\cal U}$ of an event the fluid kinematical
+variables and the electric and magnetic Weyl curvature are all assumed
+rotationally symmetric about a common spatial axis, specialising the Weyl
+curvature tensor to algebraic Petrov type D. The consistent solutions of this
+kind are either locally rotationally symmetric, or are subcases of the Szekeres
+dust models. Parts of our results require the assumption of a barotropic
+equation of state. Additionally we demonstrate that local rotational symmetry
+of perfect fluid cosmologies follows from rotational symmetry of the Riemann
+curvature tensor and of its covariant derivatives only up to second order, thus
+strengthening a previous result.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 11:42:03 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jun 2000 09:35:34 GMT""}]","2014-11-17"
+"gr-qc/9912108","Kunihito Uzawa","Kunihito Uzawa (1), Yoshiyuki Morisawa (2), Shinji Mukohyama (3)
+  ((1)Chiba University, (2)Kyoto University, (3)University of Victoria,
+  University of Toronto)","Excitation of Kaluza-Klein gravitational mode","15 pages LaTeX, submitted to Phys.Rev.D","Phys.Rev. D62 (2000) 064011","10.1103/PhysRevD.62.064011",,"gr-qc",,"  We investigate excitation of Kaluza-Klein modes due to the parametric
+resonance caused by oscillation of radius of compactification. We consider a
+gravitational perturbation around a D-dimensional spacetime, which we
+compactify on a (D-4)-sphere to obtain a 4-dimensional theory. The perturbation
+includes the so-called Kaluza-Klein modes, which are massive in 4-dimension, as
+well as zero modes, which is massless in 4-dimension. These modes appear as
+scalar, vector and second-rank symmetric tensor fields in the 4-dimensional
+theory. Since Kaluza-Klein modes are troublesome in cosmology, quanta of these
+Kaluza-Klein modes should not be excited abundantly. However, if radius of
+compactification oscillates, then masses of Kaluza-Klein modes also oscillate
+and, thus, parametric resonance of Kaluza-Klein modes may occur to excite their
+quanta. In this paper we consider part of Kaluza-Klein modes which correspond
+to massive scalar fields in 4-dimension and investigate whether quanta of these
+modes are excited or not in the so called narrow resonance regime of the
+parametric resonance. We conclude that at least in the narrow resonance regime
+quanta of these modes are not excited so catastrophically.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 12:04:34 GMT""},{""version"":""v2"",""created"":""Sun, 2 Jan 2000 06:32:07 GMT""},{""version"":""v3"",""created"":""Mon, 10 Apr 2000 09:17:51 GMT""}]","2009-10-31"
+"hep-ph/9912510","Wen-Bin Lin","W.B. Lin, X.H.Meng, and X.M. Zhang","Adiabatic Gravitational Perturbation During Reheating","Refs added; New version to appear in PRD","Phys.Rev.D61:121301,2000","10.1103/PhysRevD.61.121301",,"hep-ph astro-ph",,"  We study the possibilities of parametric amplification of the gravitational
+perturbation during reheating in single-field inflation models. Our result
+shows that there is no additional growth of the super-horizon modes beyond the
+usual predictions.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 02:51:17 GMT""},{""version"":""v2"",""created"":""Wed, 19 Apr 2000 13:15:59 GMT""}]","2009-12-30"
+"hep-ph/9912511","Yutaka Sakamura","Yutaka Sakamura","Spontaneous CP violation model with flavor symmetry in large extra
+  dimensions","LaTeX file, 11 page, 2eps figures, some changes included",,,"TIT/HEP-438","hep-ph",,"  We construct the minimal SUSY model that causes spontaneous CP violation with
+an abelian flavor symmetry in the context of the large extra dimensions and
+show that various phenomenological problems can be solved by introducing only
+scales below the low fundamental scale. We also realize the realistic size of
+the CP violation and the small masses of the neutrinos. The strong CP problem
+can be solved by the axion scenario and the axion can be made invisible by
+introducing an additional large extra dimension.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 05:35:54 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jan 2000 05:19:50 GMT""},{""version"":""v3"",""created"":""Mon, 24 Apr 2000 07:12:53 GMT""}]","2007-05-23"
+"hep-ph/9912512","Jose Ramon Pelaez","A. Gomez Nicola and J. R. Pelaez","Unitarized pion-nucleon scattering within Heavy Baryon Chiral
+  Perturbation Theory","Shortened version to appear in Phys. Rev. D. Brief Reports","Phys.Rev. D62 (2000) 017502","10.1103/PhysRevD.62.017502",,"hep-ph nucl-th",,"  By means of the Inverse Amplitude Method we unitarize the elastic
+pion-nucleon scattering amplitudes obtained from Heavy Baryon Chiral
+Perturbation Theory to O(q^3). Within this approach we can enlarge their
+applicability range and generate the Delta(1232) resonance. We can find a
+reasonable description of the pion nucleon phase shifts with (q^2) parameters
+in agreement with the resonance saturation hypothesis. However, the
+uncertainties in the analysis of the low energy data as well as the large
+number of chiral parameters, which can have strong correlations, allow us to
+obtain very good fits with rather different sets of chiral constants.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 12:33:40 GMT""},{""version"":""v2"",""created"":""Tue, 21 Mar 2000 18:33:11 GMT""}]","2009-10-31"
+"hep-ph/9912513","Eugene Golowich","Vincenzo Cirigliano and Eugene Golowich","Analysis of O(p^2) Corrections to <pi pi|Q_{7,8}|K>","16 pages, 2 figures","Phys.Lett. B475 (2000) 351-360","10.1016/S0370-2693(00)00098-8",,"hep-ph",,"  The one-loop corrections to K->pi and K->2pi matrix elements of the
+electroweak penguin operator are calculated. General next-to-leading order
+relations between the K->pi and K->2pi amplitudes are obtained. The fractional
+shift Delta_2 = 0.27 +- 0.27 is found for the O(p^2) corrections to a recent
+chiral determination of <(pi pi)_{I=2}|Q_{7,8}|K^0>. We explain why the sign
+for Delta_2 is opposite to that expected from unitarization approaches based on
+the Omnes equation. We perform a background-field, heat-kernel determination of
+the divergent one-loop amplitudes for a general class of (V-A)x(V+A) operators.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 14:30:37 GMT""}]","2009-10-31"
+"hep-th/9912251","Jeferson de Lima Tomazelli","M. B. Hott and J. L. Tomazelli","Induced Lorentz and PCT Symmetry Breaking in an External Electromagnetic
+  Field","LaTex file, 7 pages, no figures",,,,"hep-th",,"  In this work we derive the Lorentz-PCT-violating effective action for a
+fermion in a constant and uniform electromagnetic field using the
+Fock-Schwinger proper time method and extract the exact value of the
+coefficient of the nonperturbatively induced Chern-Simons term.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 20:52:03 GMT""}]","2007-05-23"
+"hep-th/9912252","Yuri Stroganov","V. Fridkin (RIMS, Kyoto), Yu. Stroganov (IFVE, Protvino; RIMS, Kyoto),
+  D. Zagier (MPIM, Bonn)","Ground State of the Quantum Symmetric Finite Size XXZ Spin Chain with
+  Anisotropy Parameter $\Delta = {1/2}$","6 pages","J.Phys. A33 (2000) L121-L125","10.1088/0305-4470/33/13/101",,"hep-th",,"  We find an analytic solution of the Bethe Ansatz equations (BAE) for the
+special case of a finite XXZ spin chain with free boundary conditions and with
+a complex surface field which provides for $U_q(sl(2))$ symmetry of the
+Hamiltonian. More precisely, we find one nontrivial solution, corresponding to
+the ground state of the system with anisotropy parameter $\Delta = {1/2}$
+corresponding to $q^3 = -1$.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 01:47:20 GMT""}]","2009-10-31"
+"hep-th/9912253","Kazuo Fujikawa","Kazuo Fujikawa and Hiroaki Terashima, (Dept. of Physics, Univ. of
+  Tokyo)","Note on the Gauge Fixing in Gauge Theory","12 pages","Nucl.Phys. B577 (2000) 405-415","10.1016/S0550-3213(00)00102-4","UT-868","hep-th hep-lat hep-ph",,"  In the absence of Gribov complications, the modified gauge fixing in gauge
+theory $ \int{\cal D}A_{\mu}\{\exp[-S_{YM}(A_{\mu})-\int f(A_{\mu})dx]
+/\int{\cal D}g\exp[-\int f(A_{\mu}^{g})dx]\}$ for example,
+$f(A_{\mu})=(1/2)(A_{\mu})^{2}$, is identical to the conventional Faddeev-Popov
+formula $\int{\cal D}A_{\mu}\{\delta(D^{\mu}\frac{\delta f(A_{\nu})}{\delta
+A_{\mu}})/\int {\cal D}g\delta(D^{\mu}\frac{\delta f(A_{\nu}^{g})} {\delta
+A_{\mu}^{g}})\}\exp[-S_{YM}(A_{\mu})]$ if one takes into account the variation
+of the gauge field along the entire gauge orbit. Despite of its quite different
+appearance,the modified formula defines a local and BRST invariant theory and
+thus ensures unitarity at least in perturbation theory. In the presence of
+Gribov complications, as is expected in non-perturbative Yang-Mills theory, the
+modified formula is equivalent to the conventional formula but not identical to
+it:Both of the definitions give rise to non-local theory in general and thus
+the unitarity is not obvious. Implications of the present analysis on the
+lattice regularization are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 07:24:32 GMT""}]","2009-10-31"
+"hep-th/9912254","Fumihiko Sugino","Fumihiko Sugino","Witten's Open String Field Theory in Constant B-Field Background","35 pages, LaTeX, no figures, Arguments about string coupling
+  constants are modified. final version to be published in JHEP","JHEP 0003 (2000) 017","10.1088/1126-6708/2000/03/017","KEK-TH-667","hep-th",,"  In this paper we consider Witten's bosonic open string field theory in the
+presence of a constant background of the second-rank antisymmetric tensor field
+$B_{ij}$. We extend the operator formulation of Gross and Jevicki in this
+situation and construct the overlap vertices explicitly. As a result we find a
+noncommutative structure of the Moyal type only in the zero-mode sector, which
+is consistent with the result of the correlation functions among vertex
+operators in the world sheet formulation. Furthermore we find out a certain
+unitary transformation of the string field which absorbs the Moyal type
+noncommutative structure. It can be regarded as a microscopic origin of the
+transformation between the gauge fields in commutative and noncommutative gauge
+theories discussed by Seiberg and Witten.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 11:00:53 GMT""},{""version"":""v2"",""created"":""Thu, 6 Jan 2000 05:07:36 GMT""},{""version"":""v3"",""created"":""Thu, 20 Jan 2000 14:15:11 GMT""},{""version"":""v4"",""created"":""Thu, 6 Apr 2000 10:50:38 GMT""}]","2009-10-31"
+"hep-th/9912255","Tamiaki Yoneya","Tamiaki Yoneya","Spontaneously Broken Space-Time Supersymmetry in Open String Theory
+  without GSO Projection","29 pages, no figures, references are added, further typos of pulished
+  version are corrected","Nucl.Phys. B576 (2000) 219-240","10.1016/S0550-3213(00)00108-5","UT-KOMABA/99-20","hep-th",,"  We argue that orientable open string theory without GSO projection has N=2
+space-time supersymmetry in a spontaneously broken phase. The arguments are
+presented both in Neveu-Schwarz-Ramond and Green-Schwarz formulations. The
+formal but explicit supersymmetry transformation law for string field is given
+in the framework of Witten's open string field theory. Our results support a
+fundamental assumption which lies behind the topological construction of stable
+D-branes starting from the unstable systems of D9-branes.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 15:01:31 GMT""},{""version"":""v2"",""created"":""Thu, 30 Dec 1999 05:32:58 GMT""},{""version"":""v3"",""created"":""Mon, 3 Jan 2000 01:12:02 GMT""},{""version"":""v4"",""created"":""Fri, 25 Feb 2000 09:32:45 GMT""},{""version"":""v5"",""created"":""Fri, 30 Mar 2001 03:09:49 GMT""}]","2009-10-31"
+"math/9912201","Christopher D. Sogge","Marcus Keel, Hart Smith, Christopher D. Sogge","On Global existence for nonlinear wave equations outside of convex
+  obstacles","To appear in American Journal of Mathematics",,,,"math.AP math.CA",,"  We prove global existence for semilinear hyperbolic equations that satisfy
+the null condition of Christodoulou and Klainerman in the exterior of convex
+domains. We use a combination of the conformal method of Christodoulou and the
+direct method of Klainerman.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 20:50:08 GMT""}]","2007-05-23"
+"math/9912202","Christopher D. Sogge","William Minicozzi II, and Christopher D. Sogge","Negative results for Nikodym maximal functions and related oscillatory
+  integrals in curved space",,"Mathematics Research Letters 4 (1997), 221-237",,,"math.CA",,"  We expand on counterxamples of Bourgain showing how Nikodym maximal estimates
+and oscillatory integral estimates can break down in the non-Euclidean case.
+Our examples show the role that the non-existence of totally geodesic
+submanifolds can play in these problems.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 21:26:56 GMT""}]","2007-05-23"
+"math/9912203","Christopher D. Sogge","Christopher D. Sogge","Concerning Nikodym-type sets in 3-dimensional curved spaces",,"Journal American Mathematical Society 12 (1999), 1-31",,,"math.CA",,"  We obtain estimates for maximal functions that arise when one studies
+Nikodym-type sets. We also formulate a curvature condition that allows
+favorable estimates for these maximal functions.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 21:33:59 GMT""}]","2007-05-23"
+"math/9912204","Christopher D. Sogge","Hart Smith, and Christopher D. Sogge","Global Strichartz estimates for nontrapping perturbations of the
+  Laplacian","To appear in Communications in PDE",,,,"math.AP",,"  The authors prove global Strichartz estimates for compact perturbations of
+the wave operator in odd dimensions when a non-trapping assumption is
+satisfied.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 21:39:29 GMT""}]","2007-05-23"
+"math/9912205","Christopher D. Sogge","Daniel Oberlin, Hart Smith, and Christopher D. Sogge","Averages over curves with torsion",,"Mathematical Research Letters 5 (1998), 535-539",,,"math.CA",,"  We establish $L^p$ Sobolev mapping properties for averages over certain
+curves in $\R^3$, which improve upon the estimates obtained by $L^2-L^\infty$
+interpolation.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 21:46:01 GMT""}]","2007-05-23"
+"math/9912206","Christopher D. Sogge","V. Georgiev, Hans Lindblad, and Christopher D. Sogge","Weighted Strichartz estimates and global existence for semilinear wave
+  equations",,"American Journal of Mathematics, 119 (1997), 1291-1319",,,"math.AP",,"  We prove certain weighted Strichartz estimates and use these to prove a sharp
+theorem for global existence of small amplitude solutions of $\square u=
+|u|^p$, thus verifying the so-called ""Strauss conjecture"".
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 21:55:43 GMT""}]","2007-05-23"
+"math/9912207","Christopher D. Sogge","Hart Smith, and Christopher D. Sogge","Null form estimates for (1/2,1/2) symbols and local existence for a
+  quasilinear Dirichlet-wave equation","To appear in Annales Scientifiques L'Ecole Normale Superieure",,,,"math.AP",,"  The authors show that bilinear estimates for null forms hold for
+Dirichlet-wave equations outside of convex obstacle. This generalizes results
+for the Euclidean case of Klainerman and Machedon, and of Sogge for the
+variable coefficient boundaryless case. The estimates are used to prove a local
+existence theorem for semilinear wave equations satisfying the null condition.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 22:03:18 GMT""}]","2007-05-23"
+"math/9912209","Goro Hatayama","Goro Hatayama, Kazuhiro Hikami, Rei Inoue, Atsuo Kuniba, Taichiro
+  Takagi and Tetsuji Tokihiro","The A^{(1)}_M automata related to crystals of symmetric tensors","45 pages, latex2e, 2 figures","J. Math. Phys. 42(2001) 274-308","10.1063/1.1322077",,"math.QA nlin.SI",,"  A soliton cellular automaton associated with crystals of symmetric tensor
+representations of the quantum affine algebra U'_q(A^{(1)}_M) is introduced. It
+is a crystal theoretic formulation of the generalized box-ball system in which
+capacities of boxes and carriers are arbitrary and inhomogeneous. Scattering
+matrices of two solitons coincide with the combinatorial R matrices of
+U'_q(A^{(1)}_{M-1}). A piecewise linear evolution equation of the automaton is
+identified with an ultradiscrete limit of the nonautonomous discrete KP
+equation. A class of N soliton solutions is obtained through the
+ultradiscretization of soliton solutions of the latter.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 06:13:56 GMT""}]","2009-10-31"
+"math/9912210","Rinat Kashaev","R. M. Kashaev, O. Tirkkonen","Proof of the volume conjecture for torus knots","5 pages, Latex2e",,,"HIP-1999-85/TH","math.GT math.QA",,"  The volume conjecture, formulated recently by H. Murakami and J. Murakami, is
+proved for the case of torus knots.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 10:39:42 GMT""}]","2007-05-23"
+"nucl-th/9912062","S. R. Jain","Sudhir R. Jain","Dissipation in finite Fermi systems","LaTeX2e, 34 pages","Nucl.Phys. A673 (2000) 423-451","10.1016/S0375-9474(00)00151-2",,"nucl-th",,"  We present a systematic theory of dissipation in finite Fermi systems like
+nuclei and metallic clusters. This theory is based on the application of
+semiclassical methods and random matrix theory to linear response of many-body
+systems. The theory is developed in the approximation wherein the many-body
+system can be treated as a single particle in an effective, time-dependent
+mean-field. We find semiclassical expressions for energy dissipation relevant
+in one-body dissipation in heavy nuclei. We also show that this energy
+dissipation, related to damping of collective excitations, is irreversible. The
+irreversibility is proved by our development of a quantum diffusion equation.
+It may be noted that the quantum diffusion equation is derived from the von
+Neumann equation and makes no assumption about the initial form of the density
+operator. It is shown that, in the semiclassical limit, the quantum diffusion
+equation reduces to the classical Smoluchowski equation. Further, we show that
+the dissipation is a purely quantal phenomenon as it is related to the
+geometric phase acquired by a single-particle wavefunction as the system
+evolves in a slow-varying mean-field. It is explicitly shown that the
+dissipation rate is related to the nature of dynamics and the spectrum of the
+classical Liouvillian operator. Finally, we present an expression for the
+viscosity tensor encountered in nuclear fission in terms of periodic orbits of
+the single particle in an adiabatically deforming nucleus.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 05:24:49 GMT""}]","2009-10-31"
+"nucl-th/9912063","Tsutomu Sakai","Tsutomu Sakai, Kiyotaka Shimizu and Koichi Yazaki","H-dibaryon","31 pages, 7 figures, submitted to Progress of Theoretical Physics
+  Supplement as a part of the volume devoted to quark cluster model; One
+  correction on p.8; One footnote added on p.11","Prog.Theor.Phys.Suppl.137:121-145,2000","10.1143/PTPS.137.121",,"nucl-th astro-ph hep-ph nucl-ex",,"  The quark cluster model studies concerning the H-dibaryon are reviewed. The
+covered topics are the H-dibaryon itself, the interaction between a nucleon and
+an H-dibaryon, and the one between two H-dibaryons. A related study on the
+H-dibaryon in nuclear matter is also reviewed and its implication to double
+hypernuclei is discussed.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 07:43:33 GMT""},{""version"":""v2"",""created"":""Sat, 8 Jan 2000 08:38:57 GMT""}]","2008-11-26"
+"nucl-th/9912064","Lavagno Andrea","A. Lavagno and P. Quarati","Nonextensive statistics in stellar plasma and solar neutrinos","4 pages. Proc. of TAUP99, Sept. 6-10 1999, Paris. To appear in Nucl.
+  Phys. B, Proc. Suppl","Nucl.Phys.Proc.Suppl. 87 (2000) 209-211","10.1016/S0920-5632(00)00669-1",,"nucl-th astro-ph cond-mat.stat-mech hep-ph",,"  Nonextensive and quantum uncertainty effects (related to the quasiparticles
+composing the stellar core) have strong influence on the nuclear rates and, of
+course, affect solar neutrino fluxes. Both effects do coexist and are due to
+the frequent collisions among the ions. The weakly nonextensive nature of the
+solar core is confirmed. The range of predictions for the neutrino fluxes is
+enlarged and the solar neutrino problem becomes less dramatic.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 10:17:19 GMT""}]","2009-10-31"
+"nucl-th/9912065","Hidekatsu Nemura","Hidekatsu Nemura (1), Yasuyuki Suzuki (1), Yoshikazu Fujiwara (2) and
+  Choki Nakamoto (3) ((1) Niigata University, (2) Kyoto University, (3) Suzuka
+  National College of Technology)","Study of Light Lambda- and Lambda Lambda-Hypernuclei with the Stochastic
+  Variational Method and Effective Lambda N Potentials","25 pages, 11 figures(15 eps files; each of Figs.1, 5, 6, and 11
+  contains two figures)","Prog.Theor.Phys. 103 (2000) 929-958","10.1143/PTP.103.929","KUNS-1627","nucl-th",,"  We first determine the Lambda-N S-wave phase shifts so as to reproduce the
+experimental Lambda separation energies of A=3, 4 Lambda-hypernuclei, and then
+construct three phase-equivalent Lambda-N potentials with different central
+repulsion. By the stochastic variational method with correlated Gaussian basis
+we perform an extensive calculation of ab initio type for the hypernuclei of up
+to A=6. The binding energies and the sizes of the Lambda-hypernuclei are very
+insensitive to the type of the phase-equivalent Lambda-N potentials. We use two
+different Lambda-Lambda potentials which both reproduce Delta B_{Lambda Lambda}
+of 6He_{Lambda Lambda} reasonably well. Any combination of these Lambda-N and
+Lambda-Lambda potentials predicts hitherto undiscovered particle-stable bound
+states, 4H_{Lambda Lambda}, 5H_{Lambda Lambda} and 5He_{Lambda Lambda}:
+Predicted values of B_{Lambda Lambda} are about 0.4, 5.5 and 6.3 MeV,
+respectively. The binding energy of 4H_{Lambda Lambda} is so small that its
+possibility crucially depends on the strength of the Lambda-Lambda interaction.
+The binding energies of both 5He_Lambda and 6He_{Lambda Lambda} are calculated
+to be strongly overbound compared to experiment. In relation to this well-known
+anomaly we examine the effect of the quark substructure of $N$ and Lambda on
+their binding energies. The effect is negligible if the baryon size in which
+three quarks are confined is smaller than 0.6 fm, but becomes appreciable,
+particularly in 6He_{Lambda Lambda}, if the size is taken to be as large as 0.7
+fm. We discuss the extent to which the nucleon subsystem in the hypernuclei
+changes by the addition of Lambda particles. The charge symmetry breaking of
+the Lambda-N potential is phenomenologically determined and concluded to be
+weakly spin-dependent.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 13:53:02 GMT""}]","2009-10-31"
+"physics/9912051",,"Alexander A.Vlasov","Rutherford Scattering with Retardation","LATEX",,,,"physics.class-ph",,"  Numerical solutions for Sommerfeld model in nonrelativistic case are
+presented for the scattering of a spinless extended charged body in a static
+Coulomb field of a fixed point charge. It is shown that differential cross
+section for extended body preserves the form of the Rutherford result with
+multiplier, not equal to one (as in classical case), but depending on the size
+of Sommerfeld particle. Also the effect of capture by attractive center is
+found out for Sommerfeld particle. The origin of this effect lies in radiation
+damping.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 12:31:41 GMT""},{""version"":""v2"",""created"":""Tue, 3 Jul 2001 06:10:03 GMT""}]","2007-05-23"
+"quant-ph/9912111","Lavagno Andrea","A. Lavagno and P. Narayana Swamy","Thermostatistics of q-deformed boson gas","19 pages, 5 figures. To appear in Phys. Rev. E","Phys.Rev.E61:1218,2000","10.1103/PhysRevE.61.1218",,"quant-ph cond-mat.stat-mech nucl-th",,"  We show that a natural realization of the thermostatistics of q-bosons can be
+built on the formalism of q-calculus and that the entire structure of
+thermodynamics is preserved if we use an appropriate Jackson derivative in
+place of the ordinary thermodynamics derivative. This framework allows us to
+obtain a generalized q-boson entropy which depends on the q-basic number. We
+study the ideal q-boson gas in the thermodynamic limit which is shown to
+exhibit Bose-Einstein condensation with higher critical temperature and
+discontinuous specific heat.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1999 10:42:29 GMT""}]","2011-08-17"

@@ -1,0 +1,169 @@
+"astro-ph/9910435","S. Alan Stern","S.A. Stern (SwRI), W.B. McKinnon (Washington U.)","Triton's surface age and impactor population revisited in light of
+  Kuiper Belt fluxes: Evidence for small Kuiper Belt objects and recent
+  geological activity","14 pages (TeX), plus 2 postscript figures Stern & McKinnon, 2000, AJ,
+  in press",,"10.1086/301207",,"astro-ph",,"  Neptune's largest satellite, Triton, is one of the most fascinating and
+enigmatic bodies in the solar system. Among its numerous interesting traits,
+Triton appears to have far fewer craters than would be expected if its surface
+was primordial. Here we combine the best available crater count data for Triton
+with improved estimates of impact rates by including the Kuiper Belt as a
+source of impactors. We find that the population of impactors creating the
+smallest observed craters on Triton must be sub-km in scale, and that this
+small-impactor population can be best fit by a differential power-law size
+index near -3. Such results provide interesting, indirect probes of the unseen
+small body population of the Kuiper Belt. Based on the modern, Kuiper Belt and
+Oort Cloud impactor flux estimates, we also recalculate estimated ages for
+several regions of Triton's surface imaged by Voyager 2, and find that Triton
+was probably active on a time scale no greater than 0.1-0.3 Gyr ago (indicating
+Triton was still active after some 90% to 98% of the age of the solar system),
+and perhaps even more recently. The time-averaged volumetric resurfacing rate
+on Triton implied by these results, 0.01 km$^3$ yr$^{-1}$ or more, is likely
+second only to Io and Europa in the outer solar system, and is within an order
+of magnitude of estimates for Venus and for the Earth's intraplate zones. This
+finding indicates that Triton likely remains a highly geologically active world
+at present, some 4.5 Gyr after its formation. We briefly speculate on how such
+a situation might obtain.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 12:58:35 GMT""}]","2009-10-31"
+"cond-mat/9910371","Eli Ben-Naim","X. Nie, E. Ben-Naim, and S.Y. Chen","Dynamics of Vibrated Granular Monolayers","4 pages, 6 figs, revtex","Europhys. Lett. 51, 679 (2000)","10.1209/epl/i2000-00392-7",,"cond-mat.soft cond-mat.stat-mech",,"  We study statistical properties of vibrated granular monolayers using
+molecular dynamics simulations. We show that at high excitation strengths, the
+system is in a gas state, particle motion is isotropic, and the velocity
+distributions are Gaussian. As the vibration strength is lowered the system's
+dimensionality is reduced from three to two. Below a critical excitation
+strength, a gas-cluster phase occurs, and the velocity distribution becomes
+bimodal. In this phase, the system consists of clusters of immobile particles
+arranged in close-packed hexagonal arrays, and gas particles whose energy
+equals the first excited state of an isolated particle on a vibrated plate.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 03:30:16 GMT""}]","2007-05-23"
+"cond-mat/9910376","Roehner","B.M. Roehner","Speculative trading: the price multiplier effect","7 pages, one figure (4 graphics); to appear in European Physical
+  Journal B",,"10.1007/s100510050144",,"cond-mat.stat-mech q-fin.TR",,"  During a speculative episode the price of an item jumps from an initial level
+p_1 to a peak level p_2 before more or less returning to level p_1. The ratio
+p_2/p_1 is referred to as the amplitude A of the peak. This paper shows that
+for a given market the peak amplitude is a linear function of the logarithm of
+the price at the beginning of the speculative episode; with p_1 expressed in
+1999 euros the relationship takes the form:
+  $ A=a\ln p_1 +b $; the values of the parameter a turn out to be relatively
+independent of the market considered: $ a \simeq 0.5 $, the values of the
+parameter b are more market-dependent, but are stable in the course of time for
+a given market. This relationship suggests that the higher the stakes the more
+""bullish"" the market becomes. Possible mechanisms of this ""risk affinity""
+effect are discussed.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1999 18:11:41 GMT""}]","2009-10-31"
+"cond-mat/9910377","Robert Shrock","Robert Shrock and Shan-Ho Tsai","Ground-State Degeneracy of Potts Antiferromagnets on Two-Dimensional
+  Lattices: Approach Using Infinite Cyclic Strip Graphs","8 pages, Latex, 2 postscript figures","Phys. Rev. E60, 3512-3515 (1999)","10.1103/PhysRevE.60.3512",,"cond-mat.stat-mech math.CO",,"  The q-state Potts antiferromagnet on a lattice $\Lambda$ exhibits nonzero
+ground state entropy $S_0=k_B \ln W$ for sufficiently large q and hence is an
+exception to the third law of thermodynamics. An outstanding challenge has been
+the calculation of W(sq,q) on the square (sq) lattice. We present here an exact
+calculation of W on an infinite-length cyclic strip of the square lattice which
+embodies the expected analytic properties of W(sq,q). Similar results are given
+for the kagom\'e lattice.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 01:39:57 GMT""}]","2009-10-31"
+"cond-mat/9910378","Xiao-Guang Wang","Xiao-Guang Wang, Shao-Hua Pan, Guo-Zhen Yang","Phase transitions in Ising magnetic films and superlattices","10 pages, 3 figures, accepted by Solid State Communications","Solid State Communications 113(1)(2000)59-62","10.1016/S0038-1098(99)00432-9",,"cond-mat.mtrl-sci cond-mat.stat-mech",,"  Within the framework of mean field theory, we examine the phase transitions
+in Ising magnetic films and superlattices. By transfer matrix method, we derive
+two general nonlinear equations for phase transition temperatures of Ising
+magnetic films and superlattices, respectively. The equations can be applied to
+the films and superlattices with arbitrary exchange interaction constants and
+arbitrary layer number. Numerical results for phase transition temperatures as
+a function of exchange interaction constants are presented.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 15:04:58 GMT""}]","2009-10-31"
+"gr-qc/9910081","Hitoshi Kitada","Hitoshi Kitada (University of Tokyo)","A possible solution for the non-existence of time","LaTeX, 7 pages, English corrected and a miscellaneous change in
+  section 5",,,"KIMS-1999-10-17","gr-qc",,"  A possible solution for the problem of non-existence of universal time is
+given by utilizing Goedel's incompleteness theorem.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1999 23:16:17 GMT""},{""version"":""v2"",""created"":""Tue, 2 Nov 1999 17:14:34 GMT""},{""version"":""v3"",""created"":""Wed, 17 Nov 1999 13:01:31 GMT""}]","2007-05-23"
+"hep-ph/9910460","Dieter Mueller","A.V. Belitsky, D. M\""uller, L. Niedermeier, A. Sch\""afer","Radiative corrections to deeply virtual Compton scattering","9 pages LaTeX, 3 figures, czjphyse.cls required Talk given by D.
+  M\""uller at Inter. Workshop ``PRAHA-Spin99'', Prague, Sept. 6-11, 1999","Czech.J.Phys. 50S1 (2000) 123-130","10.1007/s10582-000-0015-z",,"hep-ph",,"  We discuss possibilities of measurement of deeply virtual Compton scattering
+amplitudes via different asymmetries in order to access the underlying skewed
+parton distributions. Perturbative one-loop coefficient functions and two-loop
+evolution kernels, calculated recently by a tentative use of residual conformal
+symmetry of QCD, are used for a model dependent numerical estimation of
+scattering amplitudes.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1999 19:52:23 GMT""}]","2009-10-31"
+"hep-ph/9910461","Ham Seung Woo","S.W. Ham, S.K. OH, H.S. Song","Spontaneous Violation of the CP Symmetry in the Higgs Sector of the
+  Next-to-Minimal Supersymmetric Model","21 pages, 5 figures, To appear in Phys. Rev.D","Phys.Rev.D61:055010,2000","10.1103/PhysRevD.61.055010","ctp/99-027","hep-ph",,"  The spontaneous violation of the CP symmetry in the next-to-minimal
+supersymmetric standard Model (NMSSM) is investigated. It is found that the
+spontaneous violation of the CP symmetry can occur in the Higgs sector of the
+NMSSM for a wide region of the parameter space of the model, at the 1-loop
+level where the radiative corrections due to the top quark and scalar-top quark
+loops are found to generate the scalar-pseudoscalar mixings between the two
+Higgs doublets of the NMSSM. In our model, we assume that the masses of the
+left-handed and the right-handed scalar-top quarks are not degenerate. And we
+investigate our model anaytically: We derive analytical formulae of the 1-loop
+mass matrix for the neutral Higgs bosons. We calculate the upper bound on the
+lightest neutral Higgs boson mass under the assumption. It is found to be about
+140 GeV for our choice of parameter values in the presence of the spontaneous
+violation of the CP symmetry in the NMSSM. Thus, the possibility of the
+spontaneous violation of the CP symmetry is not completely ruled out in the
+Higgs sector of the NMSSM if the masses of the left-handed and the right-handed
+scalar-top quarks are not degenerate. Further, the phenomenology of the
+$K$-${\bar K}$ mixing within the context of our model is studied. The lower
+bound on CP violating phase in the $K$-${\bar K}$ mixing is found to increase
+if either $\tan\beta$ decreases or $A_t$ increases.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 11:28:01 GMT""}]","2014-11-17"
+"hep-ph/9910463","Nikolai Romanenko","Jukka Maalampi and Nikolai Romanenko (Theoretical Physics Division,
+  Department of Physics, University of Helsinki, Finland)","Production of four jets in LR model","3 pages including 2 figures, ps no figures",,,"HIP-99-67/TH","hep-ph",,"  We consider the reaction ee -> q,q,qbar,qbar as a test of lepton number
+non-conservation in the framework of the left-right-symmetric electroweak
+model. The main contributions to this process are due to Majorana neutrino
+exchange in t-channel and doubly charged Higgs (Delta(--)) exchange in
+s-channel with a pair of right-handed weak bosons (WR) as intermediate state.
+We show that in a linear ee collider with the collision energy of 1 TeV (1.5
+TeV) the cross section of this process is 0.01 fb (1 fb), and it will, for the
+anticipated luminosity of 10**35 cm**(-2)s**(-1), be detectable below the WR
+threshold. We study the sensitivity of the reaction on the masses of the heavy
+neutrino, WR and Delta(--).
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 14:50:41 GMT""}]","2007-05-23"
+"hep-th/9910185","Bin Wang","Bin Wang and Elcio Abdalla","Holography in (2+1)-dimensional cosmological models","9 pages, to be published in Phys. Lett. B","Phys.Lett. B466 (1999) 122-126","10.1016/S0370-2693(99)01122-3",,"hep-th",,"  The cosmic holographic principle suggested by Fischler and Susskind has been
+examined in (2+1)-dimensional cosmological models. Analogously to the
+(3+1)-dimensional counterpart, the holographic principle is satisfied in all
+flat and open universes. For (2+1)-dimensional closed universes the holographic
+principle cannot be realized in general. The principle cannot be maintained,
+neither introducing negative pressure matter nor matter with highly
+unconventional equation of state.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1999 18:32:54 GMT""}]","2009-10-31"
+"hep-th/9910187","Massimo Blasone","Massimo Blasone and Petr Jizba","Quantum Field Theory of Topological Defects as Inhomogeneous Condensates","10 pages, 1 figure. To appear in the Proceedings of the 37th
+  International School of Subnuclear Physics, Erice, 29 Aug. - 7 Sep. 1999",,,,"hep-th cond-mat hep-ph nlin.SI solv-int",,"  In the framework of the Closed-Time-Path formalism, we show how topological
+defects may arise in Quantum Field Theory as result of a localized
+(inhomogeneous) condensation of particles. We demonstrate our approach on two
+examples; kinks in the $2D \lambda \psi^{4}$ theory (both at zero and finite
+temperature) and vortices in the complex $4D \lambda \psi^{4} $ theory.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 15:49:08 GMT""}]","2007-05-23"
+"math-ph/9910037","Peter Schupp","Elliott H. Lieb, Peter Schupp","Singlets and reflection symmetric spin systems","11 pages, LaTeX 2e",,"10.1016/S0378-4371(99)00521-X",,"math-ph cond-mat.stat-mech math.MP",,"  We rigorously establish some exact properties of reflection symmetric spin
+systems with antiferromagnetic crossing bonds: At least one ground state has
+total spin zero and a positive semidefinite coefficient matrix. The crossing
+bonds obey an ice rule. This augments some previous results which were limited
+to bipartite spin systems and is of particular interest for frustrated spin
+systems.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 15:29:54 GMT""}]","2009-10-31"
+"math/9910126","James E. McClure","James E. McClure and Jeffrey H. Smith","A solution of Deligne's conjecture",,,,,"math.QA math.AT",,"  Deligne asked in 1993 whether the Hochschild cochain complex of an
+associative ring has a natural action by the singular chains of the little
+2-cubes operad. In this paper we give an affirmative answer to this question.
+We also show that the topological Hochschild cohomology spectrum of an
+associative ring spectrum has an action of an operad equivalent to the little
+2-cubes.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 01:01:55 GMT""},{""version"":""v2"",""created"":""Fri, 2 Feb 2001 15:10:30 GMT""}]","2007-05-23"
+"math/9910127","Ko Honda","Ko Honda","On the classification of tight contact structures I","Published in Geometry and Topology at
+  http://www.maths.warwick.ac.uk/gt/GTVol4/paper11.abs.html Version 3 finishes
+  with a substantial erratum to version 2","Geom. Topol. 4 (2000) 309-368","10.2140/gt.2000.4.309",,"math.DG math.GT",,"  We develop new techniques in the theory of convex surfaces to prove complete
+classification results for tight contact structures on lens spaces, solid tori,
+and T^2 X I.
+  Erratum: In this note we seek to remedy errors which appeared in version 2
+and were propagated in subsequent papers.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 03:01:55 GMT""},{""version"":""v2"",""created"":""Fri, 27 Oct 2000 09:56:55 GMT""},{""version"":""v3"",""created"":""Thu, 29 Nov 2001 11:34:37 GMT""}]","2014-11-11"
+"nucl-th/9910060","Li. Qiang. Bing","Q.B.Li and P.N.Shen","$N\Omega$ and $\Delta\Omega$ dibaryons in SU(3) chiral quark model","LaTex file with 5 figures","Eur.Phys.J. A8 (2000) 417-421","10.1007/s10050-000-5080-y",,"nucl-th",,"  The binding energy of the six quark system with strangeness s=-3 is
+investigated under the chiral SU(3) constituent quark model in the framework of
+$RGM$. The calculations of the single $N\Omega$ channel with spin S=2 and the
+single $\Delta\Omega$ channel with spin S=3 are performed. The results show
+that both systems could be dibaryons and the interaction induced by the chiral
+field plays a very important role on forming bound states in the systems
+considered.
+  The phase shifts and scattering lengths in corresponding channels are also
+given.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1999 12:05:41 GMT""}]","2015-06-26"
+"quant-ph/9910099","Michael Nielsen","Guifre Vidal, Daniel Jonathan and M. A. Nielsen","Approximate transformations and robust manipulation of bipartite pure
+  state entanglement","11 pages, 4 figures","Phys. Rev. A 62, 012304 (2000)","10.1103/PhysRevA.62.012304",,"quant-ph",,"  We analyze approximate transformations of pure entangled quantum states by
+local operations and classical communication, finding explicit conversion
+strategies which optimize the fidelity of transformation. These results allow
+us to determine the most faithful teleportation strategy via an initially
+shared partially entangled pure state. They also show that procedures for
+entanglement manipulation such as entanglement catalysis [Jonathan and Plenio,
+Phys. Rev. Lett. 83, 3566 (1999)] are robust against perturbation of the states
+involved, and motivate the notion of non-local fidelity, which quantifies the
+difference in the entangled properties of two quantum states.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1999 22:39:25 GMT""},{""version"":""v2"",""created"":""Tue, 26 Oct 1999 01:20:02 GMT""}]","2009-10-31"

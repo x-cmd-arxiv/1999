@@ -1,0 +1,151 @@
+"astro-ph/9906430","Yoshiaki Taniguchi","Yoshiaki Taniguchi and Naohisa Anabuki","The Electron Scattering Region in Seyfert Nuclei","5 pages and 1 figure. The Astrophysical Journal (Letters), in press",,"10.1086/312201",,"astro-ph",,"  The electron scattering region (ESR) is one of important ingredients in
+Seyfert nuclei because it makes possible to observe the hidden broad line
+region (hereafter HBLR) in some type 2 Seyfert nuclei (hereafter S2s). However,
+little is known about its physical and geometrical properties. Using the number
+ratio of S2s with and without HBLR, we investigate statistically where the ESR
+is in Seyfert nuclei. Our analysis suggests that the ESR is located at radius
+between $\sim$ 0.01 pc and $\sim$ 0.1 pc from the central engine. We also
+discuss a possible origin of the ESR briefly.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 09:04:12 GMT""}]","2009-10-31"
+"astro-ph/9906431","Tsvi Piran","Glennys R. Farrar and Tsvi Piran","GZK Violation - a Tempest in a (Magnetic) Teapot?","12 pages, revtex style, accepted for publication in PRL","Phys.Rev.Lett. 84 (2000) 3527","10.1103/PhysRevLett.84.3527",,"astro-ph hep-ph",,"  The apparent lack of suitable astrophysical sources for the observed highest
+energy cosmic rays (UHECRs) within $\approx 20$ Mpc is the ""GZK Paradox"". We
+constrain representative models of the extra-galactic magnetic field structure
+by Faraday Rotation measurements; limits are at the $\mu$G level rather than
+the nG level usually assumed. In such fields, even the highest energy cosmic
+rays experience large deflections. This allows nearby AGNs (possibly quiet
+today) or GRBs to be the source of ultra-high energy cosmic rays without
+contradicting the GZK distance limit.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 12:27:54 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jan 2000 09:46:58 GMT""}]","2009-10-31"
+"cond-mat/9906401","Victor Barzykin","Victor Barzykin and Lev P. Gor'kov","Ferromagnetism and superstructure in Ca_{1-x}La_xB_6","4 pages, 2 figures, submitted to PRL",,"10.1103/PhysRevLett.84.2207",,"cond-mat.str-el",,"  We critically investigate the model of a doped excitonic insulator, which
+recently has been invoked to explain some experimental properties of the
+ferromagnetic state in Ca_{1-x}La_xB_6. We demonstrate that the ground state of
+this model is intrinsically unstable towards the appearance of a
+superstructure. In addition, the model would lead to a phase separation regime
+and the domain structure which may be prevented by the Coulomb forces only.
+Recent experiments indicate that a superstructure may indeed show up in this
+material.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1999 21:09:15 GMT""}]","2009-10-31"
+"cond-mat/9906402","M. I. Katsnelson","M. I. Katsnelson (1) and A. V. Trefilov (2) ((1) Institute of Metal
+  Physics (2) Russian Science Center Kurchatov Institute)","Possible scenario of the melting of metals","3 pages, RevTeX",,,,"cond-mat.mtrl-sci cond-mat.stat-mech",,"  A microscopic picture of the ``preparation'' of a crystal to the transition
+to liquid state at the approach to melting temperature is proposed. Basing on
+simple crystallogeometric considerations and the analysis of the computational
+results for corresponding anharmonic characteristics an evaluation is given for
+the magnitude of atomic displacements leading to the appearance of close packed
+Bernal pseudonuclei in the solid phase. A physical meaning of the classical
+Lindeman criterion and the mechanisms of the formation of free volume in the
+crystal phase are discussed.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1999 22:50:24 GMT""}]","2007-05-23"
+"cs/9906028","Edith Hemaspaandra","Edith Hemaspaandra","On the Power of Positive Turing Reductions","7 pages",,,,"cs.CC",,"  In the early 1980s, Selman's seminal work on positive Turing reductions
+showed that positive Turing reduction to NP yields no greater computational
+power than NP itself. Thus, positive Turing and Turing reducibility to NP
+differ sharply unless the polynomial hierarchy collapses.
+  We show that the situation is quite different for DP, the next level of the
+boolean hierarchy. In particular, positive Turing reduction to DP already
+yields all (and only) sets Turing reducibility to NP. Thus, positive Turing and
+Turing reducibility to DP yield the same class. Additionally, we show that an
+even weaker class, P(NP[1]), can be substituted for DP in this context.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1999 23:31:10 GMT""}]","2007-05-23"
+"hep-lat/9906032","Simon Catterall","S. Catterall and E. Mottola","The Conformal Mode in 2D Simplicial Gravity","13 pages, 8 figures","Phys.Lett. B467 (1999) 29-39","10.1016/S0370-2693(99)01053-9","SU-4240-700","hep-lat",,"  We verify that summing 2D DT geometries correctly reproduces the Polyakov
+action for the conformal mode, including all ghost contributions, at large
+volumes. The Gaussian action is reproduced even for c=10, well into the
+branched polymer phase, which confirms the expectation that the DT measure is
+indeed correct in this regime as well.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1999 22:15:22 GMT""}]","2009-10-31"
+"hep-lat/9906033","Yannick Meurice","Yannick Meurice","Non-Perturbative Fine-Tuning in Approximately Supersymmetric Models","12 pages, 5 figures, uses Revtex",,,"U. of Iowa 99-2502","hep-lat",,"  We present two Fermi-Bose models with an approximate supersymmetry and which
+can be solved with great accuracy using the renormalization group method. The
+bosonic parts of these models consist in Dyson's hierarchical model with one
+and two scalar components respectively. We discuss the question of the
+perturbative cancellation of divergences and compare with the non-perturbative
+fine-tunings necessary to keep the renormalized mass small in cut-off units. We
+show evidence for non-perturbative cancellations of quantum corrections,
+however, we were not able to achieve exact cancellations without fine-tuning.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 04:39:11 GMT""}]","2007-05-23"
+"hep-th/9906207","Yuji Ohta","Yuji Ohta (Res. Inst. Math. Sci., Kyoto Univ.)","Picard-Fuchs Equations and Whitham Hierarchy in N=2 Supersymmetric
+  SU(r+1) Yang-Mills Theory","to be published in J. Math. Phys, revtex, 14 pages","J.Math.Phys.40:6292-6301,1999","10.1063/1.533093",,"hep-th",,"  In general, Whitham dynamics involves infinitely many parameters called
+Whitham times, but in the context of N=2 supersymmetric Yang-Mills theory it
+can be regarded as a finite system by restricting the number of Whitham times
+appropriately. For example, in the case of SU(r+1) gauge theory without
+hypermultiplets, there are r Whitham times and they play an essential role in
+the theory. In this situation, the generating meromorphic 1-form of the Whitham
+hierarchy on Seiberg-Witten curve is represented by a finite linear combination
+of meromorphic 1-forms associated with these Whitham times, but it turns out
+that there are various differential relations among these differentials. Since
+these relations can be written only in terms of the Seiberg-Witten 1-form,
+their consistency conditions are found to give the Picard-Fuchs equations for
+the Seiberg-Witten periods.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 07:12:04 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jun 1999 08:36:11 GMT""},{""version"":""v3"",""created"":""Mon, 4 Oct 1999 09:38:49 GMT""}]","2014-11-18"
+"math/9906180","Francesc Perera","Francesc Perera","Extremal richness of multiplier and corona algebras of simple
+  C*-algebras with real rank zero","20 pages (revised 1999); to appear in Journal of Operator Theory",,,"Preprint UAB 18/1998","math.OA",,"  In this paper we investigate the extremal richness of the multiplier algebra
+$M(A)$ and the corona algebra $M(A)/A$, for a simple C*-algebra $A$ with real
+rank zero and stable rank one. We show that the space of extremal quasitraces
+and the scale of $A$ contain enough information to determine whether $M(A)/A$
+is extremally rich. In detail, if the scale is finite, then $M(A)/A$ is
+extremally rich. In important cases, and if the scale is not finite, extremal
+richness is characterized by a restrictive condition: the existence of only one
+infinite extremal quasitrace which is isolated in a convex sense.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1999 17:44:23 GMT""}]","2007-05-23"
+"math/9906181","Francesc Perera","Francesc Perera","Lifting units modulo exchange ideals and C*-algebras with real rank zero","11 pages; to appear in Journal fur die Reine und Angewandte
+  Mathematik",,,"University of Copenhagen Preprint Series 1999, No 5","math.RA math.OA",,"  Given a unital ring $R$ and a two-sided ideal $I$ of $R$, we consider the
+question of determining when a unit of $R/I$ can be lifted to a unit of $R$.
+For the wide class of separative exchange ideals $I$, we show that the only
+obstruction to lifting invertibles relies on a K-theoretic condition on $I$.
+This allows to extend previously known index theories to this context. Using
+this we can draw consequences for von Neumann regular rings and C*-algebras
+with real rank zero.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1999 18:04:25 GMT""},{""version"":""v2"",""created"":""Wed, 25 Aug 1999 13:00:03 GMT""}]","2016-09-07"
+"math/9906182","Ian Agol","Ian Agol","Lower bounds on volumes of hyperbolic Haken 3-manifolds","20 pages, 15 figures",,,,"math.GT",,"  In this paper, we find lower bounds for volumes of hyperbolic 3-manifolds
+with various topological conditions. Let V_3 = 1.01494 denote the volume of a
+regular ideal simplex in hyperbolic 3-space. As a special case of the main
+theorem, if a hyperbolic manifold M contains an acylindrical surface S, then
+Vol(M)>= -2 V_3 chi(S). We also show that if beta_1(M)>= 2, then Vol(M)>= 4/5
+V_3.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 03:42:16 GMT""}]","2007-05-23"
+"math/9906183","Ian Agol","Ian Agol","Bounds on exceptional Dehn filling","Published in Geometry and Topology at
+  http://www.maths.warwick.ac.uk/gt/GTVol4/paper15.abs.html","Geom. Topol. 4 (2000) 431-449","10.2140/gt.2000.4.431",,"math.GT",,"  We show that for a hyperbolic knot complement, all but at most 12 Dehn
+fillings are irreducible with infinite word-hyperbolic fundamental group.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 04:47:29 GMT""},{""version"":""v2"",""created"":""Wed, 15 Nov 2000 16:18:17 GMT""}]","2014-11-11"
+"math/9906184","Vadim Schechtman","Vadim Schechtman","Vertex algebras and elliptic genera","2 pages, Tex",,,,"math.AG",,"  A report at Arbeitstagung, June 1999, Bonn, on the joint work with
+V.Gorbounov, F.Malikov and A.Vaintrob.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 07:37:35 GMT""}]","2007-05-23"
+"math/9906185","Moti Gitik","Moti Gitik (Tel Aviv University)","Wide gaps with short extenders","15 pages, LaTex",,,,"math.LO",,"  Let kappa be the limit of <kappa_n : n<omega> (1) if each kappa_n carries an
+extender of the length of the first Mahlo above kappa_n, then for every ld
+above kappa there is a generic extension with power of kappa above ld. (2) if
+each kappa_n carries an extender of the length of the first fixed point of the
+aleph function above kappa_n of order n then for every ld between kappa and the
+first inaccessible above kappa there is a generic extension satisfying
+2^kappa>ld.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 09:02:30 GMT""}]","2007-05-23"
+"nucl-th/9906082",,"W. C. Haxton and C.-L. Song","The Canonical Nuclear Many-Body Problem as a Rigorous Effective Theory","23 pages; 10 figures; latex",,,,"nucl-th hep-ph",,"  The shell model is the standard tool for addressing the canonical nuclear
+many-body problem of nonrelativistic nucleons interacting through a static
+potential. We discuss several of the uncontrolled approximations that are made
+in this model to motivate a different approach, one based on an exact solution
+of the Bloch-Horowitz equation. We argue that the necessary self-consistent
+solutions of this equation can be obtained efficiently by a Green's function
+expansion based on the Lanczos algorithm. The resulting effective theory is
+carried out for the simplest nuclei, d and 3He, using realistic NN interactions
+such as the Argonne v18 and Reid93 potentials, in order to contrast the results
+with the shell model. We discuss the wave function normalization, the evolution
+of the wave function as the ""shell model"" space is varied, and the magnetic
+elastic effective operator. The numerical results show a simple renormalization
+group behavior that differs from effective field theory treatments of the two-
+and three-body problems. The likely origin of this scaling is discussed.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 07:36:29 GMT""}]","2007-05-23"
+"quant-ph/9906101","Mladen Pavicic","Mladen Pavicic and Norman D. Megill","Non-Orthomodular Models for Both Quantum Logic and Standard Classical
+  Logic: Repercussions for Quantum Computers","21 pages, AMSLaTeX, to be published in Helvetica Physica Acta, a few
+  typos corrected, Author's URL http://m3k.grad.hr/pavicic","Helv.Phys.Acta 72 (1999) 189-210",,,"quant-ph math.LO math.QA",,"  It is shown that propositional calculuses of both quantum and classical
+logics are non-categorical. We find that quantum logic is in addition to an
+orthomodular lattice also modeled by a weakly orthomodular lattice and that
+classical logic is in addition to a Boolean algebra also modeled by a weakly
+distributive lattice. Both new models turn out to be non-orthomodular. We prove
+the soundness and completeness of the calculuses for the models. We also prove
+that all the operations in an orthomodular lattice are five-fold defined. In
+the end we discuss possible repercussions of our results to quantum
+computations and quantum computers.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 14:55:18 GMT""},{""version"":""v2"",""created"":""Tue, 29 Jun 1999 10:11:13 GMT""},{""version"":""v3"",""created"":""Sun, 12 Sep 1999 21:49:37 GMT""}]","2007-05-23"
+"quant-ph/9906102","Mladen Pavicic","Harry Paul and Mladen Pavicic","Realistic Interaction-Free Detection of Objects in a Resonator","12 pages, LaTeX, 6 ps figures, Author's URL
+  http://m3k.grad.hr/pavicic","Found.Phys. 28 (1998) 959-970",,,"quant-ph",,"  We propose a realistic device for detecting objects almost without
+transferring a single quantum of energy to them. The device can work with an
+efficiency close to 100% and relies on two detectors counting both presence and
+absence of the objects. Its possible usage in performing fundamental
+experiments as well as possible applications are discussed.
+","[{""version"":""v1"",""created"":""Sun, 27 Jun 1999 15:33:55 GMT""},{""version"":""v2"",""created"":""Sun, 12 Sep 1999 21:36:17 GMT""}]","2016-09-08"

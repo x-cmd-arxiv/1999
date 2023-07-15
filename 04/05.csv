@@ -1,0 +1,348 @@
+"astro-ph/9904053","Jonathan Katz","J. I. Katz (Washington U., St. Louis)","Radio Emission from Supernovae","11 pp, aas latex, no figures. Application to new SN1987A data
+  (astro-ph/9904109) added","Astrophys.J. 555 (2001) 918-924","10.1086/321514",,"astro-ph",,"  I consider radio emission from the remarkable SN1998bw. Ni-56 and Co-56
+decays produce a gamma-ray flux whose Compton-scattered electrons naturally
+explain the observed mildly relativistic exapnsion of the radio source and its
+double- peaked history. Such models require a surrounding plasma, perhaps
+produced by the supernova progenitor, whose interaction with the
+nonrelativistic debris may account for the observed X-ray source. The radio
+spectrum appears to be self- absorbed. This interpretation determines the
+brightness temperature, and hence the energy of the radiating electrons,
+implying a surprisingly large magnetic field. Attempts to avoid this conclusion
+by interpreting the spectrum as the result of inverse bremsstrahlung absorption
+do not lead to significantly lower fields. The large inferred field may have
+several explanations: radiation from a central pulsar, a turbulent hydrodynamic
+dynamo or an aspherical Compton current, but a frozen-in field from the
+supernova progenitor is not adequate. The electron-ion and particle-field
+equipartition problems are discussed. Compton electrons also explain the
+inferred expansion speed of SN1987A's spots.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1999 19:12:03 GMT""},{""version"":""v2"",""created"":""Mon, 12 Apr 1999 19:19:09 GMT""}]","2009-10-31"
+"astro-ph/9904054","Dan McIntosh","D. H. McIntosh (Steward Obs.), H.-W. Rix (MPIA), M. J. Rieke (Steward
+  Obs.), and C. B. Foltz (MMTO)","Red and Blue Shifted Broad Lines in Luminous Quasars","12 pages, Latex, 2 figures, 2 tables, Accepted for publication in ApJ
+  Letters","Astrophys.J.517:L73,1999","10.1086/312033",,"astro-ph",,"  We have observed a sample of 22 luminous quasars, in the range 2.0<z<2.5, at
+1.6 microns with the near-infrared (NIR) spectrograph FSPEC on the Multiple
+Mirror Telescope. Our sample contains 13 radio-loud and 9 radio-quiet objects.
+We have measured the systemic redshifts z_(sys) directly from the strong [O
+III]5007 line emitted from the narrow-line-region. From the same spectra, we
+have found that the non-resonance broad H$\beta$ lines have a systematic mean
+redward shift of 520+/-80 km/s with respect to systemic. Such a shift was not
+found in our identical analysis of the low-redshift sample of Boroson & Green.
+The amplitude of this redshift is comparable to half the expected gravitational
+redshift and transverse Doppler effects, and is consistent with a correlation
+between redshift differences and quasar luminosity. From data in the
+literature, we confirm that the high-ionization rest-frame ultraviolet broad
+lines are blueshifted ~550-1050 km/s from systemic, and that these velocity
+shifts systematically increase with ionization potential. Our results allow us
+to quantify the known bias in estimating the ionizing flux from the
+inter-galactic-medium J_(IGM) via the Proximity Effect. Using redshift
+measurements commonly determined from strong broad line species, like Ly\alpha
+or CIV1549, results in an over-estimation of J_(IGM) by factors of ~1.9-2.3.
+Similarly, corresponding lower limits on the density of baryon Omega_b will be
+over-estimated by factors of ~1.4-1.5. However, the low-ionization MgII2798
+broad line is within ~50 km/s of systemic, and thus would be the line of choice
+for determining the true redshift of 1.0<z<2.2 quasars without NIR
+spectroscopy, and z>3.1 objects using NIR spectroscopy.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 00:38:43 GMT""}]","2009-10-31"
+"astro-ph/9904055","Jayaram N. Chengalur","Jayaram N. Chengalur, A. G. de Bruyn, and D. Narasimha","HI and OH absorption at z=0.89","4 pages, 3 figures","Astron.Astrophys.343:L79,1999",,,"astro-ph",,"  We report on WSRT observations of HI and OH absorption at z=0.885 towards the
+radio lens PKS 1830-21, mm wave transitions of several molecular species have
+already been observed at this redshift. At mm wavelengths the source structure
+is dominated by two extremely compact components, the northeast (NE) and
+southwest (SW) components. At lower frequencies the continuum emission is much
+more extended and there is also a broad Einstein ring connecting the NE and SW
+components. This means that the HI and OH spectra sample a much larger region
+of the absorber than the mm wave spectra.
+  The HI spectrum that we obtain is asymmetric, with a peak at -147 km/s with
+respect to the main molecular line redshift of z=0.88582. Weak mm wave
+molecular absorption has also been detected towards the NE component at this
+same velocity. The HI absorption, however, covers a total velocity width of 300
+km/sec, i.e. including velocities well to the red of molecular features
+suggesting that it is spatially widespread. In OH we detect both the 1667 and
+the 1665 MHz transitions. The OH spectrum has a velocity width comparable to
+that of the HI spectrum, suggesting that it too is widespread in the absorber.
+The lack of a prominent HI peak in the spectrum at the velocity corresponding
+to the SW component, suggests that the galaxy responsible for the absorption at
+z=0.885 has a central molecular disk many kpc in size, and that HI is deficient
+in this central region. Our observations are sensitive to the large scale
+kinematics of the absorber, and to first order the implied dynamical mass is
+consistent with the lens models of Nair et. al. (1993).
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 06:39:48 GMT""},{""version"":""v2"",""created"":""Tue, 6 Apr 1999 05:37:10 GMT""}]","2011-05-23"
+"astro-ph/9904056","Ben Stappers","B. W. Stappers, B. M. Gaensler, S. Johnston","A deep search for pulsar wind nebulae using pulsar gating","10 pages, 5 figures, MNRAS in press",,"10.1046/j.1365-8711.1999.02701.x",,"astro-ph",,"  Using the Australia Telescope Compact Array (ATCA) we have imaged the fields
+around five promising pulsar candidates to search for radio pulsar wind nebulae
+(PWNe). We have used the ATCA in its pulsar gating mode; this enables an image
+to be formed containing only off-pulse visibilities, thereby dramatically
+improving the sensitivity to any underlying PWN. Data from the Molonglo
+Observatory Synthesis Telescope were also used to provide sensitivity on larger
+spatial scales. This survey found a faint new PWN around PSR B0906-49; here we
+report on non-detections of PWNe towards PSRs B1046-58, B1055-52, B1610-50 and
+J1105-6107. Our radio observations of the field around PSR B1055-52 argue
+against previous claims of an extended X-ray and radio PWNe associated with the
+pulsar. If these pulsars power unseen, compact radio PWN, upper limits on the
+radio flux indicate that less than 1e-6 of their spin-down energy is used to
+power this emission. Alternatively PSR B1046-58 and PSR B1610-50 may have
+relativistic winds similar to other young pulsars and the unseen PWN is
+resolved and fainter than our surface brightness sensitivity threshold. We can
+then determine upper limits on the local ISM density of 2.2e-3 cm^-3 and 1e-2
+cm^-3, respectively. Furthermore we constrain the spatial velocities of these
+pulsars to be less than ~450 km/s and thus rule out the association of PSR
+B1610-50 with SNR G332.4+00.1 (Kes 32). Strong limits on the ratio of unpulsed
+to pulsed emission are also determined for three pulsars.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 08:48:16 GMT""}]","2009-10-31"
+"astro-ph/9904057","Alexander Konopelko","Alexander K. Konopelko, John G. Kirk (Max-Planck-Institut fuer
+  Kernphysik, Heidelberg, Germany), Floyd W. Stecker (Laboratory for
+  High-Energy Astrophysics, NASA/Goddard Space Flight Center, Greenbelt, MD),
+  Apostolos Mastichiadis (Department of Physics, University of Athens,
+  Panepistimiopolis, Zografos, Greece)","Evidence for Intergalactic Absorption in the TeV Gamma-Ray Spectrum of
+  Mkn 501","7 pages, 1 figure, accepted in ApJ Letters 1999 April 2","Astrophys.J.518:L13-L15,1999","10.1086/312062",,"astro-ph",,"  The recent HEGRA observations of the blazar Mkn 501 show strong curvature in
+the very high energy gamma-ray spectrum. Applying the gamma-ray opacity derived
+from an empirically based model of the intergalactic infrared background
+radiation field (IIRF), to these observations, we find that the intrinsic
+spectrum of this source is consistent with a power-law: dN/dE~ E^-alpha with
+alpha=2.00 +/- 0.03 over the range 500 GeV - 20 TeV. Within current synchrotron
+self-Compton scenarios, the fact that the TeV spectral energy distribution of
+Mkn 501 does not vary with luminosity, combined with the correlated, spectrally
+variable emission in X-rays, as observed by the BeppoSAX and RXTE instruments,
+also independently implies that the intrinsic spectrum must be close to
+alpha=2. Thus, the observed curvature in the spectrum is most easily understood
+as resulting from intergalactic absorption.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 10:39:20 GMT""}]","2010-11-30"
+"astro-ph/9904058","Takeshi Go Tsuru","H.Matsumoto (1), T.G.Tsuru (2) ((1) The Institute of Physical and
+  Chemical Research (RIKEN), (2) Department of Physics, Faculty of Science,
+  Kyoto University)","X-Ray Evidence of an AGN in M82","15pages for text and tables. 13pages for figures","AIP Conf.Proc. 599 (1999) 758-761","10.1093/pasj/51.3.321",,"astro-ph",,"  An X-ray spectrum of the famous starburst galaxy M82 consists of three
+components: soft, medium, and hard components (Tsuru et al. 1997). The spectrum
+of the hard component, which is spatially unresolved, is well represented by an
+absorbed thermal bremsstrahlung, or an absorbed power-law model. However the
+origin of the hard component was unclear. Thus, we made a monitoring
+observation with ASCA in 1996. Although the X-ray flux of the soft and medium
+components remained constant, a significant time variability of the hard
+component was found between $3\times10^{40}$ erg/s and $1\times10^{41}$ erg/s
+at various time scales from 10 ks to a month. The temperature or photon index
+of the hard component also changed. We proved that the spatial position of the
+hard component is the center of M82. The spectrum of the variable source
+obtained by subtracting the spectrum of the lowest state from the highest state
+suggests the strong absorption of $N_{\rm H} \sim 10^{22}$ cm$^2$, which means
+the variable source is embedded in the center of M82. All these suggest that a
+low-luminosity AGN exists in M82.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 10:49:02 GMT""}]","2015-06-24"
+"astro-ph/9904059","Bg Sidharth","B.G. Sidharth","Galaxies and Superclusters","2 pages, TeX",,,,"astro-ph",,"  In this brief note, we would like to point out that large-scale structures
+like galaxies and superclusters would arise quite naturally in the universe.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 14:59:13 GMT""}]","2007-05-23"
+"astro-ph/9904060","Bg Sidharth","B.G. Sidharth","Galactic Rotation and Large Scale Structures","5 pages, TeX",,,,"astro-ph",,"  On the basis of a recent cosmological model, the puzzle of galactic
+rotational velocities at their edges is explained without invoking dark matter.
+A rationale for the existence of structures like galaxies and superclusters is
+also obtained.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 15:01:41 GMT""}]","2007-05-23"
+"chao-dyn/9904011","Nobuko Fuchikami","Nobuko Fuchikami","Randomly Amplified Discrete Langevin Systems","6 pages, no figure to appear Phys. Rev. E",,"10.1103/PhysRevE.60.1060",,"chao-dyn nlin.CD",,"  A discrete stochastic process involving random amplification with additive
+noise is studied analytically. If the non-negative random amplification factor
+$b$ is such that $<b^{\beta}>=1$ where $\beta$ is any positive non-integer,
+then the steady state probability density function for the process will have
+power law tails of the form $p(x) \sim 1/x^{\beta +1}$. This is a
+generalization of recent results for $0 < \beta < 2$ obtained by Takayasu et
+al. in Phys. Rev. lett. 79, 966 (1997). It is shown that the power spectrum of
+the time series $x$ becomes Lorentzian, even when $1 < \beta < 2$, i.e., in
+case of divergent variance.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 08:46:01 GMT""}]","2009-10-31"
+"cond-mat/9904056","Bibhas Bhattacharyya","Bibhas Bhattacharyya and Shreekantha Sil","Hubbard model with bond-charge interaction on a triangular lattice: a
+  renormalization group study","10 pages, Latex, 4 ps figures, to appear in J. Phys.: Condens. Matter",,"10.1088/0953-8984/11/17/309",,"cond-mat.str-el",,"  We have studied the Hubbard model with bond-charge interaction on a
+triangular lattice for a half-filled band. At the point of particle-hole
+symmetry the model could be analyzed in detail in two opposite regimes of the
+parameter space. Using a real space renormalization group we calculate the
+ground state energy and the local moment over the whole parameter space. The RG
+results obey the exact results in the respective limits. In the intermediate
+region of the parameter space the RG results clearly show the effects of the
+non-bipartite geometry of the lattice as well as the absence of symmetry in the
+reversal of the sign of the hopping matrix element.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 05:46:08 GMT""}]","2009-10-31"
+"cond-mat/9904057","Ilya V. Ponomarev","I. V. Ponomarev, V. V. Flambaum, and A. L. Efros","Spin structure of impurity band of semiconductors in two and
+  three-dimensional cases","RevTeX, 17 pages, 4 figures, submited to Phys. Rev. B",,,,"cond-mat.str-el",,"  The exchange interaction between electrons located at different randomly
+distributed impurities is studied for small density of impurities. The
+singlet-triplet splitting 2J(R) is calculated for two Coulomb centers at a
+distance R. Interpolated formulas are found which work for all distances R from
+zero to infinity. The data from atomic physics are used for the interpolation
+in three-dimensional case. For two-dimensional case the original calculations
+are performed to find asymptotic behavior of the splitting at large R, the
+splitting for the ``two-dimensional helium atom'' (R=0) and the splitting at
+$R=a_B$, where $a_B$ is the effective Bohr radius. The spin structure of
+impurity band is described by the Heisenberg Hamiltonian. The ground state of a
+system consists of localized singlets. The new results are obtained for the
+distribution of the singlet pairs in the ground state. These results are exact
+at low density. The problem is reduced to a non-trivial geometric problem which
+is solved in the mean field approximation and by computer modeling. The density
+of free electrons is found as a function of temperature and the distribution
+function of the singlet-triplet transitions energies is calculated. Both
+functions are given in an analytical form.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 07:39:43 GMT""}]","2007-05-23"
+"cond-mat/9904058","Tohru Okamoto","Tohru Okamoto, Kunio Hosoya, Shinji Kawaji, Atsuo Yagi","Spin Degree of Freedom in a Two-Dimensional Electron Liquid","4 pages, RevTeX, 6 eps-figures, to appear in PRL","Phys. Rev. Lett. 82, 3875 (1999)","10.1103/PhysRevLett.82.3875",,"cond-mat.str-el",,"  We have investigated correlation between spin polarization and
+magnetotransport in a high mobility silicon inversion layer which shows the
+metal-insulator transition. Increase in the resistivity in a parallel magnetic
+field reaches saturation at the critical field for the full polarization
+evaluated from an analysis of low-field Shubnikov-de Haas oscillations. By
+rotating the sample at various total strength of the magnetic field, we found
+that the normal component of the magnetic field at minima in the diagonal
+resistivity increases linearly with the concentration of ``spin-up'' electrons.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 09:57:00 GMT""}]","2009-10-31"
+"cond-mat/9904059","S. B. Rutkevich","S.B. Rutkevich","Decay of the metastable phase in d=1 and d=2 Ising models","4 pages, REVTeX","Phys. Rev. B 60 14525-8 (1999)","10.1103/PhysRevB.60.14525",,"cond-mat.stat-mech cond-mat.mtrl-sci",,"  We calculate perturbatively the tunneling decay rate $\Gamma$ of the
+metastable phase in the quantum d=1 Ising model in a skew magnetic field near
+the coexistence line $0<h_{x}<1, h_{z}\to -0$ at T=0. It is shown that $\Gamma$
+oscillates in the magnetic field $h_{z}$ due to discreteness of the excitation
+energy spectrum. After mapping of the obtained results onto the extreme
+anisotropic d=2 Ising model at $T<T_c$, we verify in the latter model the
+droplet theory predictions for the free energy analytically continued to the
+metastable phase. We find also evidence for the discrete-lattice corrections in
+this metastable phase free energy.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 14:38:44 GMT""}]","2009-10-31"
+"cond-mat/9904060","Trinh Xuan Hoang","Piotr Garstecki, Trinh Xuan Hoang and Marek Cieplak","Energy landscapes, supergraphs, and ""folding funnels"" in spin systems","REVTeX, 9 pages, two-column, 13 EPS figures included","Phys. Rev. E 60(3), 3219-3226 (1999)","10.1103/PhysRevE.60.3219",,"cond-mat.stat-mech q-bio.BM",,"  Dynamical connectivity graphs, which describe dynamical transition rates
+between local energy minima of a system, can be displayed against the
+background of a disconnectivity graph which represents the energy landscape of
+the system. The resulting supergraph describes both dynamics and statics of the
+system in a unified coarse-grained sense. We give examples of the supergraphs
+for several two dimensional spin and protein-related systems. We demonstrate
+that disordered ferromagnets have supergraphs akin to those of model proteins
+whereas spin glasses behave like random sequences of aminoacids which fold
+badly.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 15:13:38 GMT""},{""version"":""v2"",""created"":""Fri, 20 Aug 1999 12:25:30 GMT""}]","2009-10-31"
+"gr-qc/9904009","Jose A. Font","N. Stergioulas (1,2), J.A. Font (1), K.D. Kokkotas (2) ((1)
+  AEI-Potsdam, (2) Thessaloniki)","Non-linear Evolution of Rotating Relativistic Stars","12 pages, 4 figures, Contribution to the 19th Texas Symposium",,,,"gr-qc astro-ph",,"  We present first results of the non-linear evolution of rotating relativistic
+stars obtained with an axisymmetric relativistic hydrodynamics code in a fixed
+spacetime. As initial data we use stationary axisymmetric and perturbed
+configurations. We find that, in order to prevent (numerical) angular momentum
+loss at the surface layers of the star a high-resolution grid (or a numerical
+scheme that retains high order at local extrema) is needed. For non-rotating
+stars, we compute frequencies of radial and non-radial small-amplitude
+oscillations, which are in excellent agreement with linear normal mode
+frequencies computed in the Cowling approximation. As a first application of
+our code, quasi-radial modes of rapidly rotating relativistic stars are
+computed. By generalizing our numerical code to 3-D, we plan to study the
+evolution and non-linear dynamics of toroidal oscillations (r-modes) of rapidly
+rotating neutron stars, which are a promising source of gravitational waves.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 07:20:09 GMT""}]","2007-05-23"
+"hep-ex/9904003","Lev Filkov","L.V. Fil'kov, V.L. Kashevarov, E.S. Konobeevski, M.V. Mordovskoy, S.I.
+  Potashev and V.M. Skorkin","Search for Supernarrow Dibaryons in pd Interactions","RevTex, 13 pages including 5 figs. Minor corrections","Phys.Rev. C61 (2000) 044004","10.1103/PhysRevC.61.044004",,"hep-ex hep-ph nucl-th",,"  The reaction pd-->pX at 305 MeV is studied with the aim to search for
+supernarrow dibaryons, the decay of which into two nucleons is forbidden by the
+Pauli exclusion principle. The experiment was carried out at the Moscow Meson
+Factory using the spectrometer TAMS, which detected the scattered proton in
+coincidence with another charged particle (either p or d) from the decay of
+particle X. The detection of the second charged particle at angles close to the
+emission angle of particle X with mass M allows to suppress essentially the
+contribution of background processes and to increase the relative contribution
+of a possible production of the dibaryons under consideration. Narrow peaks in
+missing mass spectra have been observed at 1905 and 1924 MeV with the
+statistical significance of ~4.8 SD. The widths of both observed peaks
+correspond to the experimental resolution (3 MeV). Comparison of the obtained
+data with theoretical predictions leads to the conclusion that the peak found
+at 1905 MeV most likely corresponds to a supernarrow dibaryon with the isotopic
+spin equal to 1. The possible origin of the peak at 1924 MeV is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 11:47:06 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jan 2000 16:05:51 GMT""},{""version"":""v3"",""created"":""Thu, 20 Apr 2000 08:20:44 GMT""}]","2009-10-31"
+"hep-ph/9904223","Nikolai N. Achasov","N.N. Achasov (S.L. Sobolev Institute for Mathematics SB RAS)","On the Nature of the Scalar a_0(980) and f_0(980)-Mesons","15 pages, revtex, Talk given at ""International Workshop e^+e^-
+  Collisions from \phi to J/\Psi"", Budker Institute of Nuclear Physics,
+  Novosibirsk, Russia, March 1-5, 1999","Phys.Usp.41:1149-1153,1998; Usp.Fiz.Nauk 168:1257-1261,1998","10.1070/PU1998v041n11ABEH000507",,"hep-ph hep-ex",,"  It is presented a critical consideration of all unusual properties of the
+scalar $a_0(980)$ and $f_0(980)$-mesons in the four-quark, two-quark and
+molecular models. The arguments are adduced that the four-quark model is more
+preferable. It is discussed the complex of experiments that could finally
+resolve this issue.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 04:00:15 GMT""}]","2010-12-17"
+"hep-ph/9904224","Benjamin Pablo-Norman","M. Ruiz-Altaba, J.L. Lucio and M. Napsuciale","Pion Scattering Revisited","latex; VIII EMPC (Oaxaca, Nov 98) Proceedings","AIP Conf.Proc.490:418-421,1999","10.1063/1.1301413","IFUNAM-FT-99-05","hep-ph",,"  Chiral Ward identities lead to consistent accounting for the sigma's width in
+the linear sigma model's Feynman rules. Reanalysis of pion scattering data at
+threshold imply a mass for the sigma of 600+ 200 - 100 MeV.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 10:42:23 GMT""}]","2009-10-31"
+"hep-ph/9904225","Marcello Lissia","V. Berezinsky, G. Fiorentini, and M. Lissia","Vacuum oscillations and excess of high energy solar neutrino events
+  observed in Superkamiokande","ReVTeX, 8 pages, 7 figures included using psfig.sty ; references and
+  notes added","Astropart.Phys.12:299-306,2000","10.1016/S0927-6505(99)00090-0","INFNCA-TH9903","hep-ph",,"  The excess of solar-neutrino events above 13 MeV that has been recently
+observed by Superkamiokande can be explained by the vacuum oscillation solution
+to the Solar Neutrino Problem (SNP). If the boron neutrino flux is 20% smaller
+than the standard solar model (SSM) prediction and the chlorine signal is
+assumed 30% (or 3.4 sigmas) higher than the measured one, there exists a vacuum
+oscillation solution to SNP that reproduces both the observed spectrum of the
+recoil electrons, including the high energy distortion, and the other measured
+neutrino rates. The most distinct signature of this solution is a semi-annual
+seasonal variation of the Be7 neutrino flux with maximal amplitude. While the
+temporal series of the GALLEX and Homestake signals suggest that such a
+seasonal variation could be present, future detectors (BOREXINO, LENS and
+probably GNO) will be able to test it.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 12:10:20 GMT""},{""version"":""v2"",""created"":""Wed, 1 Sep 1999 13:54:11 GMT""}]","2011-01-04"
+"hep-ph/9904226","Valeri Yudichev","M. K. Volkov, V. L. Yudichev (JINR, Russia)","Excited scalar mesons in a chiral quark model","LaTeX, 1 figure, minor misprints eradicated","Int.J.Mod.Phys. A14 (1999) 4621-4640","10.1142/S0217751X99002165","E2-99-89","hep-ph",,"  First radial excitations of the isoscalar and isovector scalar mesons
+f_0(400-1200), f_0(980) and a_0(980) are investigated in the framework of a
+nonlocal version of a chiral quark model of the Nambu--Jona-Lasinio type. It is
+shown that f_0(1370), f_J(1710) and a_0(1450) are the first radially excited
+states of f_0(400-1200), f_0(980) and a_0(980) which are ground states of the
+scalar meson nonet. The mesons' masses and strong decay widths are calculated.
+The scalar resonance f_0(1500) is supposed to be a glueball. The status of
+K_0^*(1430) is discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 13:09:24 GMT""},{""version"":""v2"",""created"":""Wed, 7 Apr 1999 17:21:17 GMT""}]","2009-10-31"
+"hep-ph/9904227","Nikita Agasyan","N.O. Agasian","Instanton Screening in the Nonperturbative Gluodynamics","LaTeX, 11 pages, no figures",,,"ITEP-PH-2/99","hep-ph",,"  The gluon fields screening in the stochastic vacuum of gluodynamics is
+studied. The effective action is derived for the instanton interacting with
+nonperturbative fields. Quantum nonperturbative effects are shown to affect
+greatly the shape of instanton. The power asymptotics x^2 of the classical
+""instanton's profile function"" at large distances is replaced due to these
+effects by Airy function asymptotics.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 13:46:03 GMT""}]","2007-05-23"
+"hep-ph/9904228","Bi Xiao-jun","Xiao-Jun Bi and Yuan-Ben Dai","CP violation in semi-leptonic decays of the top quark within MSSM","18 pages, 12 eps figures","Eur.Phys.J.C12:125-135,2000","10.1007/s100529900211",,"hep-ph",,"  We calculate the CP-violating effects in the top quark semi-leptonic three
+body decays induced by the supersymmetric CP-odd phase of the top squark
+trilinear soft breaking term $\arg(A_t)$. The light top squark mass is assumed
+to be close to the top quark mass $m_{\tilde{t}}\sim m_t$. The CP-conserving
+phase is provided by the $\chi^+$ and $\chi^0$ cut. We find that the partial
+rate asymmetry is in the 0.1% level. In the most favorable parameter region the
+decay rate asymmetr can reach up to 0.55%.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 14:29:48 GMT""}]","2009-01-07"
+"hep-th/9904023","Ian G. Moss","Ian G. Moss and Noriko Shiiki","Quantum Mechanics on Moduli Spaces","19 pages, REVTeX","Nucl.Phys. B565 (2000) 345-362","10.1016/S0550-3213(99)00650-1",,"hep-th",,"  It has been assumed that it is possible to approximate the interactions of
+quantized BPS solitons by quantising a dynamical system induced on a moduli
+space of soliton parameters. General properties of the reduction of quantum
+systems by a Born-Oppenheimer approximation are described here and applied to
+sigma models and their moduli spaces in order to learn more about this
+approximation. New terms arise from the reduction proceedure, some of them
+geometrical and some of them dynamical in nature. The results are generalised
+to supersymmetric sigma models, where most of the extra terms vanish.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 13:10:12 GMT""}]","2009-10-31"
+"hep-th/9904024","Martin Rocek","Amit Giveon and Martin Rocek","Supersymmetric string vacua on AdS_3 x N","harvmac, 9 pages (minor changes for submission to journal)","JHEP 9904 (1999) 019","10.1088/1126-6708/1999/04/019","RI-3-99, ITP-SB-99-10","hep-th",,"  String backgrounds of the form AdS_3 x N that give rise to two dimensional
+spacetime superconformal symmetry are constructed.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 15:59:04 GMT""},{""version"":""v2"",""created"":""Fri, 16 Apr 1999 01:41:37 GMT""},{""version"":""v3"",""created"":""Fri, 25 Jun 1999 05:56:52 GMT""}]","2009-10-31"
+"hep-th/9904025","Fabio Scardigli","Fabio Scardigli (ITP, University of Bern. Bern-CH)","Generalized Uncertainty Principle in Quantum Gravity from Micro-Black
+  Hole Gedanken Experiment","to appear in Physics Letters B, probably in an issue of April 1999, 9
+  pages, 2 figures, file ps","Phys.Lett.B452:39-44,1999","10.1016/S0370-2693(99)00167-7",,"hep-th gr-qc",,"  We review versions of the Generalized Uncertainty Principle (GUP) obtained in
+string theory and in gedanken experiments carried out in Quantum Gravity. We
+show how a GUP can be derived from a measure gedanken experiment involving
+micro-black holes at the Planck scale of spacetime. The model uses only
+Heisenberg principle and Schwarzschild radius and it is independent from
+particular versions of Quantum Gravity.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 15:54:45 GMT""}]","2011-05-05"
+"math/9904019","Luo","Feng Luo","Grothendieck's Reconstruction Principle and 2-dimensional Topology and
+  Geometry","27 pages, 11 figures. Communications in Contemporary Mathematics, to
+  appear","Communications in Contemporary Mathematics, Vol. 1, No. 2 (1999)
+  125-153",,,"math.GT math.AG math.DG",,"  This paper attempts to relate some ideas of Grothendieck in his Esquisse d'un
+programme and some of the recent results on 2-dimensional topology and
+geometry. Especially, we shall discuss the Teichm\""uller theory, the mapping
+class groups, $SL(2, \bold C)$ representation variety of surface groups, and
+Thurston's theory of measured laminations.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1999 21:51:54 GMT""}]","2007-05-23"
+"math/9904020","Luo","Feng Luo","Automorphisms of the Complex of Curves","19 pages, 10 figures. Topology, to appear",,,,"math.GT",,"  This goal of the paper is to show that the automorphisms of the complex of
+curves in a surface are induced by the self-homeomorphisms of the surface
+except the surface is the 2-holed torus.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1999 22:10:19 GMT""}]","2007-05-23"
+"math/9904021","Alejandro Rivero Gracia","A. Rivero","On the section of a cone","5 pages, LaTeX",,,,"math.HO",,"  A problem from Democritus is used to illustrate the building, and use, of
+infinitesimal covectors from its regularized, finite, counterpart.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 07:35:33 GMT""}]","2007-05-23"
+"math/9904022","Oded Schramm","Oded Schramm","Scaling limits of loop-erased random walks and uniform spanning trees","(for V2) inserted another figure and two more references","Isr.J.Math.118:221-288,2000",,,"math.PR math-ph math.MP",,"  The uniform spanning tree (UST) and the loop-erased random walk (LERW) are
+related probabilistic processes. We consider the limits of these models on a
+fine grid in the plane, as the mesh goes to zero. Although the existence of
+scaling limits is still unproven, subsequential scaling limits can be defined
+in various ways, and do exist. We establish some basic a.s. properties of the
+subsequential scaling limits in the plane. It is proved that any LERW
+subsequential scaling limit is a simple path, and that the trunk of any UST
+subsequential scaling limit is a topological tree, which is dense in the plane.
+  The scaling limits of these processes are conjectured to be conformally
+invariant in 2 dimensions. We make a precise statement of the conformal
+invariance conjecture for the LERW, and show that this conjecture implies an
+explicit construction of the scaling limit, as follows. Consider the Loewner
+differential equation
+  ${\partial f\over\partial t}
+  = z {\zeta(t)+z \over \zeta(t)-z} {\partial f\over\partial z}$
+  with boundary values $f(z,0)=z$, in the range $z\in\U=\{w\in\C\st |w|<1\}$,
+$t\le 0$. We choose $\zeta(t):= \B(-2t)$, where $\B(t)$ is Brownian motion on
+$\partial \U$ starting at a random-uniform point in $\partial \U$. Assuming the
+conformal invariance of the LERW scaling limit in the plane, we prove that the
+scaling limit of LERW from 0 to $\partial\U$ has the same law as that of the
+path $f(\zeta(t),t)$. We believe that a variation of this process gives the
+scaling limit of the boundary of macroscopic critical percolation clusters.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 09:45:10 GMT""},{""version"":""v2"",""created"":""Sun, 18 Apr 1999 07:48:03 GMT""}]","2008-11-26"
+"math/9904023","Aaron Robertson","Aaron Robertson","Difference Ramsey Numbers and Issai Numbers","10 pages",,,,"math.CO",,"  We present a recursive algorithm for finding good lower bounds for the
+classical Ramsey numbers. Using notions from this algorithm we then give some
+results for generalized Schur numbers, which we call Issai numbers.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1999 14:29:34 GMT""}]","2007-05-23"

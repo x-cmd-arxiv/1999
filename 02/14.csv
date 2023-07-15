@@ -1,0 +1,213 @@
+"astro-ph/9902198","Michael R. Meyer","Michael R. Meyer (Steward Observatory, The University of Arizona),
+  Fred C. Adams (Department of Physics, University of Michigan), Lynne A.
+  Hillenbrand, John M. Carpenter (Department of Astronomy, Caltech), and
+  Richard B. Larson (Department of Astronomy, Yale)","The Stellar Initial Mass Function: Constraints from Young Clusters and
+  Theoretical Perspectives","30 pages, 3 figures, 1 table: To appear in Protostars & Planet IV,
+  eds. V. Mannings, A. Boss, S. Russell (Tucson: The University of Arizona
+  Press)",,,,"astro-ph",,"  We summarize recent observational and theoretical progress aimed at
+understanding the origin of the stellar initial mass function (IMF) with
+specific focus on galactic star-forming regions. We synthesize data from
+various efforts to determine the IMF in very young, partially-embedded stellar
+clusters and find: i) no significant variations in the low-mass IMF have been
+observed between different star-forming regions; and ii) the mass distributions
+of young stars just emerging from molecular clouds are consistent with having
+been drawn from the IMF derived from field stars in the solar neighborhood.
+These results apply only to gross characterizations of the IMF (e.g. the ratio
+of high to low mass stars); present observations do not rule out more subtle
+regional differences. Further studies are required in order to assess whether
+or not there is evidence for a universal turnover near the hydrogen--burning
+limit. We also provide a general framework for discussing theories of the IMF,
+and summarize recent work on several physical mechanisms which could play a
+role in determining the form of the stellar initial mass function.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 04:19:51 GMT""}]","2007-05-23"
+"astro-ph/9902199","Mary Putman","M.E. Putman & B.K Gibson","The First Results from the Parkes Multibeam High-Velocity Cloud Survey","7 pages with 6 figures in gif format, also available with embedded
+  postscript figures at http://msowww.anu.edu.au/~putman/pubs.html To appear in
+  PASA, vol. 16, no. 1 (Proceedings of ""HI in the Local Universe - II)",,"10.1071/AS99070",,"astro-ph",,"  With the onset of the HI Parkes All-Sky Survey, a new view of the
+high-velocity cloud (HVC) distribution in the southern sky is being revealed.
+The dense spatial sampling and unbiased coverage of HIPASS gives it multiple
+advantages over previous surveys of the southern sky. Detailed views of the
+clouds' structure and large mosaics of the HI sky allow us to link individual
+concentrations to larger structures (such as the Magellanic Clouds and the
+Galaxy), providing pictorial clues as to the origins of HVCs. It is clear that
+HVCs cannot be uniformly assigned a single origin scenario, and must be
+categorised appropriately.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 05:17:59 GMT""}]","2015-06-24"
+"astro-ph/9902200","Ruben Krasnopolsky","R. Krasnopolsky, Z.-Y. Li and R. D. Blandford","Magneto-Centrifugal Launching of Jets from Accretion Disks. I: Cold
+  Axisymmetric Flows","27 pages, including 10 figures and 2 tables. To appear in ApJ (Dec
+  1999). Revised version clarifies the abstract, section 3.2.4, conclusions and
+  appendix, adds a simulation to section 4.2, and updates the references","Astrophys.J. 526 (1999) 631","10.1086/308023",,"astro-ph",,"  The magneto-centrifugal model for jet formation is studied by time-dependent
+simulations reaching steady state in a cold gas with negligible fluid pressure,
+in an axisymmetric geometry, using a modification of the Zeus3D code adapted to
+parallel computers. The number of boundary conditions imposed at the coronal
+base takes into account the existence of the fast and Alfvenic critical
+surfaces, avoiding over-determination of the flow. The size and shape of the
+computational box is chosen to include these critical surfaces, reducing the
+influence of the outer boundary conditions. As there is a region, near the
+origin, where the inclination of field lines to the axis is too small to drive
+a centrifugal wind, we inject a thin, axial jet, expected to form
+electromagnetically near black holes. Acceleration and collimation appear for
+wide generic conditions. A reference run is shown in detail, with a wind
+leaving the computational volume in the axial direction with a poloidal
+velocity equal to 4 times the poloidal Alfven speed, collimated inside 11
+degrees. Finally, the critical surfaces, fieldlines, thrust, energy, torque and
+mass discharge of the outgoing wind are shown for simulations with various
+profiles of mass and magnetic flux at the base of the corona.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 12:21:42 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 1999 13:09:01 GMT""}]","2009-10-31"
+"cond-mat/9902198","Ernesto Medina","Eduardo Aponte and Ernesto Medina","Directed paths on hierarchical lattices with random sign weights","20 pages, 12 figures","Phys. Rev. E {\bf 58}, 4246 (1998)","10.1103/PhysRevE.58.4246",,"cond-mat.stat-mech cond-mat.dis-nn",,"  We study sums of directed paths on a hierarchical lattice where each bond has
+either a positive or negative sign with a probability $p$. Such path sums $J$
+have been used to model interference effects by hopping electrons in the
+strongly localized regime. The advantage of hierarchical lattices is that they
+include path crossings, ignored by mean field approaches, while still
+permitting analytical treatment. Here, we perform a scaling analysis of the
+controversial ``sign transition'' using Monte Carlo sampling, and conclude that
+the transition exists and is second order. Furthermore, we make use of exact
+moment recursion relations to find that the moments $<J^n>$ always determine,
+uniquely, the probability distribution $P(J)$. We also derive, exactly, the
+moment behavior as a function of $p$ in the thermodynamic limit. Extrapolations
+($n\to 0$) to obtain $<\ln J>$ for odd and even moments yield a new signal for
+the transition that coincides with Monte Carlo simulations. Analysis of high
+moments yield interesting ``solitonic'' structures that propagate as a function
+of $p$. Finally, we derive the exact probability distribution for path sums $J$
+up to length L=64 for all sign probabilities.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1999 19:32:05 GMT""}]","2009-10-31"
+"cond-mat/9902199","Honggang Luo","Hong-Gang Luo, Zu-Jian Ying, and Shun-Jin Wang","Equation of motion approach to the solution of Anderson model","4 pages, 2 figures","PRB 59, 9710 (1999)","10.1103/PhysRevB.59.9710",,"cond-mat.str-el",,"  Based on an equation of motion approach the single impurity Anderson
+model(SIAM) is reexamined. Using the cluster expansions the equations of motion
+of Green functions are transformed into the corresponding equations of motion
+of connected Green functions, which provides a natural and uniform truncation
+scheme. A factor of two missing in the Lacroix's approximation for the Kondo
+temperature is gained in the next higher order truncation beyond Lacroix's. A
+quantitative improvement in the density of states at the Fermi level is also
+obtained.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1999 22:04:05 GMT""}]","2009-10-31"
+"cond-mat/9902201","Young Sang Lee","S. Wakimoto, R.J. Birgeneau, Y. Endoh, P.M. Gehring, K. Hirota, M.A.
+  Kastner, S.H. Lee, Y.S. Lee, G. Shirane, S. Ueki, and K. Yamada","Observation of New Incommensurate Magnetic Correlations at the Lower
+  Critical Concentration for Superconductivity (x=0.05) in La(2-x)Sr(x)CuO4","5 pages, LaTeX, 4 figures included",,"10.1103/PhysRevB.60.R769",,"cond-mat.supr-con",,"  Neutron-scattering experiments have been performed on lightly-doped
+La(2-x)Sr(x)CuO4 single crystals in both the insulating (x=0.03,0.04,0.05) and
+superconducting (x=0.06) regions. Elastic magnetic peaks are observed at low
+temperatures in all samples with the maximum peak linewidth occuring at the
+critical concentration x_c=0.05. New incommensurate peaks are observed only at
+x=0.05, the positions of which are rotated by 45 degrees in reciprocal space
+about (pi,pi) from those observed for x>=0.06 in the superconducting phase.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 02:42:23 GMT""},{""version"":""v2"",""created"":""Fri, 9 Apr 1999 00:30:33 GMT""},{""version"":""v3"",""created"":""Fri, 16 Apr 1999 14:56:02 GMT""}]","2009-10-31"
+"gr-qc/9902043","Forough Naseri","Reza Mansouri, Forough Nasseri","A model Universe with variable space dimension: its dynamics and wave
+  function","37 pages, 7 ps figuers, latex file","Phys.Rev.D60:123512,1999","10.1103/PhysRevD.60.123512","IPM/P-99/7","gr-qc astro-ph",,"  Assuming the space dimension is not constant, but varies with the expansion
+of the Universe, a Lagrangian formulation for a toy model Universe is given.
+There is a free paremeter in the theory, $C$, with which we can fix the
+dimension of space at the Planck time. The standard FRW model corresponds to
+the limiting case $C \to +\infty$. We study the Wheeler-De Witt equation and
+the wave function of the Universe and the probability density in our model
+Universe. In the limit of constant space dimension, our wave function
+approaches to the Hartle-Hawking wave function or to a modified Linde wave
+function.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 07:20:05 GMT""}]","2014-11-17"
+"gr-qc/9902044","Laurent Querella","Laurent Querella (IAGL, Universite de Liege)","Variational Principles and Cosmological Models in Higher-Order Gravity","Doctoral dissertation, LaTeX2e, 194 pages, no figures",,,,"gr-qc",,"  This dissertation investigates three main topics, all of which dealing with
+alternative, higher-order gravity theories in four dimensions. Firstly, we
+study the variational and conformal structure of those theories. Next, we
+analyse their Hamiltonian formulation and in particular its relationship with
+the famous ADM canonical version of general relativity. Finally, we study
+higher-order spatially homogeneous cosmologies and exemplify how Hamiltonian
+methods can be utilised to simplify the analysis of the associated field
+equations.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 14:20:54 GMT""}]","2007-05-23"
+"hep-ex/9902019","John Dainton","C. Adloff, et al. (H1 Collaboration)","Elastic Electroproduction of rho Mesons at HERA","55 pages, 24 figures, 13 tables submitted to Eur. Phys. J C","Eur.Phys.J.C13:371-396,2000","10.1007/s100520050703","DESY 99-010","hep-ex",,"  The elastic electroproduction of rho mesons is studied at HERA with the H1
+detector for a photon virtuality in the range 1 < Q^2 < 60 GeV^2 and for a
+hadronic centre of mass energy in the range 30 < W < 140 GeV. The shape of the
+pipi mass distribution in the rho resonance region is measured as a function of
+Q^2. The full set of rho spin density matrix elements is determined, and
+evidence is found for a helicity flip amplitude at the level of 8 +- 3 % of the
+non-flip amplitudes. Measurements are presented of the dependence of the cross
+section on Q^2, W and t (the four-momentum transfer squared to the proton).
+They suggest that, especially at large Q^2, the gamma^*p cross section develops
+a stronger W dependence than that expected from the behaviour of elastic and
+total hadron-hadron cross sections.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1999 19:06:50 GMT""}]","2008-11-26"
+"hep-ph/9902339","Emilio Torrente Lujan","E. Torrente-Lujan","A Review on Neutrino Physics, Mass and Oscillations","24 pags, 9 figs",,,"IFIC/FTUV-9910","hep-ph",,"  We present a short review of the present status of the problem of neutrino
+masses and mixing including a survey of theoretical motivations and models,
+experimental searches and implications of recently appeared solar and
+atmospheric neutrino data, which strongly indicate nonzero neutrino masses.
+Such data apparently requires the existence of light sterile neutrino in
+addition to the three active ones and two-generation nearly maximal mixing.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1999 19:25:15 GMT""}]","2007-05-23"
+"hep-th/9902104","Amir Masoud Ghezelbash","K. Kaviani, A.M. Ghezelbash","Quantizing field theories in noncommutative geometry and the
+  correspondence between anti de Sitter space and conformal field theory","some minor typographical errors are corrected, to appear in Phys.
+  Lett. B","Phys.Lett. B469 (1999) 81-86","10.1016/S0370-2693(99)01275-7",,"hep-th",,"  By using the approach of non-commutative geometry, we study spinors and
+scalars on the two layers AdS$_{d+1}$ space. We have found that in the boundary
+of two layers AdS$_{d+1}$ space, by using the AdS/CFT correspondence, we have a
+logarithmic conformal field theory. This observation propose a way to get the
+quantum field theory in the context of non-commutative geometry.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 14:48:57 GMT""},{""version"":""v2"",""created"":""Mon, 1 Nov 1999 10:09:07 GMT""}]","2009-10-31"
+"math/9902080","Jean-Francois Burnol","Jean-Francois Burnol","The Explicit Formula and the conductor operator","28 pages, Plain TeX. A combined, more politically correct, version of
+  my earlier papers (math/9809119, math/9811040, math/9812012), one result
+  added, new references",,,,"math.NT",,"  I give a new derivation of the Explicit Formula for an arbitrary number field
+and abelian Dirichlet-Hecke character, which treats all primes in exactly the
+same way, whether they are discrete or archimedean, and also ramified or not.
+This is followed with a local study of a Hilbert space operator, the
+``conductor operator'', which is expressed as H = log(|x|) + log(|y|) (where x
+and y are Fourier dual variables on a nu-adic completion of the number field).
+I also study the commutator operator K = i[log(|y|),log(|x|)] (which shares
+with H the property of complete dilation invariance, and turns out to be
+bounded), as well as the higher commutator operators. The generalized
+eigenvalues of these operators are given by the derivatives on the critical
+line of the Tate-Gel'fand-Graev Gamma function, which itself is in fact closely
+related to the additive Fourier Transform viewed in multiplicative terms. This
+spectral analysis is thus a natural continuation to Tate's Thesis in its local
+aspects. (combines my earlier papers math/9809119, math/9811040, math/9812012,
+one result added, new references)
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1999 22:38:08 GMT""}]","2007-05-23"
+"math/9902082","Gyo Taek Jin","Choon Bae Jeon and Gyo Taek Jin","There are only finitely many 3-superbridge knots","13 pages, 11 figures, 1 table","J. Knot Theory Ramifications, vol.10, no.2 (2001) 331-343, Special
+  issue of ""Knots in Hellas '98 (vol.2)""",,,"math.GT",,"  Although there are infinitely many knots with superbridge index n for every
+even integer n>2, there are only finitely many knots with superbridge index 3.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1999 20:20:09 GMT""},{""version"":""v2"",""created"":""Tue, 17 Apr 2001 07:37:18 GMT""}]","2007-05-23"
+"math/9902083","Samuel R. Kaplan","Samuel R. Kaplan","Symbolic Dynamics of the Collinear Three-Body Problem","20 pages, 16 figures, for AMS Contemportay Mathematics Series,
+  ""Geometry and Topology in Dynamics"". On August 5, 1999, made minor changes in
+  section 1, typos corrected",,,,"math.DS",,"  Solutions to the collinear three-body problem which do not end in triple
+collision pass through an infinite number of binary collisions. Given three
+masses, we show that four geometric quantities generate a finite description of
+itineraries of binary collisions. In the best circumstances, this description
+is semi-conjugate to a Poincare map of the flow. For other cases these
+quantities give upper and lower bounds on the itineraries which can occur. In
+addition to describing the dynamics of the collinear three-body problem, the
+results of this paper rederives the existence of oscillatory motion in the
+general N-body problem for N > 2.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 03:31:20 GMT""},{""version"":""v2"",""created"":""Thu, 5 Aug 1999 16:51:44 GMT""}]","2007-05-23"
+"math/9902084","Yoshimi Saito","Chris Pladdy, Yoshimi Saito and Tomio Umeda","Resolvent estimates of the Dirac operator","28 pages, no figures","Analysis 15 (1995) 123-149",,,"math.SP",,"  We shall investigate the asymptotic behavior of the extended resolvent R(s)
+of the Dirac operator as |s| increases to infinity, where s is a real
+parameter. It will be shown that the norm of R(s), as a bounded operator
+between two weighted Hilbert spaces of square integrable functions on the
+3-dimensional Euclidean space, stays bounded. Also we shall show that R(s)
+converges 0 strongly as |s| increases to infinity. This result and a result of
+Yamada [15] are combined to indicate that the extended resolvent of the Dirac
+operator decays much more slowly than those of Schroedinger operators.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 08:33:21 GMT""}]","2007-05-23"
+"math/9902085","Yoshimi Saito","Willi Jager and Yoshimi Saito","On the spectrum of the reduced wave operator with cylindrical
+  discontinuity","36 pages; no figures","Forum Mathematicum 9 (1997) 29-60",,,"math.SP",,"  Consider the differential operator H = -(1/m(x))L, where L is the
+N-dimensional Laplacian, in the weighted Hilbert space of square integrable
+functions on N-dimensional Euclidean space with weight m(x)dx. Here m(x) is a
+positive step function with a surface S of discontinuity (the separation
+surface). So far the stratified media in which the separating surface S
+consists of paralell planes have been vigorously studied. Also the case where S
+has a cone shape has been discussed. In this work we shall deal with a new type
+of discontinuity which we call cylindrical discontinuity. Under this condition
+we shall use the limiting absorption method to prove that H is absolute
+continuous. Our method is based on a apriori estimates of radiation condition
+term.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 10:08:16 GMT""}]","2007-05-23"
+"math/9902086","Yoshimi Saito","Willi Jager and Yoshimi Saito","The reduced wave equation in layered materials","32 pages; no figures","Osaka J. Math. 34 (1997) 267-301",,,"math.SP",,"  Let H = -(1/m(x))L be the reduced wave operator defined on the N-dimensional
+Euclidean space, where \f L is the Laplacian. Here m(x) is a positive step
+function with possible countably infinte surfaces of discontinuity (separating
+surfaces) under the compatibilty condition (1.12) on each separating surface.
+These compatibily condition allows us to treat the cases, among others, the
+separating surfaces are cylinders. The case where the separating surface has
+only one connected component was discussed in [9]. Also the case where the
+separating surface is cone-shaped was considered by Eidus [6] and others ([10],
+[11]). We shall prove the limiting absorption principle for H. Also we shall
+discuss the case where m(x) is perturbed by a short-range or long-range
+function.
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 10:35:48 GMT""}]","2007-05-23"
+"quant-ph/9902053","Andris Ambainis","Andris Ambainis","A better lower bound for quantum algorithms searching an ordered list","10 pages, LaTeX",,,,"quant-ph cs.CC cs.DS",,"  We show that any quantum algorithm searching an ordered list of n elements
+needs to examine at least 1/12 log n-O(1) of them. Classically, log n queries
+are both necessary and sufficient. This shows that quantum algorithms can
+achieve only a constant speedup for this problem. Our result improves lower
+bounds of Buhrman and de Wolf(quant-ph/9811046) and Farhi, Goldstone, Gutmann
+and Sipser (quant-ph/9812057).
+","[{""version"":""v1"",""created"":""Sun, 14 Feb 1999 01:20:11 GMT""}]","2007-05-23"

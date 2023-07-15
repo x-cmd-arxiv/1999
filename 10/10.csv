@@ -1,0 +1,163 @@
+"astro-ph/9910176","Valerio Faraoni","Valerio Faraoni, Edgard Gunzig","Einstein frame or Jordan frame ?","11 pages, LaTeX, no figures","Int.J.Theor.Phys. 38 (1999) 217-225",,,"astro-ph",,"  Scalar-tensor theories of gravity can be formulated in the Jordan or in the
+Einstein frame, which are conformally related. The issue of which conformal
+frame is physical is a contentious one; we provide a straightforward example
+based on gravitational waves in order to clarify the issue.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1999 16:01:31 GMT""}]","2007-05-23"
+"astro-ph/9910177","Nusser","Adi Nusser and Ofer Lahav","The Ly-alpha forest in a truncated hierarchical structure formation","4 pages, 3 figures, submitted to MNRAS",,"10.1046/j.1365-8711.2000.03441.x",,"astro-ph",,"  The Ly-alpha forest provides important constraints on the smoothness of the
+universe on large scales. We calculate the flux distribution along
+line-of-sight to quasars in a universe made of randomly distributed clumps,
+each of them with a Rayleigh-L`evi fractal structure. We consider the
+probability distribution function of the normalised flux in the line-of-sight
+to quasars. We show that the truncated clustering hierarchy model shows far too
+many voids along the line-of-sight to quasars compared with the observed flux
+distribution and the distribution in a Cold Dark Matter model. This supports
+the common view that on large scales the universe is homogeneous, rather than
+fractal-like.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 08:47:54 GMT""}]","2009-10-31"
+"astro-ph/9910178","Torbjorn Bremnes","T. Bremnes (1), B. Binggeli (1) and P. Prugniel (2) ((1) Basel,
+  Switzerland, (2) Lyon, France)","Structure and stellar content of dwarf galaxies IV. B and R photometry
+  of dwarf galaxies in the CVnI cloud","10 pages, submitted to A&AS. For a full resolution version see
+  ftp://merkur.astro.unibas.ch/pub/bremnes/canesv.ps.gz",,"10.1051/aas:2000320",,"astro-ph",,"  We have carried out CCD photometry in the Cousins B and R bands of 15
+galaxies in the Canes Venatici I cloud. Total magnitudes, effective radii,
+effective surface brightnesses, as well as galaxy radii at various isophotal
+levels in both colors were determined. Best-fitting exponential parameters and
+color gradients are also given for these galaxies. The photometric parameters
+presented here will analyzed in a forthcoming paper, together with previously
+published data for nearby dwarf galaxies.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 15:32:40 GMT""}]","2009-10-31"
+"chao-dyn/9910015","Kenichiro Aoki","Kenichiro Aoki and Dimitri Kusnezov","Bulk Properties of Anharmonic Chains in Strong Thermal Gradients:
+  Non-Equilibrium $\phi^4$ Theory","14pp, 5 figs",,"10.1016/S0375-9601(99)00899-3",,"chao-dyn nlin.CD",,"  We study nonequilibrium properties of a one-dimensional lattice Hamiltonian
+with quartic interactions in strong thermal gradients. Nonequilibrium
+temperature profiles, T(x), are found to develop significant curvature and
+boundary jumps. From the determination of the bulk thermal conductivity, we
+develop a quantitative description of T(x) including the jumps.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1999 18:06:04 GMT""}]","2009-10-31"
+"cond-mat/9910145","Maxim Tsypin","H.W.J. Bl\""ote, J.R. Heringa and M.M. Tsypin","Three-dimensional Ising model in the fixed-magnetization ensemble: a
+  Monte Carlo study","8 pages, 2 Postscript figures, uses RevTeX","Phys.Rev. E62 (2000) 77-82","10.1103/PhysRevE.62.77","FIAN/TD-21/99","cond-mat.stat-mech hep-lat",,"  We study the three-dimensional Ising model at the critical point in the
+fixed-magnetization ensemble, by means of the recently developed geometric
+cluster Monte Carlo algorithm. We define a magnetic-field-like quantity in
+terms of microscopic spin-up and spin-down probabilities in a given
+configuration of neighbors. In the thermodynamic limit, the relation between
+this field and the magnetization reduces to the canonical relation M(h).
+However, for finite systems, the relation is different. We establish a close
+connection between this relation and the probability distribution of the
+magnetization of a finite-size system in the canonical ensemble.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 08:54:12 GMT""}]","2009-10-31"
+"cond-mat/9910146","Daniel V. Shantsev","D. V. Shantsev, Y. M. Galperin, and T. H. Johansen","Thin superconducting disk with field-dependent critical current:
+  Magnetization and ac susceptibilities","RevTex, 8 pages including 11 figures","Phys. Rev. B 61, p.9699-9706 (2000)","10.1103/PhysRevB.61.9699",,"cond-mat.supr-con",,"  Magnetization hysteresis loops and the ac susceptibility of a superconducting
+thin disk are calculated in the critical-state model assuming a field-dependent
+critical current density, Jc(B). The results are obtained by solving
+numerically the set of coupled integral equations for the flux and current
+distributions [PRB 60(17) p.13112 (1999)] for a disk placed in a perpendicular
+applied field Ba. From the magnetization curves the range of fields where the
+vertical width of the loop relates directly to Jc(Ba) is determined. Comparing
+our results on susceptibility with experimental data for parametric plot
+Im(chi) vs. Re(chi) shows that by taking the B-dependence of Jc into account
+the agreement improves dramatically. We show that the asymptotic behavior for
+large ac-field amplitudes Bam changes from Re(chi) ~ 1/Bam^{3/2} and Im(chi) ~
+1/Bam for the Bean model, to Re(chi) ~ 1/Bam^3 and Im(chi) ~ 1/Bam^2 for Jc
+decreasing with |B| as 1/|B| or faster. For small Bam the behavior can always
+be described by an effective Bean model with a renormalized Jc. We also find
+that in the Im(chi) vs. Re(chi) plot the peak of Im(chi) increases in magnitude
+and shifts to lower |Re(chi)|. This allows an easy experimental discrimination
+between a Bean model behavior, one with Jc(B), and one where flux creep is an
+ingredient.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 11:03:19 GMT""},{""version"":""v2"",""created"":""Thu, 9 Dec 1999 14:27:28 GMT""}]","2009-10-31"
+"cond-mat/9910147","Erwan Hascoet","E.Hascoet and H. Herrmann","Shocks in non-loaded bead chains with impurities","9 pages, 18 figures, Accepted in European Physical Journal B",,"10.1007/s100510050119",,"cond-mat.stat-mech",,"  We numerically investigate the problem of the propagation of a shock in an
+horizontal non-loaded granular chain with a bead interaction force exponent
+varying from unity to large values. When $\alpha$ is close to unity we observed
+a cross-over between a nonlinearity-dominated regime and a solitonic one, the
+latest being the final steady state of the propagating wave. In the case of
+large values of $\alpha$ the deformation field given by the numerical
+simulations is completely different from the one obtained by analytical
+calculation. In the following we studied the interaction of these shock waves
+with a mass impurity placed in the bead chain. Two different physical pictures
+emerge whether we consider a light or a heavy impurity mass. The scatter of the
+shock wave with a light impurity yields damped oscillations of the impurity
+which then behave as a solitary wave source. Differently an heavy impurity is
+just shifted by the shock and the transmitted wave loses its solitonic
+character being fragmented into waves of decreasing amplitudes.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 11:38:17 GMT""}]","2015-06-25"
+"cond-mat/9910148","Torsten Andersen","Torsten Andersen and Ole Keller","Local-field study of phase conjugation in metallic quantum wells with
+  probe fields of both propagating and evanescent character","18 pages, 12 figures, 3 tables, accepted for publication in The
+  Physical Review B. Figs. 3-6 reduced quality due to size limit","Physical Review B, vol. 60, pp. 17046-17063 (1999).","10.1103/PhysRevB.60.17046",,"cond-mat.mes-hall physics.optics",,"  The phase conjugated response from nonmagnetic multi-level metallic quantum
+wells is analyzed and an essentially complete analytical solution is presented
+and discussed. The description is based on a semi-classical local-field theory
+for degenerate four-wave mixing in mesoscopic interaction volumes of condensed
+media developed by the present authors [T. Andersen and O. Keller, Phys.
+Scripta 58, 132 (1998)]. The analytical solution is supplemented by a numerical
+analysis of the phase conjugated response from a two-level quantum well in the
+case where one level is below the Fermi level and the other level is above.
+This is the simplest configuration of a quantum well phase conjugator in which
+the light-matter interaction can be tuned to resonance. The phase conjugated
+response is examined in the case where all the scattering takes place in one
+plane, and linearly polarized light is used in the mixing. In the numerical
+work we study a two-monolayer thick copper quantum well using the infinite
+barrier model potential. Our results show that the phase conjugated response
+from such a quantum-well system is highly dependent on the spatial dispersion
+of the matter response. The resonances showing up in the numerical results are
+analytically identified from the expressions for the linear and nonlinear
+response tensors. In addition to the general discussion of the phase conjugated
+response with varying frequency and parallel component of the wavevector, we
+present the phase conjugated response in the special case where the light is in
+resonance with the interband transition.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 15:39:41 GMT""}]","2009-10-31"
+"gr-qc/9910032","Charles W. Misner","Keith Watt and Charles W. Misner (University of Maryland)","Relativistic Scalar Gravity: A Laboratory for Numerical Relativity","7 pages including 2 postscript figures; uses revtex.sty",,,"UMD PP-00-029","gr-qc",,"  We present here a relativistic theory of gravity in which the spacetime
+metric is derived from a single scalar field $\Phi$. The field equation,
+derived from a simple variational principle, is a non-linear flat-space
+four-dimensional wave equation which is particularly suited for numerical
+evolution. We demonstrate that while this theory does not generate results
+which are exactly identical quantitatively to those of general relativity (GR),
+many of the qualitative features of the full GR theory are reproduced to a
+reasonable approximation. The advantage of this formulation lies in the fact
+that 3D numerical grids can be numerically evolved in minutes or hours instead
+of the days and weeks required by GR, thus drastically reducing the development
+time of new relativistic hydrodynamical codes. Scalar gravity therefore serves
+as a meaningful testbed for the development of larger routines destined for use
+under the full theory of general relativity.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 02:08:46 GMT""}]","2007-05-23"
+"hep-ph/9910289","Yu-Ping Kuang","Qing Wang, Yu-Ping Kuang, Xue-Lei Wang, Ming Xiao","Derivation of the Gasser-Leutwyler Lagrangian from QCD","4 pages in RevTex",,,"TU-HEP-TH-99/105","hep-ph",,"  The normal part of the Gasser-Leutwyler formulation of the chiral Lagrangian
+is formally derived from the first principles of QCD without taking
+approximations. All the coefficients are expressed in terms of certain Green's
+functions in QCD, which can be regarded as the general QCD definitions of the
+normal part of the coefficients. The approximate values of the coefficients are
+also presented.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 09:09:18 GMT""}]","2007-05-23"
+"hep-ph/9910290","Maxim Chernodub","M. N. Chernodub","Classical String Solutions in Effective Infrared Theory of SU(3)
+  Gluodynamics","7 pages, LaTeX2e; v2: references added and typos corrected","Phys.Lett.B474:73-78,2000","10.1016/S0370-2693(00)00009-5","ITEP-TH-28/99","hep-ph hep-lat hep-th",,"  We investigate string solutions to the classical equations of motion
+(""classical QCD strings"") for a dual Ginzburg-Landau model corresponding to
+SU(3) gluodynamics in an abelian projection. For a certain relation between
+couplings of the model the string solutions are defined by first order
+differential equations. These solutions are related to vortex configurations of
+the Abelian Higgs model in the Bogomol'ny limit. An analytic expression for the
+string tension is derived and the string-string interactions are discussed. Our
+results imply that the vacuum of SU(3) gluodynamics is near a border between
+type-I and type-II dual superconductivity.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 14:26:37 GMT""},{""version"":""v2"",""created"":""Sat, 23 Oct 1999 11:53:58 GMT""}]","2014-11-17"
+"hep-th/9910087","Zurab Kakushadze","Zurab Kakushadze","Non-commutative Unification in Brane World","15 pages, revtex; misprints corrected, clarifying remarks added (to
+  appear in Phys. Lett. B)","Phys.Lett.B472:67-76,2000","10.1016/S0370-2693(99)01401-X","YITP-99-52","hep-th hep-ph",,"  We point out that in (open) string compactifications with non-zero NS-NS
+B-field we can have large Kaluza-Klein thresholds even in the small volume
+limit. In this limit the corresponding gauge theory description is in terms of
+a compactification on a non-commutative space (e.g., a torus or an orbifold
+thereof). Based on this observation we discuss a brane world scenario of
+non-commutative unification via Kaluza-Klein thresholds. In this scenario, the
+unification scale can be lowered down to the TeV-range, yet the corresponding
+compactification radii are smaller than the string length. We discuss a
+potential application of this scenario in the context of obtaining mixing
+between different chiral generations which is not exponentially suppressed - as
+we point out, such mixing is expected to be exponentially suppressed in certain
+setups with large volume compactifications. We also point out that T-duality is
+broken by certain non-perturbative twisted open string sectors which are
+supposed to give rise to chiral generations, so that in the case of a small
+volume compactification with a rational B-field we cannot T-dualize to a large
+volume description. In this sense, the corresponding field theoretic picture of
+unification via Kaluza-Klein thresholds in this setup is best described in the
+non-commutative language.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1999 03:34:12 GMT""},{""version"":""v2"",""created"":""Thu, 14 Oct 1999 18:59:40 GMT""},{""version"":""v3"",""created"":""Fri, 29 Oct 1999 23:05:01 GMT""},{""version"":""v4"",""created"":""Thu, 25 Nov 1999 19:22:40 GMT""}]","2014-11-18"
+"math-ph/9910014","Charles Torre","I. Anderson, M. Fels, C. Torre (Utah State University)","Group Invariant Solutions without Transversality and the Principle of
+  Symmetric Criticality","16 pages, AMSTeX, bugs fixed in example 3.2","Commun.Math.Phys. 212 (2000) 653-686","10.1007/s002200000215",,"math-ph gr-qc hep-th math.MP",,"  We extend Lie's classical method for finding group invariant solutions to the
+case of non-transverse group actions. For this extension of Lie's method we
+identify a local obstruction to the principle of symmetric criticality. Two
+examples of non-transverse symmetry reductions for the potential form of
+Maxwell's equations are then examined.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1999 23:05:50 GMT""},{""version"":""v2"",""created"":""Sun, 7 Nov 1999 22:18:08 GMT""}]","2009-10-31"

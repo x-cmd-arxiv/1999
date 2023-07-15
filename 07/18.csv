@@ -1,0 +1,228 @@
+"astro-ph/9907237","Christian Theis","Christian Theis","Modeling Encounters of Galaxies: The Case of NGC4449","26 pages, 18 figures, to appear in Proc. of the Annual Meeting of the
+  Astronomische Gesellschaft, Heidelberg, 1998, Rev. Mod. Astron. 12, a full
+  PostScript version is available at
+  http://www.astrophysik.uni-kiel.de/papers/papers_aghen/e-theis_99.html",,,,"astro-ph",,"  (abridged) Several N-body methods were combined in order to develop a method
+for the determination of the parameters of interacting galaxies. This method
+has been applied to the HI distribution of NGC4449. In a first step the fast
+restricted N-body models were used to confine a region in parameter space
+reproducing the main observational features. In a second step a genetic
+algorithm is introduced which allows for an automated search in parameter space
+as well as for a uniqueness test of special parameter sets. Using artificial
+data I show that the genetic algorithm reliably recovers orbital parameters. In
+the third step the results of the restricted N-body models are compared with
+detailed self-consistent N-body simulations. In the case of NGC4449 the
+applicability of the simple restricted N-body calculations is demonstrated.
+  NGC4449 is an active star-forming dwarf galaxy of Magellanic type. From radio
+observations van Woerden et al. (1975) found an extended HI-halo around NGC4449
+which is at least a factor of 10 larger than the optical diameter. More
+recently, Bajaja et al. (1994) and Hunter et al. (1998) discerned details in
+the HI-halo: a disc-like feature around the center of NGC4449 and a lopsided
+arm structure. In a series of simulations it is demonstrated that the main
+features can be obtained by a gravitational interaction between NGC4449 and
+DDO125, another nearby dwarf galaxy. According to these calculations the
+closest approach between both galaxies happened 350 Myr ago at a minimum
+distance of 25 kpc on a nearly parabolic orbit. In case of the encounter
+scenario, the dynamical mass of DDO125 should not be smaller than 10% of
+NGC4449's mass. The origin of this disc is still unclear, but it might be
+caused by a previous interaction.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 16:04:20 GMT""}]","2007-05-23"
+"cond-mat/9907247","Tatyana I. Baturina","Z. D. Kvon (1), T. I. Baturina (1), R. A. Donaton (2), M. R. Baklanov
+  (1 and 2), K. Maex (2), E. B. Olshanetsky (1) A. E. Plotnikov (1) J. C.
+  Portal (3) ((1) Institute of Semiconductor Physics, Novosibirsk, Russia, (2)
+  IMEC, Belgium, (3)CNRS-LCMI, Grenoble, France)","Proximity effects and Andreev reflection in mesoscopic SNS junction with
+  perfect NS interfaces","ReVTex, 4 pages, 4 eps figures included","Phys. Rev. B 61, 11340 (2000)","10.1103/PhysRevB.61.11340",,"cond-mat.supr-con cond-mat.mes-hall",,"  Low temperature transport measurements on superconducting film - normal metal
+wire - superconducting film (SNS) junctions fabricated on the basis of 6 nm
+thick superconducting polycrystalline PtSi films are reported. The structures
+with the normal metal wires of two different lengths L=1.5 $\mu$m and L=6$\mu$m
+and the same widths W=0.3$\mu$m are studied. Zero bias resistance dip related
+to pair current proximity effect is observed for all junctions whereas the
+subharmonic energy gap structure originating from phase coherent multiple
+Andreev reflections have occurs only in the SNS junctions with short wires.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 07:52:19 GMT""}]","2010-11-09"
+"cond-mat/9907249","Vladimir Stephanovich","V.A.Stephanovich(1), M.D.Glinchuk(2), L.Jastrabik(3) ((1)Institute of
+  Physics of Semiconductors, NASc of Ukraine, (2)Institute for Problems of
+  Materials Science, NASc of Ukraine, (3)Institute of Physics, Academy of
+  Sciences of the Czech Republic)","Phase transitions in the antiferroelectric-ferroelectric mixed systems","5 pages, RevTeX, 2 figures",,,,"cond-mat.mtrl-sci",,"  Phase diagram of solid solutions of antiferroelectric and ferroelectric
+materials like PbZr$_{1-x}$Ti$_x$O$_3$ (PZT), Rb$_x$(NH$_4$)$_{1-x}$H$_2$PO$%
+_4$ (RADP) is calculated at the region $x\leq 0.1$. Antiferroelectric and
+ferroelectric order parameters (which correspond respectively to the difference
+and sum of two sublattices ions shifts) were introduced for antiferroelectric
+host lattice. Small admixture of ferroelectric component was considered as a
+random electric field source. The influence of this field on both
+aforementioned order parameters was calculated. Self consistent averaging with
+calculated random field distribution function made it possible to obtain the
+system of equations for order parameters of mixed system. The antiferroelectric
+$T_a$ and ferroelectric $T_c$ phase transition temperature concentrational
+dependence was expressed through the transition temperatures of the composition
+and members. The obtained $T_a(x)$ dependence was shown to fit pretty good the
+observed values for PZT and RADP. The application of the proposed theoretical
+approach to other types of mixed systems is discussed.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 16:21:20 GMT""}]","2007-05-23"
+"cond-mat/9907250","Vladimir Stephanovich","V.A.Stephanovich(1), M.D.Glinchuk(2), B.Hilczer(3),
+  L.Jastrabik(4)((1)Institute of Physics of Semiconductors, NaSc of Ukraine,
+  (2)Institute for Problems of Materials Science, NaSc of Ukraine, (3)Institute
+  of Molecular Physics, Poznan, Poland, (4)Institute of Physics, AS Czech
+  Republic)","On the physical mechanisms of relaxation time distribution in disordered
+  dielectrics","10 Pages, RevTex, 8 figures",,,,"cond-mat.mtrl-sci",,"  The distribution function of relaxation times in disordered dielectrics has
+been calculated in the random field theory framework. For this purpose, we
+first consider the dynamics of single two-orientable impurity electric dipole
+in a random electric field $E$ created by the rest of impurities in disordered
+ferroelectric. This dynamics is conveniently described by Langevin equation.
+Relaxation time $\tau $ is then a reciprocal probability (calculated on the
+base of Fokker-Planck equation) of the dipole transition through barrier in a
+double-well potential (corresponding to two possible dipole orientations),
+distorted by a random fields. The obtained dependence $\tau (E)$ made it
+possible to obtain the expression for relaxation times distribution function
+$F(\tau)$(via random fields distribution function $f(E)$. Latter function has
+been calculated self-consistently in the random field theory framework.
+Nonlinear random field contribution and effects of spatial correlations between
+impurities have also been taken into account. It was shown that nonlinear
+contribution of random field gives asymmetric shape of $F(\tau)$, while in
+linear case it is symmetric. Comparison of calculated $F(\tau)$ curves with
+those extracted from empirical Cole-Cole (CC), Davidson-Cole (DC),
+Kohlrausch-William-Watts (KWW) and Havriliak-Negami (HN) functions had shown,
+that they correspond to mixed ferro-glass phase with coexistence of short and
+long-range order. Different forms of $F(\tau)$ are determined by linear (CC) or
+nonlinear (DC, KWW, HN) contributions of random field.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 16:55:55 GMT""}]","2007-05-23"
+"cond-mat/9907251","Yong-Joo Doh","Yong-Joo Doh, Hu-Jong Lee, and Hyun-Sik Chang (Pohang University of
+  Science and Technology)","Progressive evolution of tunneling characteristics of in-situ fabricated
+  intrinsic Josephson junctions in Bi_2Sr_2CaCu_2O_{8+delta} single crystals","25 pages, 7 figures, submitted to Phys. Rev. B",,"10.1103/PhysRevB.61.3620",,"cond-mat.supr-con",,"  Stacks of a few intrinsic tunnel junctions were micro-fabricated on the
+surface of Bi-2212 single crystals. The number of junctions in a stack was
+tailored by progressively increasing the height of the stack by ion-beam
+etching, while its tunneling characteristics were measured in-situ in a vacuum
+chamber for temperatures down to ~13 K. Using this in-situ etching/measurements
+technique in a single piece of crystal, we systematically excluded any spurious
+effects arising from variations in the junction parameters and made clear
+analysis on the following properties of the surface and inner conducting
+planes. First, the tunneling resistance and the current-voltage curves are
+scaled by the surface junction resistance. Second, we confirm that the
+reduction in both the gap and the superconducting transition temperature of the
+surface conducting plane in contact with a normal metal is not caused by the
+variation in the doping level, but is caused by the proximity contact. Finally,
+the main feature of a junction is not affected by the presence of other
+junctions in a stack in a low bias region.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 12:37:02 GMT""}]","2009-10-31"
+"hep-ex/9907030","John Dainton","C. Adloff, et al. ( H1 Collaboration )","Forward Pi0-Meson Production at HERA","19 pages, 4 figures, 1 table, submitted to Phys. Lett. B","Phys.Lett.B462:440-452,1999","10.1016/S0370-2693(99)00906-5","DESY 99-094","hep-ex",,"  High transverse momentum pi0-mesons have been measured with the H1 detector
+at HERA in deep-inelastic ep scattering events at low Bjorken-x, down to x <~
+4.10^{-5}. The measurement is performed in a region of small angles with
+respect to the proton remnant in the laboratory frame of reference, namely the
+forward region, and corresponds to central rapidity in the centre of mass
+system of the virtual photon and proton. This region is expected to be
+particularly sensitive to QCD effects in hadronic final states. Differential
+cross-sections for inclusive pi0-meson production are presented as a function
+of Bjorken-x and the four-momentum transfer Q^2, and as a function of
+transverse momentum and pseudorapidity. A recent numerical BFKL calculation and
+predictions from QCD models based on DGLAP parton evolution are compared with
+the data.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 17:35:44 GMT""}]","2010-03-25"
+"hep-ex/9907031","Bruce J. King","Bruce J. King","An All-Solid State Central Tracker for the Proposed DESY
+  Electron-Positron Linear Collider","55 pages, 5 figures","Linear Colliders: Physics and Detector Studies, DESY 97-123E,
+  December 1997, pp. 689-744",,,"hep-ex",,"  This report describes an all-solid state central tracker which is intended
+for use in a detector at the proposed DESY 500 GeV electron-positron linear
+collider or a similar accelerator. The precise position measurements from
+position-sensitive silicon detectors give the tracker an outstanding momentum
+resolution for high momentum tracks: sigma_p/p^2 = 3.6 x 10^{-5} (GeV/c)^{-1}
+for tracks perpendicular to the beam-line. The report concludes with an example
+layout for a detector which uses this central tracker.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 23:19:30 GMT""}]","2007-05-23"
+"hep-ex/9907032","Bruce J. King","Bruce J. King","Momentum Resolution Studies for a large TPC-Based Central Tracker","17 pages. No figures","Linear Colliders: Physics and Detector Studies, DESY-123E,
+  December 1997, pp. 671-688",,,"hep-ex",,"  This note describes a study on the momentum resolution of the TPC-based
+central tracker design which will be included in the ECFA/DESY conceptual
+design report (CDR) for the proposed DESY 500 GeV electron-positron linear
+collider. The study found it to be likely that the central tracker could
+achieve a momentum resolution of approximately 10^{-4} (GeV/c)^{-1},
+particularly if a layer of silicon microstrip detectors were to be added just
+inside the TPC.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 23:35:12 GMT""}]","2007-05-23"
+"hep-ex/9907033","Bruce J. King","Bruce J. King","Neutrino Physics at a Muon Collider","15 pages. 1 figure","AIP Conf.Proc.435:334-348,1998","10.1063/1.56211","BNL-65282","hep-ex",,"  An overview is given of the neutrino physics potential of future muon storage
+rings that use muon collider technology to produce, accelerate and store large
+currents of muons.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 00:31:37 GMT""}]","2015-06-25"
+"hep-ex/9907034","Bruce J. King","Bruce J. King","Estimates of Vertex Tagging Efficiencies at a Muon Collider Higgs
+  Factory","6 pages. No figures","Workshop on Physics at the First Muon Collider and at the Front
+  End of the Muon Collider, Fermilab, November 1997, AIP Conference Proceedings
+  435, Ed. Stephen H. Geer and Rajendran Raja, pp. 621-626","10.1063/1.56254","BNL-65309","hep-ex",,"  Tagging efficiencies and purities are estimated for the decay modes H ->
+b-bbar, H -> tau-taubar and H -> c-cbar of Higgs bosons produced at an
+s-channel muon collider Higgs factory.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 00:55:22 GMT""}]","2015-06-25"
+"hep-ex/9907035","Bruce J. King","Bruce J. King","Neutrino Physics at Muon Colliders","8 pages. 1 figure","AIP Conf.Proc.441:132-139,1998","10.1063/1.56402","BNL-65449","hep-ex",,"  An overview is given of the neutrino physics potential of future muon storage
+rings that use muon collider technology to produce, accelerate and store large
+currents of muons.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 01:08:22 GMT""}]","2015-06-25"
+"hep-ph/9907402","Takeshi Chiba","Takeshi Chiba and Masahide Yamaguchi","Extended Open Inflation","4 pages, minor changes, Phys. Rev. D, in press","Phys.Rev. D61 (2000) 027304","10.1103/PhysRevD.61.027304","UTAP-338","hep-ph astro-ph gr-qc",,"  We present a new type of one-field models for open inflation utilizing a
+nonminimally coupled scalar field with polynomial potentials in which the
+Coleman-de Luccia instanton does exist and slow-roll inflation after the bubble
+nucleation is realized.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 09:11:33 GMT""},{""version"":""v2"",""created"":""Sat, 18 Dec 1999 06:13:33 GMT""}]","2009-10-31"
+"hep-ph/9907403","Yong Liu","Yong Liu","Estimate of Wolfenstein's Parameters rho and eta Based on a Geometry
+  Viewpoint to the Weak CP Phase","5 pages, 1 EPS figure",,,,"hep-ph",,"  Based on a geometric postulation on the weak CP phase in
+Cabibbo-Kobayashi-Maskawa (CKM) matrix, a positive rho is asserted. Besides,
+0.18<eta<0.54 and 0.048<rho<0.140 are permitted by the present data. The
+corresponding geometric constraint on Wolfenstein's parameters is also worked
+out. We find that, according to the geometry viewpoint, eta and rho satisfy an
+approximate linear relation. These results can be put to the more precisely
+tests in near future.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 13:54:20 GMT""}]","2007-05-23"
+"nucl-ex/9907008","Silviu Olariu","Silviu Olariu (Institute of Physics and Nuclear Engineering,
+  Bucharest, Magurele, Romania)","Essay on the gamma ray laser","Latex manuscript, 8 pages, 1 jpg figure",,,,"nucl-ex",,"  This work discusses the possibility of inducing the emission of gamma
+radiation from nuclear isomers by two-photon transitions, in the more general
+context of the problem of the amplification of gamma radiation.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 13:35:08 GMT""}]","2007-05-23"
+"nucl-ex/9907009","Silviu Olariu","Silviu Olariu (Institute of Physics and Nuclear Engineering,
+  Bucharest, Magurele, Romania)","Experimental conditions for the gamma optical scattering","Latex manuscript, 6 pages",,,,"nucl-ex",,"  This work discusses the possibility of observation of nuclear multiphoton
+processes in which the interaction of a gamma ray photon with a nucleus takes
+place simultaneously with the interaction of a radio-frequency photon.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 13:44:59 GMT""}]","2007-05-23"
+"nucl-ex/9907010","Silviu Olariu","Silviu Olariu (Institute of Physics and Nuclear Engineering,
+  Bucharest, Magurele, Romania)","Amplification of Gamma Radiation from X-Ray Excited Nuclear States","Latex manuscript, 10 pages, 3 jpg figure","Rom.J.Phys. 27 (1982) 559",,,"nucl-ex",,"  In this paper we discuss the possibility of the excitation of nuclear
+electromagnetic transitions by the absorption of X-ray quanta produced in
+appropriate inner-shell atomic transitions, and the relevance of this process
+for the amplification of the gamma radiation from the excited nuclear states.
+It is concluded that the X-ray pumping technique might provide a useful
+approach for the development of a gamma ray laser.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 13:53:55 GMT""}]","2007-05-23"
+"nucl-th/9907071","Sergei Panitkin","B. Monreal, W.J. Llope, R. Mattiello, S.Y.Panitkin, H.Sorge, N. Xu","Proton and deuteron distributions as signatures for collective particle
+  dynamics and event shape geometries at the RHIC","RevTex, 4 pages, 2 figures","Phys.Rev. C60 (1999) 051902","10.1103/PhysRevC.60.051902",,"nucl-th nucl-ex",,"  We present predictions for the formation of (anti)nuclear bound states in
+nucleus-nucleus reactions at RHIC energies. he phase space coalescence method
+is used in combination with RQMD-v2.4 transport calculations to demonstrate the
+relevance of particle production as well as the longitudinal and transverse
+flow components. The formation of deuterons follows an approximate scaling law
+proportional to the relative freeze-out densities of nucleons and produced
+secondaries. For antideuterons, an additional suppression appears that is
+proportional to the number of nucleons, pointing toward multiple rescattering
+and absorption prior to freeze-out.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 14:12:07 GMT""},{""version"":""v2"",""created"":""Mon, 23 Aug 1999 22:46:42 GMT""}]","2019-08-17"
+"physics/9907024","Lakshmi","B.G. Sidharth","The Fractal Universe: From the Planck to the Hubble Scale","10 pages, TeX","Proc.Conf.Dynamical Systems,Univ.of
+  Hyderabad,Ed.V.Srinivasan,2000,pp191ff",,,"physics.gen-ph",,"  We examine the fractal structure of the physical universe from the large
+scale to the smallest scale, including the phenomenon of fractal scaling. This
+is explained in terms of a stochastic underpinning for the laws of physics. A
+picture in pleasing agreement with experiment and observation at all scales
+emerges, very much in the spirit of Wheeler's ""Law Without Law"". It is argued
+that our depiction of the universe is akin to a broad brush delineation of a
+jagged coastline, the Compton wavelength being comparable to the thickness of
+the brush strokes.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 16:17:15 GMT""}]","2007-05-23"
+"physics/9907025","Masaharu Isobe","Masaharu Isobe (Kyushu University)","Simple and efficent algorithm for large scale molecular dynamics
+  simulation in hard disk systems","13 pages, including 2 figures","Int. J. Mod. Phys. C10, 1281 (1999)","10.1142/S0129183199001042",,"physics.comp-ph cond-mat.stat-mech",,"  A simple and efficient algorithm of the molecular-dynamics simulation of the
+hard disk system based on the Event-Driven method is developed. From the
+analysis of algorithm, the complexity is O(log N) per 1 event, and the constant
+coefficient of the complexity is smaller than conventional efficient algorithm
+based on the concept of Cell-Crossing Event. The maximum performance more than
+460 millions of collisions per CPU-hour on the Alpha600 compatible in 2500
+particle system is achieved. An extension to the infinite-space system based on
+this algorithm is also proposed.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 17:13:55 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jul 1999 05:31:11 GMT""},{""version"":""v3"",""created"":""Sat, 11 Dec 1999 11:52:31 GMT""}]","2009-10-31"
+"physics/9907026","Bruce J. King","Bruce J. King","The Physics Opportunities and Technical Challenges of a Muon Collider","29 pages. Paper submitted to Columbia University of New York in
+  partial fulfillment of the requirements for a Doctorate of Philosophy, 24
+  January, 1994",,,,"physics.acc-ph",,"  We describe the physics opportunities and technical challenges of a muon
+collider as a tool for exploring high energy physics phenomena.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1999 00:39:01 GMT""}]","2007-05-23"
+"physics/9907027","Bruce J. King","Bruce J. King","Variable Field Bending Magnets for Recirculating Linacs","18 pages. No figures. Submitted for the Muon Collider Workshop on
+  Acceleration and Magnets, Mississippi University, Oxford, MI, 17-18 January,
+  1997",,,"BNL-MU-023","physics.acc-ph",,"  A lattice of single aperture superconducting variable field bending magnets
+is proposed as a cheap and practical way to recirculate the beams in
+recirculating linear accelerators. It is shown that the VFBM's can be
+configured to provide strong focusing in both transverse planes for the full
+range of beam momenta transported by the lattice.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1999 23:56:38 GMT""}]","2007-05-23"

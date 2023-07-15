@@ -1,0 +1,206 @@
+"astro-ph/9911394","James W. Wadsley","James W. Wadsley, Craig J. Hogan, Scott F. Anderson (University of
+  Washington)","Measuring Omega Baryon from the Helium Lyman-Alpha Forest","7 Pages, 2 Figures, to appear in the proceedings of Clustering at
+  High Redshift, IGRAP International Conference, Marseilles, June 29-July 2,
+  1999",,,,"astro-ph",,"  A new method to extract Omega_b from high redshift intergalactic absorption
+is described, based on the distribution of HeII Ly-alpha optical depths in the
+voids in the ionization zone of quasars. A preliminary estimate from recent
+HST-STIS spectra of PKS 1935-692 at z=3 gives Omega_b h^2 =
+0.013^{+0.002}_{-0.001} (1-sigma statistical errors, for a Lambda-CDM cosmology
+with additional systematic uncertainties) consistent with other estimates.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 02:44:30 GMT""}]","2007-05-23"
+"cond-mat/9911326","Claudia Filippi","Claudia Filippi (UCC, Ireland), C. J. Umrigar (Cornell University)","Correlated sampling in quantum Monte Carlo: a route to forces","5 pages, 2 postscript figures",,"10.1103/PhysRevB.61.R16291",,"cond-mat physics.chem-ph",,"  In order to find the equilibrium geometries of molecules and solids and to
+perform ab initio molecular dynamics, it is necessary to calculate the forces
+on the nuclei. We present a correlated sampling method to efficiently calculate
+numerical forces and potential energy surfaces in diffusion Monte Carlo. It
+employs a novel coordinate transformation, earlier used in variational Monte
+Carlo, to greatly reduce the statistical error. Results are presented for
+first-row diatomic molecules.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 20:15:25 GMT""}]","2009-10-31"
+"cond-mat/9911327","Dmitry Dmitriev","D.V.Dmitriev, V.Ya.Krivnov, A.A.Ovchinnikov","Exact ground state for 1D electronic models","13 pages, 1 figure","Phys.Rev. B61, 14592 (2000).","10.1103/PhysRevB.61.14592",,"cond-mat.str-el cond-mat.supr-con",,"  We have found the exact ground state for two electronic models on a linear
+chain. The first model describes half-filling electron system in the
+ferromagnet--antiferromagnet transition point. In the singlet ground state the
+spin correlators show giant spiral magnetic ordering with the period of a
+spiral equals to the system size. The second electronic model describes the
+point where the ground state has giant spiral off-diagonal long-range order
+and, therefore, superconducting. We suggest the formation of the ground state
+with giant spiral order (ferromagnetic or off-diagonal) as a probable scenario
+of the subsequent destruction of the ferromagnetism and the superconductivity.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 20:28:11 GMT""}]","2009-10-31"
+"cond-mat/9911328","Stefano Curtarolo","S. Curtarolo, M.J. Bojan, G. Stan, M.W. Cole, and W.A. Steele","Computer simulation studies of wetting on heterogeneous surfaces","7 pages, 7 figures","Proceeding of 2nd Pacific Basin Conference on Adsorption Science
+  and Technology, May 14-18 2000, Brisbane, Queensland, Australia",,,"cond-mat.stat-mech cond-mat.mtrl-sci",,"  The wetting of solid surfaces by fluids is a problem of great practical
+importance that has been extensively studied over the years. Most often, the
+experimental work has involved measurements of the contact angle made by a
+liquid on the solid surface of interest. Young's equation gives the relation
+between the contact angle and the interfacial tensions. An alternative to the
+contact angle computation is the more generally applicable formulation of this
+problem based on simulations (and measurements) of adsorption isotherms for a
+fluid on a weakly interacting solid surface. We present some GCMC computations
+for the case of heterogeneous surfaces.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 22:41:31 GMT""},{""version"":""v2"",""created"":""Fri, 10 Dec 1999 21:29:54 GMT""}]","2007-05-23"
+"cond-mat/9911329","Hitoshi Seo","Hitoshi Seo (ISSP, University of Tokyo)","Charge Ordering in Organic ET Compounds","35 pages, 27 figures, submitted to J. Phys. Soc. Jpn",,"10.1143/JPSJ.69.805",,"cond-mat.str-el",,"  The charge ordering phenomena in quasi two-dimensional 1/4-filled organic
+compounds (ET)_2X (ET=BEDT-TTF) are investigated theoretically for the $\theta$
+and $\alpha$-type structures, based on the Hartree approximation for the
+extended Hubbard models with both on-site and intersite Coulomb interactions.
+It is found that charge ordered states of stripe-type are stabilized for the
+relevant values of Coulomb energies, while the spatial pattern of the stripes
+sensitively depends on the anisotropy of the models. By comparing the results
+of calculations with the experimental facts, where the effects of quantum
+fluctuation is incorporated by mapping the stripe-type charge ordered states to
+the S=1/2 Heisenberg Hamiltonians, the actual charge patterns in the insulating
+phases of $\theta$-(ET)_2MM'(SCN)_4 and $\alpha$-(ET)_2I_3 are deduced.
+Furthermore, to obtain a unified view among the $\theta$, $\alpha$ and
+$\kappa$-(ET)_2X families, the stability of the charge ordered state in
+competition with the dimeric antiferromagnetic state viewed as the Mott
+insulating state, which is typically realized in $\kappa$-type compounds, and
+with the paramagnetic metallic state, is also pursued by extracting essential
+parameters.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 09:48:27 GMT""},{""version"":""v2"",""created"":""Thu, 25 Nov 1999 13:10:15 GMT""}]","2009-10-31"
+"cond-mat/9911330",,"Catalin Pascu Moca (University of Cluj)","Non-Fermi Behavior of the Strongly Correlated Electron Systems","Ph.D. Thesis, 61 pages, Latex",,,,"cond-mat",,"  (1) The temperature dependence of the specific heat for a marginal Fermi
+liquid has been calculated. (2) We calculated the self-energy at T=0 for a two
+dimensional fermionic system with hyperbolic dispersion. The existence of the
+saddle points in the energy gives rise to a marginal behavior. (3) We showed
+that the two-dimensional fermionic system with the energy $\epsilon
+_{\mathbf{k}}=k_xk_y$ has a non-Fermi behavior. (4) The electronic self-energy
+due to the electron-spin interaction is calculated for a two dimensional
+system. (5) We study the influence of the amplitude fluctuations of a non-Fermi
+superconductor on the energy spectrum of the two-dimensional Anderson non-Fermi
+system. (6) Using the field-theoretical methods we studied the evolution from
+BCS theory to Bose-Einstein condensation (BEC) for a non-Fermi system. (7)
+Using the renormalization group approach proposed by Millis we calculated the
+specific heat coefficient $\gamma (T)$ for the magnetic fluctuations with
+susceptibility $\chi^{-1}\sim \delta ^{\alpha}+| \omega | ^{\alpha}+f(q)$ near
+a Lifshitz point.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 10:32:15 GMT""}]","2007-05-23"
+"hep-ex/9911028","Sonja Kabana","Klaus Pretzl (University of Bern, Switzerland)","Cryogenic calorimeters in astro and particle physics","(28 pages, contribution to the VIII International Conference on
+  Calorimetry in High Energy Physics, 13-19 June 1999, Lisbon, Portugal)","Nucl.Instrum.Meth.A454:114-127,2000","10.1016/S0168-9002(00)00812-3",,"hep-ex",,"  The development of cryogenic calorimeters was originally motivated by the
+fact that very low energy thresholds and excellent energy resolutions can be
+achieved by these devices. Cryogenic devices are widely used in double beta
+decay experiments, in cosmological dark matter searches, in x-ray detection of
+galactic and extragalactic objects as well as in cosmic background radiation
+experiments. An overview of the latest developments is given.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 18:45:45 GMT""}]","2011-01-17"
+"hep-lat/9911024","Gabor Papp","Romuald A. Janik, Maciej A.Nowak, Gabor Papp and Ismail Zahed","U(1) Problem at Finite Temperature","15 pages with 1 epf figure included; Proc of the Light-Cone Workshop
+  ""New Directions in QCD"", June 1999, Kyungju, Korea","AIP Conf.Proc. 494 (1999) 408-422","10.1063/1.1301690",,"hep-lat hep-ph hep-th",,"  We model the effects of a large number of zero and near-zero modes in the QCD
+partition function by using sparse chiral matrix models with an emphasis on the
+quenched topological susceptibility in the choice of the measure. At finite
+temperature, the zero modes are not affected by temperature but are allowed to
+pair into topologically neutral near-zero modes which are gapped at high
+temperature. In equilibrium, chiral and U(1) symmetry are simultaneously
+restored for total pairing, evading mean-field arguments. We analyze a number
+of susceptibilities versus the light quark masses. At the transition point the
+topological susceptibility vanishes, and the dependence on the vacuum angle
+$\theta$ drops out. Our results are briefly contrasted with recent lattice
+simulations.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 20:59:35 GMT""}]","2009-10-31"
+"hep-ph/9911425","Michail Ivanov","M.A. Ivanov, J.G. Korner, V.E. Lyubovitskij, M.A. Pisarev, A.G.
+  Rusetsky","On the choice of heavy baryon currents in the relativistic three-quark
+  model","revtex, 9 pages","Phys.Rev. D61 (2000) 114010","10.1103/PhysRevD.61.114010","Mainz University preprint MZ-TH/99-51","hep-ph",,"  We test the sensitivity of bottom baryon observables with regard to the
+choice of the interpolating three-quark currents within the relativistic
+three-quark model. We have found that the semileptonic decay rates are clearly
+affected by the choice of currents, whereas the asymmetry parameters show only
+a very weak dependence on the choice of current.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 12:21:46 GMT""}]","2009-10-31"
+"hep-ph/9911428","Kenichiro Aoki","Kenichiro Aoki and Dimitri Kusnezov","Non-Equilibrium Steady States and Transport in the Classical Lattice
+  $\phi ^4$ Theory","7pp, 4 figs","Phys.Lett. B477 (2000) 348-354","10.1016/S0370-2693(00)00189-1",,"hep-ph",,"  We study the classical non-equilibrium statistical mechanics of scalar field
+theory on the lattice. Steady states are analyzed near and far from
+equilibrium. The bulk thermal conductivity is computed, including its
+temperature dependence. We examine the validity of linear response predictions,
+as well as properties of the non-equilibrium steady state. We find that the
+linear response theory applies to visibly curved temperature profiles as long
+as the thermal gradients are not too strong. We also examine the transition
+from local equilibrium to local non-equilibrium.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 02:15:17 GMT""}]","2009-10-31"
+"math/9911157","Michael Farber","M. Farber","Morse-Novikov critical point theory, Cohn localization and Dirichlet
+  units",,,,,"math.DG math.AT",,"  In this paper we construct a Universal chain complex, counting zeros of
+closed 1-forms on a manifold. The Universal complex is a refinement of the well
+known Novikov complex; it relates the homotopy type of the manifold, after a
+suitable noncommutative localization, with the numbers of zeros of different
+indices which may have closed 1-forms within a given cohomology class. The Main
+Theorem of the paper generalizes the result of a joint paper with A. Ranicki,
+which treats the special case of closed 1-forms having integral cohomology
+classes. The present paper also describes a number of new inequalities, giving
+topological lower bounds on the number of zeroes of closed 1-forms. In
+particular, such estimates are provided by the homology of flat line bundles
+with monodromy described by complex numbers which are not Dirichlet units.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 18:50:58 GMT""}]","2007-05-23"
+"math/9911158","James F. Davis","Laura Anderson and James F. Davis","Mod 2 cohomology of combinatorial Grassmannians",,"Selecta Mathematica 8 (2002), 161-200",,,"math.GT math.AT math.CO",,"  Matroid bundles, introduced by MacPherson, are combinatorial analogues of
+real vector bundles. This paper sets up the foundations of matroid bundles, and
+defines a natural transformation from isomorphism classes of real vector
+bundles to isomorphism classes of matroid bundles, as well as a transformation
+from matroid bundles to spherical quasifibrations. The poset of oriented
+matroids of a fixed rank classifies matroid bundles, and the above
+transformations give a splitting from topology to combinatorics back to
+topology. This shows the mod 2 cohomology of the poset of rank k oriented
+matroids (this poset classifies matroid bundles) contains the free polynomial
+ring on the first k Stiefel-Whitney classes. The homotopy groups of this poset
+are related to the image of the J-homomorphism from stable homotopy theory.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 00:32:48 GMT""}]","2015-12-01"
+"math/9911159","Moira Chas","Moira Chas, Dennis Sullivan","String Topology","29 pages, 8 figures",,,,"math.GT math.QA",,"  Consider two families of closed oriented curves in a d-manifold. At each
+point of intersecction of a curve of one family with a curve of the other
+family, form a new closed curve by going around the first curve and then going
+around the second. Typically, an i-dimensional family and a j-dimensional
+family will produce an (i+j-d+2)-dimensional family. Our purpose is to describe
+mathematical structure behind such interactions.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 00:45:42 GMT""}]","2007-05-23"
+"math/9911258","Shigeyuki Morita","Shigeyuki Morita","Structure of the mapping class groups of surfaces: a survey and a
+  prospect","58 pages. Published copy, also available at
+  http://www.maths.warwick.ac.uk/gt/GTMon2/paper20.abs.html","Geom. Topol. Monogr. 2 (1999), 349-406",,"G&T migration mon2-20","math.GT",,"  In this paper, we survey recent works on the structure of the mapping class
+groups of surfaces mainly from the point of view of topology. We then discuss
+several possible directions for future research. These include the relation
+between the structure of the mapping class group and invariants of 3-manifolds,
+the unstable cohomology of the moduli space of curves and Faber's conjecture,
+cokernel of the Johnson homomorphisms and the Galois as well as other new
+obstructions, cohomology of certain infinite dimensional Lie algebra and
+characteristic classes of outer automorphism groups of free groups and the
+secondary characteristic classes of surface bundles. We give some experimental
+results concerning each of them and, partly based on them, we formulate several
+conjectures and problems.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 00:00:00 GMT""}]","2016-09-07"
+"math/9911259","Colin Rourke","Colin Rourke, Brian Sanderson","Homology stratifications and intersection homology","18 pages. Published copy, also available at
+  http://www.maths.warwick.ac.uk/gt/GTMon2/paper22.abs.html","Geom. Topol. Monogr. 2 (1999), 455-472",,"G&T migration mon2-22","math.GT",,"  A homology stratification is a filtered space with local homology groups
+constant on strata. Despite being used by Goresky and MacPherson [Intersection
+homology theory: II, Inventiones Mathematicae, 71 (1983) 77-129] in their proof
+of topological invariance of intersection homology, homology stratifications do
+not appear to have been studied in any detail and their properties remain
+obscure. Here we use them to present a simplified version of the
+Goresky-MacPherson proof valid for PL spaces, and we ask a number of questions.
+The proof uses a new technique, homology general position, which sheds light on
+the (open) problem of defining generalised intersection homology.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 00:00:00 GMT""}]","2016-09-07"
+"nucl-th/9911069","Aurel Bulgac","Dimitri Kusnezov, Aurel Bulgac and Giu Do Dang","Exotic Stochastic Processes from Complex Quantum Environments","7 pages, Elsevier style file espcrc2.sty","Physics E9, 436-442 (2001)",,,"nucl-th cond-mat quant-ph",,"  Stochastic processes are shown to emerge from the time evolution of complex
+quantum systems. Using parametric, banded random matrix ensembles to describe a
+quantum chaotic environment, we show that the dynamical evolution of a particle
+coupled to such environments displays a variety of stochastic behaviors,
+ranging from turbulent diffusion to L\'evy processes and Brownian motion.
+Dissipation and diffusion emerge naturally in the stochastic interpretation of
+the dynamics. This approach provides a derivation of a fractional kinetic
+theory in the classical limit and leads to classical L\'evy dynamics.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1999 18:22:17 GMT""}]","2007-05-23"
+"physics/9911048","Wang Yuqing","Yuqing Wang, David T. W. Chik, and Z. D. Wang (Department of Physics,
+  The University of Hong Kong)","Coherence Resonance and Noise-Induced Synchronization in Globally
+  Coupled Hodgkin-Huxley Neurons","five pages, five figures",,"10.1103/PhysRevE.61.740",,"physics.bio-ph q-bio",,"  The coherence resonance (CR) of globally coupled Hodgkin-Huxley neurons is
+studied. When the neurons are set in the subthreshold regime near the firing
+threshold, the additive noise induces limit cycles. The coherence of the system
+is optimized by the noise. A bell-shaped curve is found for the peak height of
+power spectra of the spike train, being significantly different from a
+monotonic behavior for the single neuron. The coupling of the network can
+enhance CR in two different ways. In particular, when the coupling is strong
+enough, the synchronization of the system is induced and optimized by the
+noise. This synchronization leads to a high and wide plateau in the local
+measure of coherence curve. The local-noise-induced limit cycle can evolve to a
+refined spatiotemporal order through the dynamical optimization among the
+autonomous oscillation of an individual neuron, the coupling of the network,
+and the local noise.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 05:41:44 GMT""}]","2009-10-31"
+"physics/9911049","Proykova Ana","Ana Proykova, Dessislava Nikolova, R.Stephen Berry","Symmetry in Order-Disorder Changes of Molecular Clusters","15 pages, RevTeX",,,,"physics.atm-clus physics.comp-ph",,"  The dynamic orientational order-disorder transition of clusters consisting of
+octahedral molecules is formulated in terms of symmetry-adapted rotator
+functions.
+  The transition from a higher-temperature body-centered-cubic, orientationally
+disordered phase to a lower-temperature, monoclinic, orientationally-ordered
+phase is a two-step process. The higher-temperature transition has two local
+minima in the free energy, like a finite-system counterpart of a first-order
+transition. Simulations show the lower-temperature transition is continuous.
+The analytic theory predicts a temperature of 27K for this transition, for a
+59-molecule cluster of tellurium hexafluoride in a good agreement with the ~30K
+result of canonical Monte Carlo calculations.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1999 10:53:51 GMT""}]","2007-05-23"

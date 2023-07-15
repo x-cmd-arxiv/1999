@@ -1,0 +1,244 @@
+"astro-ph/9905390","P. J. E. Peebles","P. J. E. Peebles","Summary; Inflation and Traditions of Research","5 pages; Proceedings of the Pritzker Symposium on the Status of
+  Inflationary Cosmology, Chicago, January, 1999",,,,"astro-ph",,"  One way to judge the impact of the inflation concept is to consider where
+cosmology might be today without it. The Einstein-de Sitter model would not
+have been so keenly defended, and there might have been more interest in
+negative space curvature, but the observations would have driven us to about
+where we are. We would have had much the same ideas about structure formation,
+but they would have been considered incomplete because the initial conditions
+would have to be invoked ad hoc. And there would not have been the exciting
+sense in the community that we might be approaching the end game. Whether or
+not it is true it certainly has been an important factor in the present high
+level of activity in cosmology.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 15:07:27 GMT""}]","2007-05-23"
+"cond-mat/9905430","Gordon Baym","Gordon Baym, Jean-Paul Blaizot, Markus Holzmann, Franck Lalo\""e, and
+  Dominique Vautherin","The transition temperature of the dilute interacting Bose gas","4 pages, Revtex, to be published in Physical Review Letters","Phys.Rev.Lett.83:1703-1706,1999","10.1103/PhysRevLett.83.1703",,"cond-mat.stat-mech",,"  We show that the critical temperature of a uniform dilute Bose gas must
+increase linearly with the s-wave scattering length describing the repulsion
+between the particles. Because of infrared divergences, the magnitude of the
+shift cannot be obtained from perturbation theory, even in the weak coupling
+regime; rather, it is proportional to the size of the critical region in
+momentum space. By means of a self-consistent calculation of the quasiparticle
+spectrum at low momenta at the transition, we find an estimate of the effect in
+reasonable agreement with numerical simulations.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 17:49:25 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jul 1999 15:44:57 GMT""},{""version"":""v3"",""created"":""Sun, 8 Aug 1999 15:50:16 GMT""}]","2008-11-26"
+"cond-mat/9905431","Robert Shrock","Robert Shrock and Shan-Ho Tsai","Ground State Entropy of Potts Antiferromagnets on Cyclic Polygon Chain
+  Graphs","27 pages, Latex, 17 figs. J. Phys. A, in press","J. Phys. A32 (1999) 5053-5070","10.1088/0305-4470/32/27/306",,"cond-mat.stat-mech math-ph math.MP",,"  We present exact calculations of chromatic polynomials for families of cyclic
+graphs consisting of linked polygons, where the polygons may be adjacent or
+separated by a given number of bonds. From these we calculate the (exponential
+of the) ground state entropy, $W$, for the q-state Potts model on these graphs
+in the limit of infinitely many vertices. A number of properties are proved
+concerning the continuous locus, ${\cal B}$, of nonanalyticities in $W$. Our
+results provide further evidence for a general rule concerning the maximal
+region in the complex q plane to which one can analytically continue from the
+physical interval where $S_0 > 0$.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 05:06:53 GMT""}]","2009-10-31"
+"cond-mat/9905432","Hanoch Mehl","Hanoch Mehl, Ofer Biham, Oded Millo and Majid Karimi","Electromigration-Induced Flow of Islands and Voids on the Cu(001)
+  Surface","9 pages, 13 ps figures",,"10.1103/PhysRevB.61.4975",,"cond-mat",,"  Electromigration-induced flow of islands and voids on the Cu(001) surface is
+studied at the atomic scale. The basic drift mechanisms are identified using a
+complete set of energy barriers for adatom hopping on the Cu(001) surface,
+combined with kinetic Monte Carlo simulations. The energy barriers are
+calculated by the embedded atom method, and parameterized using a simple model.
+The dependence of the flow on the temperature, the size of the clusters, and
+the strength of the applied field is obtained. For both islands and voids it is
+found that edge diffusion is the dominant mass-transport mechanism. The rate
+limiting steps are identified. For both islands and voids they involve
+detachment of atoms from corners into the adjacent edge. The energy barriers
+for these moves are found to be in good agreement with the activation energy
+for island/void drift obtained from Arrhenius analysis of the simulation
+results. The relevance of the results to other FCC(001) metal surfaces and
+their experimental implications are discussed.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 14:49:53 GMT""}]","2016-08-31"
+"hep-ex/9905060","Peter Shawhan","KTeV Collaboration","Observation of Direct CP Violation in K_{S,L} to \pi \pi Decays","12 pages, 4 figures; minor text revisions; submitted to Phys. Rev.
+  Lett","Phys.Rev.Lett.83:22-27,1999","10.1103/PhysRevLett.83.22","EFI-99-25, FERMILAB-Pub-99/150-E","hep-ex",,"  We have compared the decay rates of K_L and K_S to \pi^+ \pi^- and \pi^0
+\pi^0 final states using a subset of the data from the KTeV experiment (E832)
+at Fermilab. We find that the direct-CP-violation parameter
+Re(\epsilon'/\epsilon) is equal to (28.0 \pm 3.0 (stat) \pm 2.8 (syst)) \times
+10^{-4}. This result definitively establishes the existence of CP violation in
+a decay process.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 16:56:15 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1999 15:26:35 GMT""}]","2012-08-27"
+"hep-lat/9905035","Masahiro Imachi","Masahiro Imachi, Shouhei Kanou, Hiroshi Yoneyama","Two dimensional CP^2 Model with \theta-term and Topological Charge
+  Distributions","17 pages,7 figures","Prog.Theor.Phys. 102 (1999) 653-670","10.1143/PTP.102.653",,"hep-lat",,"  Topological charge distributions in 2 dimensional CP^2 model with theta-term
+is calculated. In strong coupling regions, topological charge distribution is
+approximately given by Gaussian form as a function of topological charge and
+this behavior leads to the first order phase transition at \theta=\pi. In weak
+coupling regions it shows non-Gaussian distribution and the first order phase
+transition disappears. Free energy as a function of \theta shows ""flattening""
+behavior at theta=theta_f<pi, when we calculate the free energy directly from
+topological charge distribution. Possible origin of this flattening phenomena
+is prensented.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 07:16:11 GMT""}]","2009-10-31"
+"hep-ph/9905543","Joan Soto","D. Eiras and J. Soto","Effective Field Theory Approach to Pionium","24 pages, 4 figures, uses feynmf.sty and feynmf.mf, minor corrections
+  in a few formulas, the text and references","Phys.Rev. D61 (2000) 114027","10.1103/PhysRevD.61.114027","UB-ECM-PF 99/10","hep-ph nucl-th",,"  The various dynamical scales below the pion mass involved in $\pi^{+}$
+$\pi^{-}$ atoms are sequentially integrated out using non-relativistic
+effective field theory techniques. This allows us to systematically organise
+the corrections to the energy levels and decay width. We present our results in
+terms of a single unknown constant which may be obtained by matching to the
+Chiral Lagrangian with electromagnetic interactions at two loops.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 16:16:49 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jul 1999 17:23:53 GMT""}]","2009-10-31"
+"hep-ph/9905544","Oliver Martin","O. Martin","Transverse Double-Spin Asymmetries for Dimuon Production in pp
+  Collisions","3 pages, 4 figures, talk given at DIS99, requires npb.sty, one
+  reference corrected","Nucl.Phys.Proc.Suppl. 79 (1999) 623-625","10.1016/S0920-5632(99)00802-6",,"hep-ph",,"  We calculate the transverse double-spin asymmetry for the production of
+dimuons in pp collisions as function of the dimuon rapidity and mass to
+next-to-leading accuracy in the strong coupling. Predictions for BNL-RHIC and
+HERA-N are made by assuming a saturation of Soffer's inequality at a low
+hadronic input scale. It seems unlikely that transversity can be measured in
+dimuon production at RHIC.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 18:29:52 GMT""},{""version"":""v2"",""created"":""Mon, 25 Oct 1999 14:03:09 GMT""}]","2009-10-31"
+"hep-ph/9905545","Stefano Frixione","S. Frixione (CERN)","Heavy quark photoproduction","4 pages Latex; npb.sty included. Talk given at DIS99, 19 - 23 April
+  1999, Zeuthen, DE","Nucl.Phys.Proc.Suppl. 79 (1999) 399-402","10.1016/S0920-5632(99)00734-3","CERN-TH/99-157","hep-ph",,"  I present a review of selected topics in the computation of heavy flavour
+cross sections in photon-hadron collisions.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 08:55:49 GMT""}]","2009-10-31"
+"hep-ph/9905546","Stefano Frixione","S. Frixione (CERN)","Isolated-photon production in polarized hadronic collisions","3 pages Latex; npb.sty and 2 ps figures included. Talk given at
+  DIS99, 19 - 23 April 1999, Zeuthen, DE","Nucl.Phys.Proc.Suppl. 79 (1999) 608-610","10.1016/S0920-5632(99)00797-5","CERN-TH/99-158","hep-ph",,"  After a short discussion on the definition of isolated-photon cross sections
+in perturbative QCD, I present phenomenological predictions relevant for
+polarized hadron-hadron collisions in the RHIC energy range. The possibility of
+measuring $\Delta g$ is investigated.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 08:58:38 GMT""}]","2009-10-31"
+"hep-ph/9905547","Yu-Ping Kuang","Yu-Ping Kuang","Physics Overview","Talk presented at The First ACFA Workshop on Physics/Detector at the
+  Linear Collider, Nov. 26-27, 1998, Tsinghua University, Beijing, China. 35
+  pages with 3 figures, using epsfig.sty and rotate.sty",,,"TUIMP-TH-99/106","hep-ph",,"  Recent developments of physics at the TeV energy scale, especially physics
+related to the electron-positron linear colliders are briefly reviewed. The
+topics include the present status of the standard model, Higgs physics,
+supersymmetry, strongly interacting electroweak symmetry breaking mechanism,
+and top quark physics.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 11:32:35 GMT""}]","2007-05-23"
+"hep-th/9905218","Bogdan Morariu","Daniel Brace, Bogdan Morariu, Bruno Zumino","Duality Invariant Born-Infeld Theory","10 pages, LaTeX file; to appear in the Yuri Golfand memorial volume;
+  typos corrected, references added",,"10.1142/9789812793850_0009","LBNL-43404","hep-th",,"  We present an Sp(2n,R) duality invariant Born-Infeld U(1)^2n gauge theory
+with scalar fields. To implement this duality we had to introduce complex gauge
+fields and as a result the rank of the duality group is only half as large as
+that of the corresponding Maxwell gauge theory with the same number of gauge
+fields. The latter is self-dual under Sp(4n,R), the largest allowed duality
+group. A special case appears for n=1 when one can also write an SL(2,R)
+duality invariant Born-Infeld theory with a real gauge field. We also describe
+the supersymmetric version of the above construction.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 19:18:48 GMT""},{""version"":""v2"",""created"":""Sat, 24 Jul 1999 00:46:48 GMT""}]","2016-11-23"
+"hep-th/9905219","S. Kalyana Rama","S. Kalyana Rama and B. Sathiapalan","On the Role of Chaos in the AdS/CFT Connection","18 pages. Latex file. Minor changes. Final version to appear in
+  Modern Physics Letters A","Mod.Phys.Lett.A14:2635-2648,1999","10.1142/S0217732399002777","IMSC/99/05/23","hep-th",,"  The question of how infalling matter in a pure state forms a Schwarzschild
+black hole that appears to be at non-zero temperature is discussed in the
+context of the AdS/CFT connection. It is argued that the phenomenon of
+self-thermalization in non-linear (chaotic) systems can be invoked to explain
+how the boundary theory, initially at zero temperature self thermalizes and
+acquires a finite temperature. Yang-Mills theory is known to be chaotic
+(classically) and the imaginary part of the gluon self-energy (damping rate of
+the gluon plasma) is expected to give the Lyapunov exponent. We explain how the
+imaginary part would arise in the corresponding supergravity calculation due to
+absorption at the horizon of the black hole.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 08:15:28 GMT""},{""version"":""v2"",""created"":""Thu, 4 Nov 1999 08:55:14 GMT""}]","2014-11-18"
+"hep-th/9905220","Vladimir O. Soloviev","Vladimir O. Soloviev","Black hole entropy from Poisson brackets (demystification of some
+  calculations)","6 pages, RevTeX, Talk given at QFTHEP'99, Moscow, 27 May - 2 June
+  1999, revised version to appear in Phys. Rev. D","Phys. Rev. D 61, 027502 (1999)","10.1103/PhysRevD.61.027502",,"hep-th gr-qc",,"  Recently it has been suggested by S. Carlip that black hole entropy can be
+derived from a central charge of the Virasoro algebra arising as a subalgebra
+in the surface deformations of General Relativity in any dimension. Here it is
+shown that the argumentation given in Section 2 of hep-th/9812013 and based on
+the Regge-Teitelboim approach is unsatisfactory. The functionals used are
+really ``non-differentiable'' under required variations and also the standard
+Poisson brackets for these functionals are exactly zero so being unable to get
+any Virasoro algebra with a central charge. Nevertheless Carlip's calculations
+will be correct if we admit another definition for the Poisson bracket. This
+new Poisson bracket differs from the standard one in surface terms only and
+allows to work with ``non-differentiable'' functionals.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 13:25:09 GMT""},{""version"":""v2"",""created"":""Tue, 26 Oct 1999 08:25:17 GMT""}]","2016-08-25"
+"hep-th/9905221","Pascal Baseilhac","P. Baseilhac, V. A. Fateev","Fermion-boson duality in integrable quantum field theory","12 pages, LaTex file with amstex","Mod.Phys.Lett. A13 (1998) 2807-2818","10.1142/S0217732398002989","PM/98-15","hep-th",,"  We introduce and study one parameter family of integrable quantum field
+theories. This family has a Lagrangian description in terms of massive Thirring
+fermions $\psi,\psi^{\dagger}$ and charged bosons $\chi,\bar{\chi}$ of complex
+sinh-Gordon model coupled with $BC_n$ affine Toda theory. Perturbative
+calculations, analysis of the factorized scattering theory and the Bethe ansatz
+technique are applied to show that under duality transformation, which relates
+weak and strong coupling regimes of the theory the fermions
+$\psi,\psi^{\dagger}$ transform to bosons and $\chi,\bar{\chi}$ and vive versa.
+The scattering amplitudes of neutral particles in this theory coincide exactly
+with S-matrix of particles in pure $BC_n$
+  Toda theory, i.e. the contribution of charged bosons and fermions to these
+amplitudes exactly cancel each other. We describe and discuss the symmetry
+responsible for this compensation property.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 14:08:26 GMT""}]","2009-10-31"
+"math/9905186","Adonai S. Sant'Anna","Vilma A. S. Sant'Anna and Adonai S. Sant'Anna","On the babylonian method of extracting root squares","LaTeX, 4 pages, no figures",,,,"math.HO",,"  We discuss the babylonian method of extracting the root square of a number,
+from the point of view of modern mathematics. We also speculate that the
+babylonian mathematics was rich enough for a generalization of this method,
+despite the lack of general statements and justified procedures in their
+mathematics.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 16:13:05 GMT""}]","2007-05-23"
+"math/9905187","Jonathan Gratus","Jonathan Gratus","Algebraic Noncommutative Geometry","Latex 29 pages, no figures, submitted to Comm. Math. Physics",,,,"math.QA hep-th",,"  A noncommutative algebra $A$, called an algebraic noncommutative geometry, is
+defined, with a parameter $\epsilon$ in the centre. When $\epsilon$ is set to
+zero, the commutative algebra $A^0$ of algebraic functions on an algebraic
+manifold $M$ is obtained. This $A^0$ is a subalgebra of $C(M)$, which is dense
+if $M$ is compact. The generators of $A$ define an immersion of $M$ into $R^n$,
+and $M$ inherits a Poisson structure as the limit of the commutator. Thus $A$
+is a quantisation of a Poisson manifold. If an ordering convention is
+prescribed for $A$ then a star product on $M$ is obtained. Homomorphism and
+isomorphisms between noncommutative geometries are defined, and the map from
+$A$ to the Heisenberg algebra is used both to give an analogue of a coordinate
+chart, and to give $A$ a quantum group structure. Examples of algebraic
+noncommutative geometries are given, which include $R^n$, $T^\star S^2$, $T^2$,
+$S^2$ and surfaces of rotation. A definition of a metric on $M$ which can be
+extended to noncommutative geometry is given and this is used in an application
+of noncommutative geometry to the numerical analysis of surfaces.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 19:36:16 GMT""}]","2007-05-23"
+"math/9905188",,"Luis A. Cordero and Phillip E. Parker","Pseudoriemannian 2-Step Nilpotent Lie Groups","63 pages, requires AMSLaTeX 1.1, dgspp.sty, dgstpp.sty, pproof.sty,
+  remexpp.sty, and rsfspp.sty",,,"DGS/CP4","math.DG",,"  We begin a systematic study of these spaces, initially following along the
+lines of Eberlein's comprehensive study of the Riemannian case. In particular,
+we integrate the geodesic equation, discuss the structure of the isometry
+group, and make a study of lattices and periodic geodesics.
+  Some major differences from the Riemannian theory appear. There are many flat
+groups (versus none), including Heisenberg groups. While still a semidirect
+product, the isometry group can be strictly larger than the obvious analogue.
+Everything is illustrated with explicit examples.
+  We introduce the notion of pH-type, which refines Kaplan's H-type and
+completes Ciatti's partial extension. We give a general construction for
+algebras of pH-type.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 22:53:00 GMT""}]","2007-05-23"
+"math/9905189","Alexei Borodin","Alexei Borodin and Grigori Olshanski","Z-Measures on partitions, Robinson-Schensted-Knuth correspondence, and
+  beta=2 random matrix ensembles","AMSTeX, 19 pages","In: Random matrix models and their applications (P.M.Bleher and
+  R.A.Its, eds), Math. Sci. Res. Inst. Publ., vol. 40, Cambridge Univ. Press,
+  Cambridge, 2001, 71--94",,,"math.CO math.PR math.RT nlin.SI solv-int",,"  We suggest an hierarchy of all the results known so far about the connection
+of the asymptotics of combinatorial or representation theoretic problems with
+``beta=2 ensembles'' arising in the random matrix theory. We show that all such
+results are, essentially, degenerations of one general situation arising from
+so-called generalized regular representations of the infinite symmetric group.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 23:46:22 GMT""}]","2007-05-23"
+"math/9905190","Sergei Nechaev","A.M. Vershik, S. Nechaev, R. Bikbov","Statistical properties of braid groups in locally free approximation","32 pages (LaTeX), 5 enclosed eps-figures; added references",,,,"math.GT cond-mat.stat-mech math.PR",,"  Statistical and probabilistic characteristics of locally free group with
+growing number of generators are defined and their application to statistics of
+braid groups is given.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 12:09:41 GMT""},{""version"":""v2"",""created"":""Wed, 23 Jun 1999 12:40:24 GMT""}]","2007-05-23"
+"nucl-th/9905064","Katsuhiko Suzuki Nuclear Science Group","K. Suzuki, E. Hiyama, H.Toki, M. Kamimura","Constituent quark model for baryons with strong quark-pair correlations
+  and non-leptonic weak transitions of hyperon","4 pages, 2 figures, talk presented at KEK-Tanashi International
+  Symposium on Physics of Hadrons and Nuclei, Tokyo, Japan, 14-17 Dec. 1998","Nucl.Phys. A670 (2000) 307-310","10.1016/S0375-9474(00)00119-6",,"nucl-th",,"  We study the roles of quark-pair correlations for baryon properties, in
+particular on non-leptonic weak decay of hyperons. We construct the quark wave
+function of baryons by solving the three body problem explicitly with
+confinement force and the short range attraction for a pair of quarks with
+their total spin being 0. We show that the existence of the strong quark-quark
+correlations enhances the non-leptonic transition amplitudes which is
+consistent with the data, while the baryon masses and radii are kept to the
+experiment.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 13:23:59 GMT""}]","2009-10-31"
+"physics/9905057","Lior M. Burko","Lior M. Burko","A Piecewise-Conserved Constant of Motion for a Dissipative System","8 pages, 6 Encapsulated PostScript figures","Eur. J. Phys. 20, 281-288 (1999)","10.1088/0143-0807/20/4/306",,"physics.ed-ph physics.class-ph physics.gen-ph",,"  We discuss a piecewise-conserved constant of motion for a simple dissipative
+oscillatory mechanical system. The system is a harmonic oscillator with sliding
+(dry) friction. The piecewise-conserved constant of motion corresponds to the
+time average of the energy of the system during one half-period of the motion,
+and changes abruptly at the turning points of the motion. At late times the
+piecewise-conserved constant of motion degenerates to a constant of motion in
+the usual sense.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1999 19:10:27 GMT""}]","2009-10-31"
+"physics/9905058","Charles Francis M.A. Ph.D.","Charles Francis","A Theory of Quantum Space-time","This paper is withdrawn, as it is superseded by EJTP 10, No. 28
+  (2013) 27-80, arXiv:gr-qc/0605127v3",,,,"physics.gen-ph",,"  An interpretation and re-formulation of modern physics which removes the
+presumption of the space-time continuum, and bases physical theory on a small
+number of rational and empirical principles. After briefly describing the
+philosophical principles underlying the theory, we rigorously construct a
+discrete model of quantum mechanics. Kets are names, or labels which categorise
+states of matter but do not directly describe them. The principle of
+superposition is seen as a definitional truism in the categorisation of states.
+This resolves the measurement problem of quantum mechanics by attributing the
+collapse of the wave function to information. The probability interpretation
+has a natural meaning in which the configuration of interacting particles plays
+the role of a hidden variable. The model supports a form of relativistic
+quantum field theory which does not depend on quantisation or second
+quantisation from classical mechanics. Continuous laws of wave mechanics are
+found in a discrete metaphysic which does not involve waves. Classical law is
+the expected behaviour of many elementary particles. The constraints on the
+theory are sufficient to establish that particles are point-like entities with
+specific properties found in nature. Newton's first law and conservation of
+momentum are established from the principle of homogeneity. Maxwell's equations
+are derived from the simple interaction in which a Dirac particle emits or
+absorbs a photon. Feynman rules are calculated for the discrete theory and
+differ from the standard rules by the removal of the ultraviolet divergence and
+the use of proper loop integrals. They give finite and unambiguous results.
+","[{""version"":""v1"",""created"":""Sun, 30 May 1999 15:30:14 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 1999 08:33:12 GMT""},{""version"":""v3"",""created"":""Mon, 7 Jun 1999 14:44:20 GMT""},{""version"":""v4"",""created"":""Fri, 30 Jul 1999 07:05:50 GMT""},{""version"":""v5"",""created"":""Fri, 24 Sep 1999 13:56:34 GMT""},{""version"":""v6"",""created"":""Sun, 11 May 2014 14:51:44 GMT""}]","2014-05-13"

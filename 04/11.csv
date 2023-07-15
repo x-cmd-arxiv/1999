@@ -1,0 +1,126 @@
+"astro-ph/9904128","Laszlo L. Kiss","L.L. Kiss, K. Szatmary, R.R. Cadmus Jr., J.A. Mattei","Multiperiodicity in semiregular variables - I. General properties","16 pages + 15 figures (3 figures oversized), accepted for publication
+  in Astronomy & Astrophysics",,,,"astro-ph",,"  We present a detailed period analysis for 93 red semiregular variables by
+means of Fourier and wavelet analyses of long-term visual observations carried
+out by amateur astronomers. The results of this analysis yield insights into
+the mode structure of semiregular variables and help to clarify the
+relationship between them and Mira variables. After collecting all available
+data from various international databases (AFOEV, VSOLJ, HAA/VSS and AAVSO) we
+test the accuracy and reliability of data. We compare the averaged and
+noise-filtered visual light curves with simultaneous photoelectric
+V-measurements, the effect of the length versus the relatively low
+signal-to-noise ratio is illustrated by period analysis of artificial data,
+while binning effects are tested by comparing results of frequency analyses of
+the unbinned and averaged light curves.
+  The distribution of periods and period ratios is examined through the use of
+the (log P_0, log P_1) and (log P_1, log P_0/P_1) plots. Three significant and
+two less obvious sequences are present which could be explained as the direct
+consequence of different pulsational modes. This hypothesis is supported by the
+results for multiperiodic variables with three periods. Finally, these space
+methods are illustrated by several interesting case studies that show the best
+examples of different special phenomena such as long-term amplitude modulation,
+amplitude decrease and mode switching.
+","[{""version"":""v1"",""created"":""Sat, 10 Apr 1999 20:06:29 GMT""}]","2007-05-23"
+"cond-mat/9904144","Enrique Trias","E. Trias, J.J. Mazo, and T.P. Orlando","Discrete breathers in nonlinear lattices: Experimental detection in a
+  Josephson array","5 pages, 5 figures, submitted to Physical Review",,"10.1103/PhysRevLett.84.741",,"cond-mat.supr-con",,"  We present an experimental study of discrete breathers in an underdamped
+Josephson-junction array. Breathers exist under a range of dc current biases
+and temperatures, and are detected by measuring dc voltages. We find the
+maximum allowable bias current for the breather is proportional to the array
+depinning current while the minimum current seems to be related to a junction
+retrapping mechanism. We have observed that this latter instability leads to
+the formation of multi-site breather states in the array. We have also studied
+the domain of existence of the breather at different values of the array
+parameters by varying the temperature.
+","[{""version"":""v1"",""created"":""Sat, 10 Apr 1999 23:22:26 GMT""}]","2009-10-31"
+"cond-mat/9904145","Shimshoni Efrat","Efrat Shimshoni (Oranim - Haifa U)","Classical versus Quantum Transport near Quantum Hall Transitions","4 RevTex pages",,"10.1103/PhysRevB.60.10691",,"cond-mat.mes-hall",,"  In attempt to settle the apparent disagreements between different
+experimental results, transport data near quantum Hall transitions are
+interpreted by identifying two distinct conduction regimes. The ``classical''
+regime, dominated by nearest neighbor hopping between localized conducting
+puddles, manifests an activated-like resistivity formula, and the quantized
+Hall insulator behavior. At very low temperatures $T$, or farther from the
+critical point, a crossover occurs to a ""quantum"" transport regime dominated by
+variable range hopping. The latter is characterized by a different
+T-dependence, yet the dependence on filling fraction is, coincidentally, hard
+to distinguish.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 12:25:54 GMT""}]","2009-10-31"
+"cs/9904003","Wen Chen","W. Chen, W. Wang, T. Zhong","The Structure of Weighting Coefficient Matrices of Harmonic Differential
+  Quadrature and Its Applications","12 pages, 1 table, Original MS. Word format, published in Common.
+  Numer. Methods. Engrg","Commnuications in Numerical Methods in Engineering, 12 (1996), pp.
+  455-459",,,"cs.CE cs.NA",,"  The structure of weighting coefficient matrices of Harmonic Differential
+Quadrature (HDQ) is found to be either centrosymmetric or skew centrosymmetric
+depending on the order of the corresponding derivatives. The properties of both
+matrices are briefly discussed in this paper. It is noted that the
+computational effort of the harmonic quadrature for some problems can be
+further reduced up to 75 per cent by using the properties of the
+above-mentioned matrices.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 08:21:13 GMT""}]","2007-05-23"
+"hep-ph/9904295","Alberto Casas","J.A. Casas, V. Di Clemente, A. Ibarra and M. Quiros","Massive Neutrinos and the Higgs Mass Window","4 pages, revtex + psfig.sty, 5 figures","Phys.Rev. D62 (2000) 053005","10.1103/PhysRevD.62.053005",,"hep-ph",,"  If neutrino masses are produced by a see-saw mechanism the Standard Model
+prediction for the Higgs mass window (defined by upper (perturbativity) and
+lower (stability) bounds) can be substantially affected. Actually the Higgs
+mass window can close completely, which settles an upper bound on the Majorana
+mass for the right-handed neutrinos, $M$, ranging from $10^{13}$ GeV for three
+generations of quasi-degenerate massive neutrinos with $m_\nu\simeq 2 $ eV, to
+$5\times 10^{14}$ GeV for just one relevant generation with $m_\nu\simeq 0.1 $
+eV. A slightly weaker upper bound on $M$, coming from the requirement that the
+neutrino Yukawa couplings do not develop a Landau pole, is also discussed.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 15:29:13 GMT""}]","2009-10-31"
+"hep-ph/9904296","Mustafa Savci","T. M. Aliev and M. Savci (Middle East Technical
+  University-Ankara-Turkey)","Pion--baryon coupling constants in light cone QCD sum rules","8 pages, LaTeX formatted","Phys.Rev. D61 (2000) 016008","10.1103/PhysRevD.61.016008","METU-PHYS-HEP-99-15","hep-ph",,"  We calculate the ""pi Sigma Lambda"" and ""pi Sigma Sigma"" coupling constants in
+light cone QCD sum rules for the structure ""sigma_{alpha beta} gamma_5 p^alpha
+q^beta"". A comparison of our results on these coupling constants with
+prediction of the SU(3) symmetry is presented.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 15:51:52 GMT""},{""version"":""v2"",""created"":""Sun, 30 May 1999 12:32:29 GMT""}]","2009-10-31"
+"hep-th/9904080","Mark D. Roberts","Mark D. Roberts","A Generalized Higgs Model","Discussion of the principles involved added, 6 pages",,,,"hep-th gr-qc",,"  The Higgs model is generalized so that in addition to the radial Higgs field
+there are fields which correspond to the themasy and entropy. The model is
+further generalized to include state and sign parameters. A reduction to the
+standard Higgs model is given and how to break symmetry using a non-zero VEV
+(vacuum expectation value) is shown. A 'fluid rotation' can be performed on the
+standard Higgs model to give a model dependant on the entropy and themasy and
+with a constant mass.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 12:30:14 GMT""},{""version"":""v2"",""created"":""Sat, 23 Dec 2000 19:29:40 GMT""},{""version"":""v3"",""created"":""Thu, 30 May 2002 19:07:01 GMT""},{""version"":""v4"",""created"":""Sun, 14 Dec 2003 16:53:17 GMT""}]","2007-05-23"
+"hep-th/9904081","Elena Gubankova","Elena Gubankova and Gabor Papp","Light-cone Hamiltonian flow for positronium. The numerical solutions","28 pages, LaTeX2e, 2 Figures",,,,"hep-th",,"  The effective Hamiltonian, as obtained from applying the Hamiltonian flow
+equations to front form QED, are solved numerically for positronium. Both the
+exchange and the annihilation channels are included. The impact of different
+similarity functions is explicitly studied. Perfect numerical agreement with
+other methods is found.
+","[{""version"":""v1"",""created"":""Sat, 10 Apr 1999 17:49:05 GMT""}]","2007-05-23"
+"hep-th/9904082","Pakuliak Stanislav","S. Khoroshkin, A. LeClair, S. Pakuliak","Angular Quantization of the Sine-Gordon Model at the Free Fermion Point","35 pages, LaTeX 2.09, bezier.sty, final version for publication","Adv.Theor.Math.Phys. 3 (1999) 1227-1287",,"ITEP-TH-75/98, CLNS 99/1607","hep-th math.QA nlin.SI solv-int",,"  The goal of this paper is to analyse the method of angular quantization for
+the Sine-Gordon model at the free fermion point, which is one of the most
+investigated models of the two-dimensional integrable field theories. The
+angular quantization method (see hep-th/9707091) is a continuous analog of the
+Baxter's corner transfer matrix method. Investigating the canonical
+quantization of the free massive Dirac fermions in one Rindler wedge we
+identify this quantization with a representation of the infinite-dimensional
+algebra introduced in the paper q-alg/9702002 and specialized to the free
+fermion point. We construct further the main ingredients of the SG theory in
+terms of the representation theory of this algebra following the approach by
+M.Jimbo, T.Miwa et al.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 15:19:04 GMT""},{""version"":""v2"",""created"":""Sun, 25 Apr 1999 08:43:51 GMT""},{""version"":""v3"",""created"":""Mon, 6 Mar 2000 16:04:35 GMT""}]","2007-05-23"
+"nucl-th/9904024","Mikhail Krivoruchenko","Amand Faessler, C. Fuchs (ITP - Tuebingen U.), and M.I. Krivoruchenko
+  (ITP - Tuebingen U. and ITEP - Moscow)","Dilepton Spectra from Decays of Light Unflavored Mesons","73 pages, 19 figures, 3 tables, REVTeX, new references added","Phys.Rev. C61 (2000) 035206","10.1103/PhysRevC.61.035206",,"nucl-th hep-ph",,"  The invariant mass spectrum of the $e^{+}e^{-}$ and $\mu ^{+}\mu ^{-}$ pairs
+from decays of light unflavored mesons with masses below the $\phi
+(1020)$-meson mass to final states containing along with a dilepton pair one
+photon, one meson, and two mesons are calculated within the framework of the
+effective meson theory. The results can be used for simulations of the dilepton
+spectra in heavy-ion collisions and for experimental searches of dilepton meson
+decays.
+","[{""version"":""v1"",""created"":""Sat, 10 Apr 1999 17:28:35 GMT""},{""version"":""v2"",""created"":""Mon, 22 Nov 1999 16:18:50 GMT""}]","2009-10-31"
+"physics/9904019","Phlogiston","Eric Baird","Warp drives, wavefronts and superluminality","HTML+GIF, about 4 pages, with two embedded GIF figures",,,,"physics.gen-ph",,"  Coule's primary objection to the Alcubierre ""warpdrive"" is that the material
+producing the warp field needs to be superluminal. This difficulty is solved by
+placing the drive material inside its own warp field (making the drive system
+part of the payload), but we then have to deal with Low's related objection,
+that there is then a restricted rate at which this ""naked"" warp-field can
+propagate through the background metric. We argue that the propagation of this
+sort of gravitational wave is not a trivial problem, and that the possibility
+of ultrafast warpfield propagation should not be dismissed without further
+research.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 15:25:43 GMT""}]","2007-05-23"
+"quant-ph/9904042","Asher Peres","Asher Peres","Delayed choice for entanglement swapping","7 pages, LaTeX, to appear in special issue of J. Modern Optics","J.Mod.Opt. Vol. 47, Issue 2-3 (2000) 139-143","10.1080/09500340008244032",,"quant-ph",,"  Two observers (Alice and Bob) independently prepare two sets of singlets.
+They test one particle of each singlet along an arbitrarily chosen direction
+and send the other particle to a third observer, Eve. At a later time, Eve
+performs joint tests on pairs of particles (one from Alice and one from Bob).
+According to Eve's choice of test and to her results, Alice and Bob can sort
+into subsets the samples that they have already tested, and they can verify
+that each subset behaves as if it consisted of entangled pairs of distant
+particles, that have never communicated in the past, even indirectly via other
+particles.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1999 08:32:44 GMT""}]","2015-04-15"

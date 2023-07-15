@@ -1,0 +1,134 @@
+"astro-ph/9909431","Matt A. Wood","M. A. Wood and the XCov 15 Team","DQ Herculis in Profile: Whole Earth Telescope Observations and Smoothed
+  Particle Hydrodynamics Simulations","12 pages, 4 figures, Fifth Whole Earth Telescope Workshop conference
+  proceedings, submitted to Baltic Astronomy (plain TeX using balticw.tex).
+  Version with high-res figures available at
+  http://www.astro.fit.edu/wood/dqher_baltic.html Replacement paper corrects
+  typos and author order","Astrophys.J. 634 (2005) 570-584","10.1086/496957",,"astro-ph",,"  DQ Herculis was the Summer 1997 WET northern-hemisphere primary target. The
+O-C phase diagram of the 71-s signal reveals out-of-eclipse phase variations
+resulting from the self eclipses of a nearly edge-on, non-axisymmetric disc. We
+work the forward problem of simulating DQ Herculis numerically using the method
+of smoothed particle hydrodynamics (SPH), and from the time-averaged structure
+calculate the O-C phase variations as a function of inclination angle. The WET
+and SPH O-C phase variations match to a remarkable degree, and suggest a system
+inclination in the range 89.5 to 89.7 degrees.
+","[{""version"":""v1"",""created"":""Sat, 25 Sep 1999 22:35:37 GMT""},{""version"":""v2"",""created"":""Fri, 1 Oct 1999 21:39:09 GMT""}]","2009-10-31"
+"astro-ph/9909432","Michael H. Salamon","R. Battiston (1), M. Biasini (1), E. Fiandrini (1), J. Petrakis (2),
+  and M. H. Salamon (2) ((1) Sezione INFN and Dipartimento di Fisica,
+  Universita di Perugia, (2) Department of Physics, University of Utah)","The Gamma Ray Detection Capabilities of the Alpha Magnetic Spectrometer","Latex2e file; 33 pages of text, 20 EPS figures. Accepted for
+  publication in Astroparticle Physics. Correction to affiliations; no
+  modifications of text","Astropart.Phys.13:51-74,2000","10.1016/S0927-6505(99)00115-2",,"astro-ph",,"  The modeled performance of the Alpha Magnetic Spectrometer (AMS) as a high
+energy (0.3 to 100 GeV) gamma-ray detector is described, and its gamma ray
+astrophysics objectives are discussed.
+","[{""version"":""v1"",""created"":""Sat, 25 Sep 1999 22:56:06 GMT""},{""version"":""v2"",""created"":""Thu, 30 Sep 1999 20:41:26 GMT""}]","2011-05-23"
+"astro-ph/9909434","Francisco J. Carrera","M.J. Page (MSSL), F.J. Carrera (MSSL) (IFCA)","An improved method of constructing binned luminosity functions","LaTeX file, 8 pages, uses mn.sty, 5 figs included in text, accepted
+  by MNRAS","Mon.Not.Roy.Astron.Soc.311:433-440,2000","10.1046/j.1365-8711.2000.03105.x",,"astro-ph",,"  We show that binned differential luminosity functions constructed using the
+1/Va method have a significant systematic error for objects close to their
+parent sample's flux limit(s). This is particularly noticeable when luminosity
+functions are produced for a number of different redshift ranges as is common
+in the study of AGN or galaxy evolution. We present a simple method of
+constructing a binned luminosity function which overcomes this problem and has
+a number of other advantages over the traditional 1/Va method. We also describe
+a practical method for comparing binned and model luminosity functions, by
+calculating the expectation values of the binned luminosity function from the
+model. Binned luminosity functions produced by the two methods are compared for
+simulated data and for the Large Bright QSO Survey (LBQS). It is shown that the
+1/Va method produces a very misleading picture of evolution in the LBQS. The
+binned luminosity function of the LBQS is then compared to a model two power
+law luminosity function undergoing pure luminosity evolution from Boyle et al.
+(1991). The comparison is made using a model luminosity function averaged over
+each redshift shell, and using the expectation values for the binned luminosity
+function calculated from the model. The luminosity function averaged in each
+redshift shell gives a misleading impression that the model over predicts the
+number of QSOs at low luminosity even when model and data are consistent. The
+expectation values show that there are significant differences between model
+and data: the model overpredicts the number of low luminosity sources at both
+low and high redshift. The luminosity function does not appear to steepen
+relative to the model as redshift increases.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 11:06:42 GMT""}]","2009-07-28"
+"astro-ph/9909435","Vladimir V. Usov","Vladimir V. Usov","Radiation from Relativistic Strongly Magnetized Outflows","20 pages, 6 eps figures. To appear in the Proceedings of ""Gamma-Ray
+  Bursts: The First Three Minutes"", eds. J. Poutanen and R. Svensson",,,,"astro-ph",,"  Relativistic strongly magnetized winds outflowing from fast-rotating compact
+objects like millisecond pulsars with surface magnetic fields of $\sim
+10^{15}-10^{16}$ G are plausible sources of cosmological $\gamma$-ray bursts.
+In such winds, there are at least three regions where extremely powerful X-ray
+and $\gamma$-ray emission may be generated. The first radiating region is the
+wind photosphere that is at a distance of $\sim 10^9$ cm from the compact
+object. The second radiating region is at a distance of $\sim 10^{13}-10^{14}$
+cm. In this region, the striped component of the wind field is transformed into
+large-amplitude electromagnetic waves. The third radiating region is at a
+distance of $\sim 10^{16}-10^{17}$ cm, where deceleration of the wind due to
+its interaction with an ambient medium becomes important. Radiation from all
+these regions is considered.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 11:09:47 GMT""}]","2007-05-23"
+"cond-mat/9909369","G. Sambandamurthy","G. Sambandamurthy, K. DasGupta and N. Chandrasekhar (Department of
+  Physics, Indian Institute of Science, Bangalore, INDIA)","Electrical transport properties of ultrathin disordered films","2 pages, 3 eps figures, phbauth.cls and elsart.cls needed (attached).
+  Presented in LT22, Helsinki, Finland. To appear in Physica B, March/April
+  2000",,"10.1016/S0921-4526(99)02292-9",,"cond-mat.supr-con cond-mat.dis-nn",,"  We report an experimental study of quench condensed ($2K\le T \le 15K$)
+disordered ultrathin films of {\rm Bi} where localisation effects and
+superconductivity compete. Experiments are done with different substrates
+and/or different underlayers. Quasi-free standing films of {\rm Bi}, prepared
+by quenching {\rm Bi} vapours onto solid {\rm Xe}, are also studied. The
+results show a dependence of the transport properties both on the dielectric
+constant of the substrate/underlayer as well as the temperature of quench
+condensation. RHEED studies indicate that quantum size effects are important in
+these systems. In this paper, we try to correlate the structure of the films to
+the transport properties obtained.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 14:37:54 GMT""}]","2009-10-31"
+"hep-ph/9909510","Helmut Satz","Helmut Satz (Universit\""at Bielefeld, Bielefeld) and Dinesh Kumar
+  Srivastava (Variable Energy Cyclotron Centre, Calcutta and Universit\""at
+  Bielefeld, Bielefeld)","The Evolution of Dynamical Screening in the Parton Cacade Model","11 pages, including 4 figures","Phys.Lett. B475 (2000) 225-230","10.1016/S0370-2693(00)00085-X",,"hep-ph nucl-th",,"  We determine the time evolution of the colour screening mass in high energy
+nuclear collisions, as provided by the parton cascade model. Using our result,
+we discuss the onset of deconfinement and the onset of quarkonium suppression
+in a general, not necessarily equilibrated environment of strongly interacting
+constituents.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 07:05:16 GMT""}]","2016-08-15"
+"hep-ph/9909513","Brandon Carter","Brandon Carter","Old and New Processes of Vorton Formation","7 pages Latex; contribution to 35th Karpacs meeting (ed. J.
+  Kowalski-Glikman) Polanica, Poland, February 1999","Lect.Notes Phys. 541 (2000) 71-78",,,"hep-ph",,"  After a brief explanation of the concept of a vorton, quantitative estimates
+of the vorton population that would be produced in various cosmic string
+scenarios are reviewed. Attention is drawn to previously unconsidered
+mechanisms that might give rise to much more prolific vorton formation that has
+been envisaged hitherto.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 07:44:23 GMT""}]","2007-05-23"
+"math-ph/9909028","Oleg Kiselev","O.M.Kiselev (Institute of Mathematics, Ufa Science Centre, Russian
+  Acad. of Sciences)","Asymptotics of soliton solution for the perturbed Davey-Stewartson-1
+  equations","Mistake and misprints are corrected. Latex, 14 pages",,,,"math-ph math.MP nlin.PS nlin.SI patt-sol solv-int",,"  The dromion of the Davey-Stewartson-1 equation is studied under perturbation
+on the large time.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 11:16:00 GMT""},{""version"":""v2"",""created"":""Sat, 16 Oct 1999 12:35:51 GMT""}]","2007-05-23"
+"quant-ph/9909079","Alexander D. Panov","Alexander D. Panov","General equation for Zeno-like effects in spontaneous exponential decay","LaTeX 2.09 file, 11 pages, no figures. Accepted in Physics Letters A","Physics Letters A, V.260, No 6 (1999), P. 441-446","10.1016/S0375-9601(99)00570-8",,"quant-ph",,"  It was shown that different mechanisms of perturbation of spontaneous decay
+constant: inelastic interaction of emitted particles with particle detector,
+decay onto an unstable level, Rabi transition from the final state of decay
+(electromagnetic field domination) and some others are really the special kinds
+of one general effect - perturbation of decay constant by dissipation of the
+final state of decay. Such phenomena are considered to be Zeno-like effects and
+general formula for perturbed decay constant is deduced.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 09:37:23 GMT""}]","2009-10-31"
+"quant-ph/9909080","Arnold Neumaier","Arnold Neumaier","Noncommutative analysis and quantum physics I. States and ensembles","38 pages",,,,"quant-ph gr-qc",,"  In this sequence of papers, noncommutative analysis is used to give a
+consistent axiomatic approach to a unified conceptual foundation of classical
+and quantum physics.
+  The present Part I defines the concepts of observables, states and ensembles,
+clarifies the logical relations and operations for them, and shows how they
+give rise to dynamics and probabilities.
+  States are identified with maximal consistent sets of weak equalities in the
+algebra of observables (instead of, as usual, with the rays in a Hilbert
+space). This leads to a concise foundation of quantum mechanics, free of
+undefined terms, separating in a clear way the deterministic and the stochastic
+features of quantum physics.
+  The traditional postulates of quantum mechanics are derived from
+well-motivated axiomatic assumptions. No special quantum logic is needed to
+handle the peculiarities of quantum mechanics. Foundational problems associated
+with the measurement process, such as the reduction of the state vector,
+disappear.
+  The new interpretation of quantum mechanics contains `elements of physical
+reality' without the need to introduce a classical framework with hidden
+variables. In particular, one may talk about the state of the universe without
+the need of an external observer and without the need to assume the existence
+of multiple universes.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 15:01:45 GMT""}]","2007-05-23"
+"solv-int/9909027","Sergei Sakovich","Sergei Sakovich","On two aspects of the Painleve analysis","8 pages","Int. J. Analysis 2013 (2013) 172813 (5 pages)","10.1155/2013/172813",,"solv-int math-ph math.AP math.MP nlin.SI","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We use the Calogero equation to illustrate the following two aspects of the
+Painleve analysis of nonlinear PDEs. First, if a nonlinear equation passes the
+Painleve test for integrability, the singular expansions of its solutions
+around characteristic hypersurfaces can be neither single-valued functions of
+independent variables nor single-valued functionals of data. Second, if the
+truncation of singular expansions of solutions is consistent, the truncation
+not necessarily leads to the simplest, or elementary, auto-Backlund
+transformation related to the Lax pair.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1999 06:55:08 GMT""},{""version"":""v2"",""created"":""Wed, 11 Apr 2012 07:17:10 GMT""},{""version"":""v3"",""created"":""Wed, 27 Mar 2013 12:32:19 GMT""}]","2013-03-28"

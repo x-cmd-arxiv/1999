@@ -1,0 +1,218 @@
+"astro-ph/9911486","John Bahcall","John Bahcall and Raymond Davis, Jr","The Evolution of Neutrino Astronomy","Figures added in editorial stage. Related material
+  http://www.sns.ias.edu/~jnb/Papers/Popular/snhistory.html","Publ.Astron.Soc.Pac. 112 (2000) 429-433","10.1086/316545",,"astro-ph hep-ex hep-ph nucl-ex nucl-th physics.chem-ph",,"  How did neutrino astronomy evolve? Are there any useful lessons for
+astronomers and physicists embarking on new observational ventures today? We
+answer the first question; the reader can can decide if there are any useful
+parallels for other fields.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 14:51:07 GMT""},{""version"":""v2"",""created"":""Tue, 30 Nov 1999 16:36:53 GMT""},{""version"":""v3"",""created"":""Sat, 8 Apr 2000 19:05:19 GMT""}]","2012-08-27"
+"astro-ph/9911490","Michael R. Meyer","Antonella Natta (Arcetri Observatory) Michael R. Meyer (Steward
+  Observatory, The University of Arizona) Steven V.W. Beckwith (Space Telescope
+  Science Institute & MPIA-Heidelberg)","Silicate Emission in T Tauri Stars: Evidence for Disk Atmospheres?","Accepted for publication in the Astrophysical Journal.: 20 postscript
+  pages including 5 figures and 2 tables. Minor typographical errors corrected",,"10.1086/308787",,"astro-ph",,"  We present low-resolution mid-infrared spectra of nine classical T Tauri
+stars associated with the Chamaeleon I dark cloud. The data were obtained with
+the PHOT-S instrument on-board the Infrared Space Observatory (ISO) in the two
+wavelength ranges 2.5-4.9 and 5.9-11.7 microns. All nine stars show evidence of
+silicate emission at 10 microns, which is the only prominent feature in the
+spectra. We discuss a model for the origin of these features in a hot
+optically-thin surface layer of the circumstellar disks surrounding the central
+young stars (i.e. a disk atmosphere). We report excellent agreement of our
+observations with predictions based upon this simple model for most stars in
+our sample, assuming that a mixture of amorphous silicates of radius ~< 1
+microns is the dominant source of opacity. These observations support the
+notion that extended disk atmospheres contribute substantially to the mid-IR
+flux of young stars.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 01:57:39 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 23:05:04 GMT""}]","2009-10-31"
+"cond-mat/9911449","Matteo Palassini","Matteo Palassini and Sergio Caracciolo","Monte Carlo Simulation of the Three-dimensional Ising Spin Glass","5 pages, 6 figures. Proceedings of the Workshop ""Computer Simulation
+  Studies in Condensed Matter Physics XII"", Eds. D.P. Landau, S.P. Lewis, and
+  H.B. Schuettler, (Springer Verlag, Heidelberg, Berlin, 1999)",,,,"cond-mat.dis-nn hep-lat",,"  We study the 3D Edwards-Anderson model with binary interactions by Monte
+Carlo simulations. Direct evidence of finite-size scaling is provided, and the
+universal finite-size scaling functions are determined. Using an iterative
+extrapolation procedure, Monte Carlo data are extrapolated to infinite volume
+up to correlation length \xi = 140. The infinite volume data are consistent
+with both a continuous phase transition at finite temperature and an essential
+singularity at finite temperature. An essential singularity at zero temperature
+is excluded.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 23:32:18 GMT""}]","2007-05-23"
+"cond-mat/9911451","Dirk van der Marel","C. Presura, D. van der Marel, A. Damascelli, R.K. Kremer","Low temperature ellipsometry of NaV2O5","Revisions in style and order of presentation. One new figure. In
+  press in Physical Review B. REVTeX, 4 pages with 4 postscript figures","Phys. Rev. B 61, 15762 (2000)","10.1103/PhysRevB.61.15762","GMGd-99.11.1","cond-mat.str-el",,"  The dielectric function of alpha'NaV2O5 was measured with electric field
+along the a and b axes in the photon energy range 0.8-4.5 eV for temperatures
+down to 4K. We observe a pronounced decrease of the intensity of the 1 eV peak
+upon increasing temperature with an activation energy of about 25meV,
+indicating that a finite fraction of the rungs becomes occupied with two
+electrons while others are emptied as temperature increases. No appreciable
+shifts of peaks were found s in the valence state of individual V atoms at the
+phase transition is very small. A remarkable inflection of this temperature
+dependence at the phase transition at 34 K indicates that charge ordering is
+associated with the low temperature phase.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 14:27:23 GMT""},{""version"":""v2"",""created"":""Mon, 22 May 2000 13:21:33 GMT""}]","2009-10-31"
+"cond-mat/9911453","Luca Salasnic","Luca Salasnich","BEC in Nonextensive Statistical Mechanics","LaTex, 7 pages, no figures, to be published in Mod. Phys. Lett. B;
+  corrected a typo in Eq. (2)","Int. J. Mod. Phys. B 14 (2000) 405-409","10.1142/S0217979200000388",,"cond-mat.stat-mech",,"  We discuss the Bose-Einstein condensation (BEC) for an ideal gas of bosons in
+the framework of Tsallis's nonextensive statistical mechanics. We study the
+corrections to the standard BEC formulas due to a weak nonextensivity of the
+system. In particular, we consider three cases in the D-dimensional space: the
+homogeneous gas, the gas in a harmonic trap and the relativistic homogenous
+gas. The results show that small deviations from the extensive Bose statistics
+produce remarkably large changes in the BEC transition temperature.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 19:01:20 GMT""},{""version"":""v2"",""created"":""Tue, 28 Dec 1999 09:10:38 GMT""}]","2009-10-31"
+"cs/9911012","Joseph Y. Halpern","Joseph Y. Halpern","Cox's Theorem Revisited","Changed running head from original submission","Journal of AI Research, vol. 11, 1999, pp. 429-435",,,"cs.AI",,"  The assumptions needed to prove Cox's Theorem are discussed and examined.
+Various sets of assumptions under which a Cox-style theorem can be proved are
+provided, although all are rather strong and, arguably, not natural.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 17:57:17 GMT""},{""version"":""v2"",""created"":""Wed, 1 Dec 1999 22:29:49 GMT""}]","2007-05-23"
+"cs/9911013","Joseph O'Rourke","Joseph O'Rourke and The Smith Problem Solving Group","PushPush is NP-hard in 3D","10 pages, 7 figures",,,"Smith Tech. Rep. 064, Nov. 1999","cs.CG cs.DM",,"  We prove that a particular pushing-blocks puzzle is intractable in 3D. The
+puzzle, inspired by the game PushPush, consists of unit square blocks on an
+integer lattice. An agent may push blocks (but never pull them) in attempting
+to move between given start and goal positions. In the PushPush version, the
+agent can only push one block at a time, and moreover, each block, when pushed,
+slides the maximal extent of its free range. We prove this version is NP-hard
+in 3D by reduction from SAT. The corresponding problem in 2D remains open.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 15:43:50 GMT""}]","2007-05-23"
+"gr-qc/9911111","John A. Gowan","John A. Gowan","A Spacetime Map of the Universe","29 pages. Revision: conceptual restatement of spatial size of
+  universe in text",,,,"gr-qc","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  A geometric spacetime map of the universe is presented, addressing problems
+inherent in deep space observations and cosmology. Implications for the
+observer's perspective, the cosmological ""horizon"" and ""flatness"" problem,
+""inflation"", and the recently observed accelerating expansion of the Universe
+are discussed.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 18:38:22 GMT""},{""version"":""v10"",""created"":""Thu, 9 Apr 2009 13:30:07 GMT""},{""version"":""v11"",""created"":""Wed, 1 Jul 2009 19:12:05 GMT""},{""version"":""v12"",""created"":""Sun, 20 Nov 2011 22:22:47 GMT""},{""version"":""v2"",""created"":""Sun, 5 Dec 1999 21:03:09 GMT""},{""version"":""v3"",""created"":""Tue, 4 Jul 2000 17:54:16 GMT""},{""version"":""v4"",""created"":""Thu, 20 Jul 2000 21:57:10 GMT""},{""version"":""v5"",""created"":""Sun, 13 Aug 2000 00:53:35 GMT""},{""version"":""v6"",""created"":""Mon, 7 May 2001 20:45:02 GMT""},{""version"":""v7"",""created"":""Mon, 21 Aug 2006 22:58:12 GMT""},{""version"":""v8"",""created"":""Fri, 8 Sep 2006 12:54:44 GMT""},{""version"":""v9"",""created"":""Sun, 15 Mar 2009 11:31:47 GMT""}]","2011-11-22"
+"gr-qc/9911112","Abel Camacho Quintana","Abel Camacho Quintana (Astrophysikalisches Institut Potsdam)","Flavor-oscillation clocks, continuous quantum measurements and a
+  violation of Einstein equivalence principle","16 pages, accepted in Mod. Phys. Letts.A","Mod.Phys.Lett. A14 (1999) 2545-2556","10.1142/S0217732399002662",,"gr-qc quant-ph",,"  The relation between Einstein equivalence principle and a continuous quantum
+measurement is analyzed in the context of the recently proposed
+flavor-oscillation clocks, an idea pioneered by Ahluwalia and Burgard (Gen. Rel
+Grav. Errata 29, 681 (1997)). We will calculate the measurement outputs if a
+flavor-oscillation clock, which is immersed in a gravitational field, is
+subject to a continuous quantum measurement. Afterwards, resorting to the weak
+equivalence principle, we obtain the corresponding quantities in a freely
+falling reference frame. Finally, comparing this last result with the
+measurement outputs that would appear in a Minkowskian spacetime it will be
+found that they do not coincide, in other words, we have a violation of
+Einstein equivalence principle. This violation appears in two different forms,
+namely: (i) the oscillation frequency in a freely falling reference frame does
+not match with the case predicted by general relativity, a feature previously
+obtained by Ahluwalia; (ii) the probability distribution of the measurement
+outputs, obtained by an observer in a freely falling reference frame, does not
+coincide with the results that would appear in the case of a Minkowskian
+spacetime.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 15:31:27 GMT""}]","2009-10-31"
+"hep-ph/9911504","Anton A. Chuvakin","A. Chuvakin, J. Smith, (SUNY at Stony Brook)","$\bar{\rm MS}$ parton densities with NNLO heavy flavor matching
+  conditions","Latex with thirty-five PostScript figures",,,,"hep-ph",,"  A study is made of charm and bottom flavor matching conditions on parton
+densities. Starting from an $\bar{\rm MS}$ three-flavor density set, where the
+scale $\mu < m_c$, and using the recently derived two-loop matching conditions,
+we provide a new set of four-flavor parton densities where $ m_c \le \mu < m_b$
+and five-flavor densities where $\mu \ge m_b$. The effect of the
+next-to-next-to-leading order matching conditions on the evolution equations is
+important for scales just above the transition regions. This includes the small
+$x$ and small $Q^2$ domain studied by the H1 and ZEUS experiments at HERA. At
+small $x$ the effects of the matching conditions never die away even for large
+$\mu^2$.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 22:14:56 GMT""},{""version"":""v2"",""created"":""Tue, 30 Nov 1999 00:20:03 GMT""}]","2007-05-23"
+"hep-ph/9911508","Paolo Ciafaloni","Paolo Ciafaloni","Leading electroweak corrections at the TeV scale","LaTeX, 6 pages, 3 figures. Talk presented at the 2nd ECFA/DESY Study
+  on Physics and Detectors for a Linear Electron-Positron Collider, Obernai
+  (France) 16-19th October, 1999",,,,"hep-ph",,"  The planned next generation of linear colliders (NLCs) will be able to probe
+the infrared structure of Standard Model electroweak interactions, that
+determines the behavior of electroweak radiative corrections at TeV scale
+energies. I present results of a recent calculation at the leading log level,
+and discuss my view on open issues and possible future developments of this new
+and interesting subject.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 16:13:45 GMT""}]","2007-05-23"
+"hep-th/9911221","Sergei Kuzenko","I.L. Buchbinder, S.M. Kuzenko, A.A. Tseytlin","On Low-Energy Effective Actions in N = 2, 4 Superconformal Theories in
+  Four Dimensions","18 pages, latex, comments/reference added","Phys.Rev.D62:045001,2000","10.1103/PhysRevD.62.045001","LMU-TPW-99-20, OHSTPY-HEP-T-99-027","hep-th",,"  We study some aspects of low-energy effective actions in 4-d superconformal
+gauge theories on the Coulomb branch. We describe superconformal invariants
+constructed in terms of N=2 abelian vector multiplet which play the role of
+building blocks for the N=2,4 supersymmetric low-energy effective actions. We
+compute the one-loop effective actions in constant N=2 field strength
+background in N=4 SYM theory and in N=2 SU(2) SYM theory with four
+hypermultiplets in fundamental representation. Using the classification of
+superconformal invariants we then find the manifestly N=2 superconformal form
+of these effective actions. While our explicit computations are done in the
+one-loop approximation, our conclusions about the structure of the effective
+actions in N=2 superconformal theories are general. We comment on some
+applications to supergravity - gauge theory duality in the description of
+D-brane interactions.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 18:21:54 GMT""},{""version"":""v2"",""created"":""Tue, 7 Dec 1999 12:22:55 GMT""}]","2009-09-17"
+"hep-th/9911222","Leonardo Rastelli","Eric D'Hoker, Samir D. Mathur, Alec Matusis, Leonardo Rastelli","The Operator Product Expansion of N=4 SYM and the 4-point Functions of
+  Supergravity","42 pages","Nucl.Phys.B589:38-74,2000","10.1016/S0550-3213(00)00523-X",,"hep-th",,"  We give a detailed Operator Product Expansion interpretation of the results
+for conformal 4-point functions computed from supergravity through the AdS/CFT
+duality. We show that for an arbitrary scalar exchange in AdS(d+1) all the
+power-singular terms in the direct channel limit (and only these terms) exactly
+match the corresponding contributions to the OPE of the operator dual to the
+exchanged bulk field and of its conformal descendents. The leading logarithmic
+singularities in the 4-point functions of protected N=4 super-Yang Mills
+operators (computed from IIB supergravity on AdS(5) X S(5) are interpreted as
+O(1/N^2) renormalization effects of the double-trace products appearing in the
+OPE. Applied to the 4-point functions of the operators Ophi ~ tr F^2 + ... and
+Oc ~ tr FF~ + ..., this analysis leads to the prediction that the double-trace
+composites [Ophi Oc] and [Ophi Ophi - Oc Oc] have anomalous dimension -16/N^2
+in the large N, large g_{YM}^2 N limit. We describe a geometric picture of the
+OPE in the dual gravitational theory, for both the power-singular terms and the
+leading logarithms. We comment on several possible extensions of our results.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 02:54:35 GMT""}]","2011-08-17"
+"math-ph/9911040","Alexander G. Ramm","A.G.Ramm, P.N.Shivakumar","Inequalities for the minimal eigenvalue of the Laplacian in an annulus",,"Math. Inequalitie and Applications, 1, N4, (1998), 559-563",,,"math-ph math.AP math.MP",,"  It is proved that the minimal Dirichlet eigenvalue of the Laplacian in an
+annulus is a monotonically decreasing function of the displacement of the
+center of the smaller disc. The maximal value of the minimal eigenvalue is
+attained when the annulus is formed by two concentric discs.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 17:51:07 GMT""}]","2007-05-23"
+"math-ph/9911041","Alexander G. Ramm","R.Airapetyan, A.G.Ramm, A.Smirnova","Continuous regularization of nonlinear ill-posed problems",,,,,"math-ph math.AP math.MP math.NA",,"  A general method for solving nonlinear ill-posed problems is developed. The
+method consists of solving a Cauchy problem with a regularized operator and
+proving that the solution of this problem tends, as time grows, to a solution
+of the original nonlinear stationary problem. Examples of applications of the
+general method are given. Convergence theorems are proved.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 18:09:46 GMT""}]","2007-05-23"
+"math-ph/9911042","Alexander G. Ramm","A.G.Ramm","Justification of the limiting absorption principle in R2",,,,,"math-ph math.AP math.MP",,"  The limiting absorption principle in two-dimensional space is justified for a
+second-order elliptic operators. Necessary and sufficient conditions for the
+right-hand side are given for this principle to be valid.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 18:16:31 GMT""}]","2007-05-23"
+"math-ph/9911043","Alexander G. Ramm","A.G.Ramm","Remark on the theory of reproducing kernels",,"Jour of Inverse and Ill-Posed probl., 6,N5, (1998), 515-520",,,"math-ph math.FA math.MP",,"  Foundations of the theory of Hilbert spaces with reproducing kernels are
+discussed. It is demonstrated that the claims in the papers of S.Saitoh and in
+his book ""Theory of reproducing kernels and applications, Pitman research
+notes, 189, Longman, New York, 1988, that a characterization of the range of
+arbitrary linear transform is obtained in his works, is not correct.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 18:38:46 GMT""}]","2007-05-23"
+"math-ph/9911044","Alexander G. Ramm","A.G.Ramm","Inverse problem for an inhomogeneous Schr\""odinger equation",,"Jour. Math.Phys., 40,N8, (1999), 3876-3880","10.1063/1.532930",,"math-ph math.MP",,"  An inverse problem is considered for an inhomogeneous Schr\""odinger equation.
+Assuming that the potential vanishes outside a finite interval and satisfies
+some other technical assumptions, one proves the uniqueness of the recovery of
+this potential from the knowledge of the wave function at the ends of the above
+interval for all energies. An algorithm is given for the recovery of the
+potential from the above data.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 23:19:29 GMT""}]","2009-10-31"
+"math-ph/9911045","Alexander G. Ramm","A.G.Ramm, W.Scheid","An approximate method for solving inverse scattering problem with
+  fixed-energy phase shifts",,"Jour of Inverse and Ill-posed Probl., 7, N6, (1999), 561-571",,,"math-ph math.MP math.NA",,"  An approximate method is proposed for the recovery of a compactly supported
+spherically-symmetric potential from the set of fixed-energy phase-shifts known
+for all angular momenta. The method reduces the inverse scattering problem to a
+moment problem which is solved numerically.
+  The above reduction is done approximately and it is more accurate for larger
+angular momenta or for smaller potentials.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 00:05:15 GMT""}]","2016-09-07"
+"math-ph/9911046","Alexander G. Ramm","A.G.Ramm, M.Sammartino","Existence and uniqueness of the scattering solutions in the exterior of
+  rough domains",,,,,"math-ph math.AP math.MP",,"  Existence and uniqueness of the scattering solutions is proved for a class of
+bounded rough obstacles which is much larger than the class of Lipschitz
+obstacles. Integral equations method is not used. The approach is based on the
+representation theorem for selfadjoint operators via closed symmetric quadratic
+forms and on the limiting absorption principles. For the Dirichlet boundary
+condition no assumptions on the smoothness of the boundary are needed, for the
+Neumann boundary condition and the Robin boundary condition some assumptions on
+the smoothness of the boundary are needed.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 00:24:06 GMT""}]","2007-05-23"
+"math/9911224","Jacob Mostovoy","Jacob Mostovoy","Lattices in R^2 and finite subsets of a circle","2 pages, 1 figure; a minor error corrected",,,,"math.GT math.GN",,"  An elementary geometric construction is used to relate the space of lattices
+in a plane to the space exp_3(S^1) of the subsets of a circle of cardinality at
+most 3. As a consequence we obtain new proofs of a theorem of Bott which says
+that exp_3(S^1) is homeomorphic to a 3-sphere and a theorem of Shchepin which
+says that points of exp_3(S^1) that correspond to one-point subsets form a
+trefoil knot in this 3-sphere.
+","[{""version"":""v1"",""created"":""Sat, 27 Nov 1999 22:09:46 GMT""},{""version"":""v2"",""created"":""Thu, 9 Dec 1999 21:13:07 GMT""}]","2007-05-23"
+"math/9911225","Shelah Office","Rami Grossberg and Saharon Shelah","On cardinalities in quotients of inverse limits of groups",,"Mathematica Japonica, 47(1998):189-197",,"Shelah [GrSh:302a]","math.LO",,"  Let lambda be aleph_0 or a strong limit of cofinality aleph_0. Suppose that
+(G_m,p_{m,n}:m =< n<omega) and (H_m,p^t_{m,n}: m=< n < omega) are projective
+systems of groups of cardinality less than lambda and suppose that for every
+n<omega there is a homomorphism h:H_n-->G_n such that all the diagrams commute.
+  If for every mu<lambda there exists (f_i in G_omega:i<mu) such that for
+distinct i,j we have: f_i f_j^{-1} notin h_omega(H_omega), then there exists
+(f_i in G_omega:i<2^lambda) such that for distinct i,j we have f_i f_j^{-1}
+notin h_omega(H_omega).
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 00:45:12 GMT""}]","2007-05-23"
+"math/9911226","Michael Farber","Michael Farber and Serge Tabachnikov","Topology of cyclic configuration spaces and periodic trajectories of
+  multi-dimensional billiards","38 pages, 4 figures",,,,"math.DG math.AT",,"  We give lowed bounds on the number of periodic trajectories in strictly
+convex smooth billiards in $\R^{m+1}$ for $m\ge 3$. For plane billiards (when
+m=1) such bounds were obtained by G. Birkhoff in the 1920's. Our proof is based
+on topological methods of calculus of variations - equivariant Morse and
+Lusternik - Schirelman theories. We compute the equivariant cohomology ring of
+the cyclic configuration space of the sphere $S^m$, i.e., the space of n-tuples
+of points $(x_1, ..., x_n)$, where $x_i\in S^m$ and $x_i\ne x_{i+1}$ for i=1,2,
+..., n.
+","[{""version"":""v1"",""created"":""Sun, 28 Nov 1999 06:32:28 GMT""}]","2007-05-23"

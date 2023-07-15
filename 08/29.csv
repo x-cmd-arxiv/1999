@@ -1,0 +1,222 @@
+"astro-ph/9908317","Andrzej Udalski","A. Udalski, I. Soszynski, M. Szymanski, M. Kubiak, G. Pietrzynski, P.
+  Wozniak, and K. Zebrun","The Optical Gravitational Lensing Experiment. Cepheids in the Magellanic
+  Clouds. IV. Catalog of Cepheids from the Large Magellanic Cloud","23 pages, Latex+psfig. Fig. 1 and Appendices (only one page) in JPG
+  format. Acta Astronomica 49, 223. Full resolution Figure 1, all Appendices
+  and the entire Catalog are available from the OGLE Internet archive:
+  http://www.astrouw.edu.pl/~ftp/ogle or its US mirror
+  http://www.astro.princeton.edu/~ogle Revised (journal) version, minor changes","ActaAstron.49:223-317,1999",,,"astro-ph",,"  We present the Catalog of Cepheids from the LMC. The Catalog contains 1333
+objects detected in the 4.5 square degree area of central parts of the LMC.
+About 3.4*10^5 BVI measurements of these stars were collected during the
+OGLE-II microlensing survey. The Catalog data include period, BVI photometry,
+astrometry, and R_21, \phi_21 parameters of the Fourier decomposition of I-band
+light curve.
+  The vast majority of objects from the Catalog are the classical Cepheids
+pulsating in the fundamental or first overtone mode. The remaining objects
+include Population II Cepheids and red giants with pulsation-like light curves.
+  Tests of completeness performed in overlapping parts of adjacent fields
+indicate that completeness of the Catalog is very high: >96%. Statistics and
+distributions of basic parameters of Cepheids are also presented.
+  Finally, we show the light curves of three eclipsing systems containing
+Cepheid detected among objects of the Catalog.
+  All presented data, including individual BVI observations are available from
+the OGLE Internet archive.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 12:24:53 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1999 15:25:51 GMT""}]","2008-11-26"
+"astro-ph/9908318","Liliya L. R. Williams","Liliya L.R. Williams (Univ. of Victoria, Canada)","Large-Scale QSO-Galaxy Correlations and Weak Lensing","extended Section 2; 20 pages, including 4 figures, accepted to ApJ",,"10.1086/308832",,"astro-ph",,"  Several recent studies show that bright, intermediate and high redshift
+optically and radio selected QSOs are positively correlated with nearby
+galaxies on a range of angular scales up to a degree. Obscuration by unevenly
+distributed Galactic dust can be ruled out as the cause, leaving weak
+statistical lensing as the physical process responsible. However the amplitude
+of correlations on < 1 degree scales is at least a factor of a few larger than
+lensing model predictions. A possible way to reconcile the observations and
+theory is to revise the weak lensing formalism. We extend the standard lensing
+formulation to include the next higher order term (second order) in the
+geodesic equation of motion for photons. We derive relevant equations
+applicable in the weak lensing regime, and discuss qualitative properties of
+the updated formulation. We then perform numerical integrations of the revised
+equation and study the effect of the extra term using two different types of
+cosmic mass density fluctuations. We find that nearby large-scale coherent
+structures increase the amplitude of the predicted lensing-induced correlations
+between QSOs and foreground galaxies by ~ 10% (not a factor of several required
+by observations), while the redshift of the optimal, i.e. `most correlated'
+structures is moved closer to the observer compared to what is predicted using
+the standard lensing equation.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 19:18:38 GMT""},{""version"":""v2"",""created"":""Wed, 22 Dec 1999 19:26:25 GMT""}]","2009-10-31"
+"astro-ph/9908319","Mihail Tchijov","D. P. Kirilova and M. V. Chizhov","Non-GUT Baryogenesis and Large Scale Structure of the Universe","14 pages, 3 eps figures, final version for MNRAS","Mon.Not.Roy.Astron.Soc. 314 (2000) 256","10.1046/j.1365-8711.2000.03193.x","IC/95/205","astro-ph",,"  We discuss a mechanism for producing baryon density perturbations during
+inflationary stage and study the evolution of the baryon charge density
+distribution in the framework of the low temperature baryogenesis scenario.
+This mechanism may be important for the large scale structure formation of the
+Universe and particularly, may be essential for understanding the existence of
+a characteristic scale of 130h^{-1} Mpc (comoving size) in the distribution of
+the visible matter.
+  The detailed analysis showed that both the observed very large scale of the
+visible matter distribution in the Universe and the observed baryon asymmetry
+value could naturally appear as a result of the evolution of a complex scalar
+field condensate, formed at the inflationary stage.
+  Moreover, according to our model, the visible part of the Universe at present
+may consist of baryonic and antibaryonic regions, sufficiently separated, so
+that annihilation radiation is not observed.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 19:32:08 GMT""}]","2009-10-31"
+"cond-mat/9908427","Robert A. Smith","Robert A Smith, Beccy S Handy and Vinay Ambegaokar","The Upper Critical Field in Disordered Two-Dimensional Superconductors","11 pages, 8 figures",,"10.1103/PhysRevB.61.6352",,"cond-mat.supr-con cond-mat.dis-nn",,"  We present calculations of the upper critical field in superconducting films
+as a function of increasing disorder (as measured by the normal state
+resistance per square). In contradiction to previous work, we find that there
+is no anomalous low-temperature positive curvature in the upper critical field
+as disorder is increased. We show that the previous prediction of this effect
+is due to an unjustified analytical approximation of sums occuring in the
+perturbative calculation. Our treatment includes both a careful analysis of
+first-order perturbation theory, and a non-perturbative resummation technique.
+No anomalous curvature is found in either case. We present our results in
+graphical form.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 19:44:08 GMT""}]","2009-10-31"
+"cond-mat/9908428","Toan T. Nguyen","T. T. Nguyen, I. Rouzina, B. I. Shklovskii","Reentrant Condensation of DNA induced by Multivalent Counterions","8 pages, 4 figures, references corrected","J. Chem. Phys., 112 (2000) 2562.","10.1063/1.480819",,"cond-mat.soft physics.bio-ph q-bio",,"  A theory of condensation and resolubilization of a dilute DNA solution with
+growing concentration of multivalent cations, N is suggested. It is based on a
+new theory of screening of a macroion by multivalent cations, which shows that
+due to strong cation correlations at the surface of DNA the net charge of DNA
+changes sign at some small concentration of cations N_0. DNA condensation takes
+place in the vicinity of N_0, where absolute value of the DNA net charge is
+small and the correlation induced short range attraction dominates the Coulomb
+repulsion. At N > N_0 positive DNA should move in the oppisite direction in an
+electrophoresis experiment. From comparison of our theory with experimental
+values of condensation and resolubilization thresholds for DNA solution
+containing Spe$^{4+}$, we obtain that N_0 = 3.2 mM and that the energy of DNA
+condensation per nucleotide is $0.07 k_B T$.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 23:27:34 GMT""},{""version"":""v2"",""created"":""Tue, 7 Sep 1999 15:53:21 GMT""}]","2009-10-31"
+"cond-mat/9908429","X. S. Rao","X. S. Rao, C. K. Ong, B. B. Jin, C. Y. Tan, S. Y. Xu, P. Chen, J. Li,
+  Y. P. Feng","Anomalous microwave response of high-temperature superconducting
+  thin-film microstrip resonator in weak dc magnetic fields","REVTex 3.1, 5 pages, 6 EPS figures, submitted to Physica C","Physica C 328 (1999) 60-66","10.1016/S0921-4534(99)00534-1",,"cond-mat.supr-con cond-mat.mtrl-sci",,"  We have studied an anomalous microwave (mw) response of superconducting
+YBa_{2}Cu_{3}O_{7-delta} (YBCO) microstrip resonators in the presence of a weak
+dc magnetic field, H_{dc}. The surface resistance (R_{s}) and reactance (X_{s})
+show a correlated non-monotonic behaviour as a function of H_{dc}. R_{s} and
+X_{s} were found to initially decrease with elevated H_{dc} and then increase
+after H_{dc} reaches a crossover field, H_{c}, which is independent of the
+amplitude and frequency of the input mw signal within the measurements. The
+frequency dependence of R_{s} is almost linear at fixed H_{dc} with different
+magnitudes (<H_{c}, =H_{c} and >H_{c}). The impedance plane analysis
+demonstrates that r_{H}, which is defined as the ratio of the change in
+R_{s}(H_{dc}) and that in X_{s}(H_{dc}), is about 0.6 at H_{dc}<H_{c} and 0.1
+at H_{dc}>H_{c}. The H_{dc} dependence of the surface impedance is
+qualitatively independent of the orientation of H_{dc}.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 04:37:42 GMT""}]","2009-10-31"
+"cond-mat/9908430","Yi Jiang","Y. Jiang, T. Lookman, and A. Saxena","Phase ordering and shape deformation of two-phase membranes","4 pages, submitted to PRE",,"10.1103/PhysRevE.61.R57",,"cond-mat.soft cond-mat.stat-mech",,"  Within a coupled-field Ginzburg-Landau model we study analytically phase
+separation and accompanying shape deformation on a two-phase elastic membrane
+in simple geometries such as cylinders, spheres and tori. Using an exact
+periodic domain wall solution we solve for the shape and phase ordering field,
+and estimate the degree of deformation of the membrane. The results are
+pertinent to a preferential phase separation in regions of differing curvature
+on a variety of vesicles.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 07:08:58 GMT""}]","2009-10-31"
+"cond-mat/9908432","Stanislav Maratovich Soskin","S.M.Soskin","Large fluctuations in multi-attractor systems and the generalized
+  Kramers problem","It is scheduled to be published in J.Stat.Phys. v.97, No. 3/4
+  (November, 1999), 76pp, 11 figures","J. Stat. Phys., Vol. 97, pp 609-676, 1999","10.1023/A:1004663224988",,"cond-mat.stat-mech",,"  The main subject of the paper is an escape from a multi-well metastable
+potential on a time-scale of a formation of the quasi-equilibrium between the
+wells. The main attention is devoted to such ranges of friction in which an
+external saddle does not belong to a basin of attraction of an initial
+attractor. A complete rigorous analysis of the problem for the most probable
+escape path is presented and a corresponding escape rate is calculated with a
+logarithmic accuracy. Unlike a conventional rate for a quasi-stationary flux,
+the rate on shorter time-scales strongly depends on friction, moreover, it may
+undergo oscillations in the underdamped range and a cutoff in the overdamped
+range.
+  A generalization of the results for inter-attractor transitions in stable
+potentials with more than two wells is also presented as well as a splitting
+procedure for a phenomenological description of inter-attractor transitions is
+suggested.
+  Applications to such problems as a dynamics of escape on time-scales shorter
+than an optimal fluctuation duration, prehistory problem, optimal control of
+fluctuations, fluctuational transport in ratchets, escapes at a periodic
+driving and transitions in biased Josephson junctions and ionic channels are
+briefly discussed.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 15:28:05 GMT""}]","2015-06-25"
+"hep-lat/9908049",,"N.D. Hari Dass(IMSc, Chennai, India)","Numerical Simulations of d=3 SU(2) LGT in the Dual Formulation","LATTICE99(theo dev), 3p","Nucl.Phys.Proc.Suppl. 83 (2000) 950-952",,,"hep-lat",,"  We have developed the techniques necessary for a numerical simulation of d=3
+SU(2) Lattice Gauge theories in the dual formulation as originally developed by
+Anishetty et al . These include updating techniques that preserve the
+constrained configuration space, efficient evaluation of 6-j symbols and a
+certain problem associated with the positive indefiniteness of the weight
+factors.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 17:09:13 GMT""}]","2007-05-23"
+"hep-th/9908189","Marios Petropoulos","P. Marios Petropoulos (Ecole Polytechnique, France)","String Theory on AdS3: Some Open Questions","18 pages, latex. To appear in the proceedings of the TMR European
+  program meeting ""Quantum aspects of gauge theories, supersymmetry and
+  unification"", Paris, France, 1--7 September, 1999; v2: comments and
+  references added",,,"CPTH-PC-732.0899","hep-th",,"  String theory on curved backgrounds has received much attention on account of
+both its own interest, and of its relation with gauge theories. Despite the
+progress made in various directions, several quite elementary questions remain
+unanswered, in particular in the very simple case of three-dimensional anti-de
+Sitter space. I will very briefly review these problems, discuss in some detail
+the important issue of constructing a consistent spectrum for a string
+propagating on ADS3 plus torsion background, and comment on potential
+solutions.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 17:45:46 GMT""},{""version"":""v2"",""created"":""Thu, 2 Mar 2000 14:51:07 GMT""}]","2007-05-23"
+"hep-th/9908190","Oswaldo Monteiro Del Cima","J.L. Boldo, L.P. Colatto, M.A. De Andrade, O.M. Del Cima, J.A.
+  Helayel-Neto","Superpropagators for explicitly broken 3D-supersymmetric theories","6 pages, LaTex, references added. To appear in Phys.Lett.B","Phys.Lett. B468 (1999) 96-101","10.1016/S0370-2693(99)01202-2","TUW-99-19","hep-th",,"  A systematic algorithm to derive superpropagators in the case of either
+explicitly or spontaneously broken supersymmetric three-dimensional theories is
+presented. We discuss how the explicit breaking terms that are introduced at
+tree-level induce 1-loop radiative corrections to the effective action. We also
+point out that the renormalisation effects and the breaking-inducing-breaking
+mechanism become more immediate whenever we adopt the shifted superpropagators
+discussed in this letter.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 19:38:42 GMT""},{""version"":""v2"",""created"":""Mon, 18 Oct 1999 19:20:04 GMT""}]","2009-10-31"
+"hep-th/9908191","Ettore Minguzzi","E. Minguzzi","Orthogonal polynomial method and odd vertices in matrix models","13 pages, 3 Postscript figures","J. Math. Phys. 41 (2000) 3257-3267","10.1063/1.533303",,"hep-th gr-qc hep-lat",,"  We show how to use the method of orthogonal polynomials for integrating, in
+the planar approximation, the partition function of one-matrix models with a
+potential with even or odd vertices, or any combination of them.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 22:12:33 GMT""}]","2007-05-23"
+"hep-th/9908192","Sunil Mukhi","Bahniman Ghosh and Sunil Mukhi","Killing Spinors and Supersymmetric AdS Orbifolds","16 pages, harvmac (b)","JHEP 9910:021,1999","10.1088/1126-6708/1999/10/021","TIFR/TH/99-44","hep-th",,"  We examine the behaviour of Killing spinors on AdS5 under various discrete
+symmetries of the spacetime. In this way we discover a number of supersymmetric
+orbifolds, reproducing the known ones and adding a few novel ones to the list.
+These orbifolds break the SO(4,2) invariance of AdS5 down to subgroups. We also
+make some comments on the non-compact Stiefel manifold W{4,2}.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 10:25:48 GMT""}]","2014-11-18"
+"hep-th/9908193","Gottfried Curio","Bjorn Andreas and Gottfried Curio","On discrete Twist and Four-Flux in N=1 heterotic/F-theory
+  compactifications","latex, 81 pages; minor changes, reference added","Adv.Theor.Math.Phys. 3 (1999) 1325-1413",,"IFP-9908-UNC, IASSNS-HEP-99-80","hep-th",,"  We give an indirect argument for the matching $G^2=-\pi_* \gamma^2$ of
+four-flux and discrete twist in the duality between N=1 heterotic string and
+$F$-theory. This treats in detail the Euler number computation for the
+physically relevant case of a Calabi-Yau fourfold with singularities.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 13:21:51 GMT""},{""version"":""v2"",""created"":""Wed, 15 Sep 1999 19:05:24 GMT""}]","2007-05-23"
+"math/9908154","Max Tegmark","Dmitry Khavinson, John E. McCarthy, Harold S. Shapiro","Best approximation in the mean by analytic and harmonic functions","Plain TeX, 39 pages",,,,"math.FA math.CA",,"  We consider the problem of finding the best harmonic or analytic approximant
+to a given function. We discuss when the best approximant is unique, and what
+regularity properties the best approximant inherits from the original function.
+All our approximations are done in the mean with respect to Lebesgue measure in
+the plane or higher dimensions.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 16:20:22 GMT""}]","2007-05-23"
+"math/9908155","Nugmanova G. N.","R.Myrzakulov","Soliton equations in 2+1 dimensions and Differential geometry of
+  curves/surfaces","LaTex, 25 pages, no figures",,,"CNLP-1994-02","math.DG",,"  A connection between differential geometry and soliton equations is discussed
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 12:53:08 GMT""}]","2007-05-23"
+"patt-sol/9909001","Andrey A. Sukhorukov","Andrey A. Sukhorukov","Approximate solutions and scaling transformations for quadratic solitons","11 pages, 9 figures; submitted for publication","Phys. Rev. E 61, 4530-4539 (2000)","10.1103/PhysRevE.61.4530",,"patt-sol nlin.PS",,"  We study quadratic solitons supported by two- and three-wave parametric
+interactions in chi-2 nonlinear media. Both planar and two-dimensional cases
+are considered. We obtain very accurate, 'almost exact', explicit analytical
+solutions, matching the actual bright soliton profiles, with the help of a
+specially-developed approach, based on analysis of the scaling properties.
+Additionally, we use these approximations to describe the linear tails of
+solitary waves which are related to the properties of the soliton bound states.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 11:46:42 GMT""}]","2007-05-23"
+"physics/9908056","Norayr Akopov","A.R. Tumanyan, N.Z. Akopov, Z.G. Guiragossian, Z.N. Akopov","Concept of Powerful Multistage Coaxial Cyclotron for Pulsed and
+  Continuous Beam Production","10 pages, 1 figure",,,,"physics.acc-ph",,"  The concept of large-radius multistage coaxial cyclotrons having separated
+orbits is described, to generate proton beams of 120-2000 MeV energy at tens of
+GW pulsed and hundreds of MW in continuous beam power operation. Accelerated
+beam losses must be less than 0.1 W/m for the intercepted average beam power
+linear density. The concept is inherently configured to actively compensate the
+longitudinal and transverse space charge expansion in beam bunches. These are
+based on (1) actively varying the bunch acceleration equilibrium phase while
+maintaining isochronism, independently for each cyclotron turns; (2)
+independently changing the acceleration voltage for each turn together with
+orbit corrections that preserve isochronism; (3) independently changing the
+transverse betatron oscillation tune shift, to assure non-resonant operation.
+Also, (4) sextupole lenses are included to compensate for chromaticity effects.
+Moreover, the concept is based on optimum uses of practical successful results
+so far achieved in beam acceleration and storage techniques. This accelerator
+can be used to deliver a pulsed intense source of neutrons without the use of
+storage rings, and to drive the different transmutation technologies. As an
+example of such a cyclotron system, we describe our approach of accelerating
+single-bunch proton beams at up to 1 GeV energy, with pulsed beam power of 80
+GW and bunch duration of 2 ns. The exemplar cyclotron accelerator system is
+configured to be located in the shielded structure of the 6-GeV Yerevan
+Electron Synchrotron. The cost of such a cyclotron system is estimated to be
+approximately 40,000,000 US dollars, if implemented in Armenia at substantially
+reduced labor costs.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1999 12:02:50 GMT""}]","2007-05-23"
+"quant-ph/9908085",,"N.D. Hari Dass (IMSc, Chennai, India)","Cold Atoms For Testing Quantum Mechanics and Parity Violation In
+  Gravitation","Revtex, 8 pages",,,,"quant-ph",,"  Techniques of Atom trapping and laser cooling have proved to be very
+important tools in probing many aspects of fundamental physics. In this talk I
+wish to present ideas on how they may used to settle certain issues in the
+foundational aspects of quantum mechanics on the one hand and about some
+quantum gravitational interactions of matter that violate parity and
+time-reversal, on the other hand.
+","[{""version"":""v1"",""created"":""Sat, 28 Aug 1999 16:53:19 GMT""}]","2007-05-23"

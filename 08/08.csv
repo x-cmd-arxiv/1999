@@ -1,0 +1,287 @@
+"astro-ph/9908085","Andreas Albrecht","Andreas Albrecht (UC Davis), Constantinos Skordis (UC Davis)","Phenomenology of a realistic accelerating universe using only
+  Planck-scale physics","4 pages including 4 figures. Final version accepted for publication
+  in PRL with expanded discussion of the relationship to other quintessence
+  research. No changes to our own work","Phys.Rev.Lett.84:2076-2079,2000","10.1103/PhysRevLett.84.2076",,"astro-ph hep-ph hep-th",,"  Modern data is showing increasing evidence that the Universe is accelerating.
+So far, all attempts to account for the acceleration have required some
+fundamental dimensionless quantities to be extremely small. We show how a class
+of scalar field models (which may emerge naturally from superstring theory) can
+account for acceleration which starts in the present epoch with all the
+potential parameters O(1) in Planck units.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 18:21:34 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 2000 20:05:35 GMT""}]","2010-04-08"
+"astro-ph/9908086","Robert C. Duncan","C. Thompson, R.C. Duncan, P.M. Woods, C. Kouveliotou, M.H. Finger & J.
+  van Paradijs","Physical Mechanisms for the Variable Spin-down of SGR 1900+14","24 pages, no figures",,"10.1086/317072","UNC Preprint No. TAR-073-UNC","astro-ph",,"  We consider the physical implications of the rapid spindown of Soft Gamma
+Repeater 1900+14, and of the apparent ""braking glitch"", \Delta P/P = l x 10^-4,
+that was concurrent with the Aug. 27th giant flare. A radiation-hydrodynamical
+outflow associated with the flare could impart the required torque, but only if
+the dipole magnetic field is stronger than ~ 10^14 G and the outflow lasts
+longer and/or is more energetic than the observed X-ray flare. A positive
+period increment is also a natural consequence of a gradual, plastic
+deformation of the neutron star crust by an intense magnetic field, which
+forces the neutron superfluid to rotate more slowly than the crust. Sudden
+unpinning of the neutron vortex lines during the August 27th event would then
+induce a glitch opposite in sign to those observed in young pulsars, but of a
+much larger magnitude as a result of the slower rotation.
+  The change in the persistent X-ray lightcurve following the August 27 event
+is ascribed to continued particle heating in the active region of that
+outburst. The enhanced X-ray output can be powered by a steady current flowing
+through the magnetosphere, induced by the twisting motion of the crust. The
+long term rate of spindown appears to be accelerated with respect to a simple
+magnetic dipole torque. Accelerated spindown of a seismically-active magnetar
+will occur when its persistent output of Alfven waves and particles exceeds its
+spindown luminosity. We suggest that SGRs experience some episodes of relative
+inactivity, with diminished spindown rates, and that such inactive magnetars
+are observed as Anomalous X-ray Pulsars (AXPs). The rapid reappearence of
+persistent X-ray emission following August 27 flare gives evidence against
+accretion-powered models.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 08:50:59 GMT""}]","2009-10-31"
+"astro-ph/9908087","Eiichiro Komatsu","Eiichiro Komatsu, Tetsu Kitayama","Sunyaev - Zel'dovich fluctuations from spatial correlations between
+  clusters of galaxies","11 pages, 4 figures, submitted to Astrophysical Journal","Astrophys.J. 526 (1999) L1-L4","10.1086/312364",,"astro-ph",,"  We present angular power spectra of the cosmic microwave background radiation
+anisotropy due to fluctuations of the Sunyaev-Zel'dovich (SZ) effect through
+clusters of galaxies. A contribution from the correlation among clusters is
+especially focused on, which has been neglected in the previous analyses.
+Employing the evolving linear bias factor based on the Press-Schechter
+formalism, we find that the clustering contribution amounts to 20-30% of the
+Poissonian one at degree angular scales. If we exclude clusters in the local
+universe, it even exceeds the Poissonian noise, and makes dominant contribution
+to the angular power spectrum. As a concrete example, we demonstrate the
+subtraction of the ROSAT X-ray flux-limited cluster samples. It indicates that
+we should include the clustering effect in the analysis of the SZ fluctuations.
+We further find that the degree scale spectra essentially depend upon the
+normalization of the density fluctuations, i.e., \sigma_8, and the gas mass
+fraction of the cluster, rather than the density parameter of the universe and
+details of cluster evolution models. Our results show that the SZ fluctuations
+at the degree scale will provide a possible measure of \sigma_8, while the
+arc-minute spectra a probe of the cluster evolution. In addition, the
+clustering spectrum will give us valuable information on the bias at high
+redshift, if we can detect it by removing X-ray luminous clusters.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 14:06:47 GMT""}]","2009-10-31"
+"chao-dyn/9908014","Szzhang","Shunguang Wu, Kaifen He and Zuqia Huang","Controlling spatiotemporal chaos via small external forces","8 pages, Latex, including 5 eps Figures. Accepted by PLA",,"10.1016/S0375-9601(99)00539-3",,"chao-dyn nlin.CD",,"  The spatiotemporal chaos in the system described by a one-dimensional
+nonlinear drift-wave equation is controlled by directly adding a periodic force
+with appropriately chosen frequencies. By dividing the solution of the system
+into a carrier steady wave and its perturbation, we find that the controlling
+mechanism can be explained by a slaving principle. The critical controlling
+time for a perturbation mode increases exponentially with its wave number.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 04:45:57 GMT""}]","2009-10-31"
+"cond-mat/9908114","Frank Goehmann","F. G\""ohmann and V. E. Korepin (YITP, State University of New York at
+  Stony Brook)","The Hubbard chain: Lieb-Wu equations and norm of the eigenfunctions","11 pages, Latex","Phys.Lett. A263 (1999) 293-298","10.1016/S0375-9601(99)00774-4","YITP-99-43","cond-mat.str-el hep-th math-ph math.MP math.QA nlin.SI solv-int",,"  We argue that the square of the norm of the Hubbard wave function is
+proportional to the determinant of a matrix, which is obtained by linearization
+of the Lieb-Wu equations around a solution. This means that in the vicinity of
+a solution the Lieb-Wu equations are non-degenerate, if the corresponding wave
+function is non-zero. We further derive an action that generates the Lieb-Wu
+equations and express our determinant formula for the square of the norm in
+terms of the Hessian determinant of this action.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 19:30:59 GMT""}]","2009-10-31"
+"cond-mat/9908115","Shuichi Wakimoto","S. Wakimoto, R.J. Birgeneau, M.A. Kastner, Y.S. Lee, R. Erwin, P.M.
+  Gehring, S.H. Lee, M. Fujita, K. Yamada, Y. Endoh, K. Hirota, and G. Shirane","Direct Observation of a One Dimensional Static Spin Modulation in
+  Insulating La1.95Sr0.05CuO4","9 pages 8 figures",,"10.1103/PhysRevB.61.3699",,"cond-mat.supr-con",,"  We report the results of an extensive elastic neutron scattering study of the
+incommensurate (IC) static spin correlations in La1.95Sr0.05CuO4 which is an
+insulating spin glass at low temperatures. The present neutron scattering
+experiments on the same x=0.05 crystal employ a narrower instrumental
+Q-resolution and thereby have revealed that the crystal has only two
+orthorhombic twins at low temperatures with relative populations of 2:1. We
+find that, in a single twin, only two satellites are observed at (1, +/-0.064,
+L)(ortho) and (0, 1+/-0.064, L)(ortho), that is, the modulation vector is only
+along the orthorhombic b*-axis. This demonstrates unambiguously that
+La1.95Sr0.05CuO4 has a one-dimensional static diagonal spin modulation at low
+temperatures, consistent with certain stripe models. We have also reexamined
+the x=0.04 crystal that previously was reported to show a single commensurate
+peak. By mounting the sample in the (H, K, 0) zone, we have discovered that the
+x=0.04 sample in fact has the same IC structure as the $x=0.05$ sample. The
+incommensurability parameter d for x=0.04 and 0.05, where d is the distance
+from (1/2, 1/2) in tetragonal reciprocal lattice units, follows the linear
+relation d=x. These results demonstrate that the insulator to superconductor
+transition in the under doped regime (0.05 </= x </= 0.06) in La2-xSrxCuO4 is
+coincident with a transition from diagonal to collinear static stripes at low
+temperatures thereby evincing the intimate coupling between the one dimensional
+spin density modulation and the superconductivity.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 03:25:56 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1999 21:32:35 GMT""},{""version"":""v3"",""created"":""Mon, 22 Nov 1999 20:40:05 GMT""}]","2009-10-31"
+"gr-qc/9908024","Massimo Blasone","Massimo Blasone, Yuan-Xing Gui and Francis Vendrell","Geometric Background for Thermal Field Theories","RevTeX, 11 pages, 2 figures",,,,"gr-qc hep-th",,"  We study a new spacetime which is shown to be the general geometrical
+background for Thermal Field Theories at equilibrium. The different formalisms
+of Thermal Field Theory are unified in a simple way in this spacetime. The set
+of time-paths used in the Path Ordered Method is interpreted in geometrical
+terms.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 18:46:23 GMT""}]","2007-05-23"
+"gr-qc/9908025","Jorma Louko","Jorma Louko, Hans-Juergen Matschull","(2+1)-dimensional Einstein-Kepler problem in the centre-of-mass frame","38 pages, REVTeX v3.1 with amsfonts and epsf, 12 eps figures. (v2:
+  Presentational improvement, references added, typos corrected.)","Class.Quant.Grav. 17 (2000) 1847-1873","10.1088/0264-9381/17/8/307","AEI 1999-015, MZ-TH/99-31","gr-qc",,"  We formulate and analyze the Hamiltonian dynamics of a pair of massive
+spinless point particles in (2+1)-dimensional Einstein gravity by anchoring the
+system to a conical infinity, isometric to the infinity generated by a single
+massive but possibly spinning particle. The reduced phase space \Gamma_{red}
+has dimension four and topology R^3 x S^1. \Gamma_{red} is analogous to the
+phase space of a Newtonian two-body system in the centre-of-mass frame, and we
+find on \Gamma_{red} a canonical chart that makes this analogue explicit and
+reduces to the Newtonian chart in the appropriate limit. Prospects for
+quantization are commented on.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 13:31:32 GMT""},{""version"":""v2"",""created"":""Mon, 6 Mar 2000 19:40:06 GMT""}]","2009-10-31"
+"hep-ex/9908023","James Crittenden","J.A. Crittenden (Physikalisches Institut der Universitaet Bonn)","Results on Diffractive Processes from the HERA Collider Experiments","Contributed to the proceedings of the EPIC'99 Workshop on Physics
+  with an Electron/Polarized-Ion Collider, Indiana University Cyclotron
+  Facility, 8-11 April 1999, Bloomington, Indiana, USA (25 pages including 13
+  figures). Transparencies are available at
+  http://www-zeus.physik.uni-bonn.de/~critten/epic99/epic99t/index.html",,,"BONN-HE-99-04","hep-ex",,"  We review topical results on diffractive processes from the experiments H1
+and ZEUS at the HERA electron-proton collider. Emphasis is placed on the
+phenomenological and experimental consequences of the discoveries at HERA for
+the proposed electron/polarized-ion collider EPIC.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 13:09:39 GMT""}]","2007-05-23"
+"hep-ex/9908037","A. S. Vovenko","V.B. Anikeev, et al","Measurement of $F_2$ and $x F_3$ Structure Functions in Low $Q^2$ Region
+  with the IHEP-JINR Neutrino Detector","18 pages, 9 figures","Nucl.Phys.Proc.Suppl. 79 (1999) 99-101","10.1016/S0920-5632(99)00644-1",,"hep-ex",,"  This paper has been withdrawn by the authors.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 18:41:53 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jan 2000 14:56:42 GMT""}]","2015-06-25"
+"hep-ex/9908038","Hermann Staengle","The SLD Collaboration, K. Abe, et al","A Preliminary Direct Measurement of the s-Quark Coupling","23 pages, 2 figures",,,"SLAC-PUB-8154","hep-ex",,"  We present an updated direct measurement of the parity-violating coupling of
+the Z boson to strange quarks, A_s, derived from the full SLD data sample of
+approximately 550,000 hadronic decays of Z bosons produced with a polarized
+electron beam and recorded by the SLD experiment at SLAC between 1993 and 1998.
+Events with primary strange quarks are tagged by the presence in each event
+hemisphere of a high-momentum charged K meson, neutral K meson or Lambda
+hyperon identified using the Cherenkov Ring Imaging Detector and/or a mass tag.
+The CCD vertex detector is used to suppress the background from heavy flavor
+events. The strangeness of the tagged particle is used to sign the event thrust
+axis in the direction of the initial strange quark. The coupling A_s is
+obtained directly from a measurement of the left-right-forward-backward
+production asymmetry in polar angle of the tagged strange quark. The background
+from primary up and down events is measured from the data, as is the analyzing
+power of the method for primary strange events. We measure: A_s = 0.85 +-
+0.06(stat.) +- 0.07(syst.) (preliminary).
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 01:43:43 GMT""}]","2007-05-23"
+"hep-ex/9908039","Frank Wuerthwein","CLEO Collaboration","Study of charmless hadronic B decays into the final states $K\pi,
+  \pi\pi$, and KK, with the first observation of $B \to \pi^+ \pi^-$ and $B\to
+  K^0\pi^0$","Leppho99 conference submission. All results are preliminary",,,"CLEO CONF 99-14","hep-ex",,"  We have studied charmless hadronic decays of B mesons into two-body final
+states with kaons and pions. We present preliminary results based on 9.66
+million $B\bar{B}$ pairs collected with the CLEO detector. We have made the
+first observation of the decay $B \to \pi^+\pi^-$, with the branching fraction
+of $Br(B \to \pi^+ \pi^-) = (4.7^{+1.8}_{-1.5} \pm 0.6) \times 10^{-6}$. We
+have also observed for the first time the decay $B \to K^0\pi^0$ with the
+branching fraction of $Br(B \to K^0 \pi^0) = (14.8^{+5.9+2.4}_{-5.1-3.3})
+\times 10^{-6}$, thus completing the set of four $K\pi$ branching fraction
+measurements. We present improved measurements for the decays $B\to
+K^{\pm}\pi^{\mp}$, $B^{\pm}\to K^0\pi^{\pm}$, and $B^{\pm}\to K^{\pm}\pi^0$. We
+use these and other charmless hadronic B decays to make a first determination
+of the value of the weak phase ${\rm Arg}(V^*_{ub})=\gamma =
+{113^\circ}^{+25^\circ}_{-23^\circ}$.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 05:07:04 GMT""}]","2012-08-27"
+"hep-ex/9908040","Harry N. Nelson","CLEO Collaboration","Search for D0-D0bar Mixing","Leppho99 conference submission. All results are preliminary",,,"CLEO CONF 99-17","hep-ex",,"  We report on a search for D0-D0bar mixing made by a study of the `wrong-sign'
+process D0 -> K+pi-. The data come from 9.0 fb^-1 of integrated luminosity of
+e+e- collisions at sqrt{s} approximately 10 GeV produced by CESR and
+accumulated with the CLEO II.V detector. We measure the time-integrated rate of
+the `wrong-sign' process D0 -> K+pi-, relative to that of the Cabibbo-favored
+D0bar -> K+pi-, to be R_ws=(0.34+-0.07+-0.06)%. By a study of the rate as a
+function of the decay time of the D0, we measure the rate of direct, doubly
+Cabibbo suppressed decay D0 -> K+pi- relative to D0bar -> K+pi-, to be
+R_D=(0.50+0.11-0.12+-0.08)%. The amplitudes that describe D0-D0bar mixing, x'
+and y' are consistent with zero. The one-dimensional limits, at the 95% C.L.,
+that we determine are (1/2)x^'2<0.05%, and -5.9%<y'<0.3%. All results are
+preliminary.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 06:42:23 GMT""}]","2012-08-27"
+"hep-ex/9908041","Bruce J. King","Bruce J. King","Muon Colliders: New Prospects for Precision Physics and the High Energy
+  Frontier","17 pages, 2 figures","AIPConf.Proc.444:503-519,1998","10.1063/1.56610","BNL-66237","hep-ex",,"  An overview is given of muon collider technology and of the current status of
+the muon collider research program. The exciting potential of muon colliders
+for both neutrino physics and collider physics studies is then described and
+illustrated using self-consistent collider parameter sets at 0.1 TeV to 100 TeV
+center-of-mass energies.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 15:28:31 GMT""}]","2009-10-31"
+"hep-ph/9908295","Feng Tai-fu","Chao-hsi Chang, Tai-fu Feng","The minimum supersymmetric standard model without R-parity through
+  various lepton-number violations","68 pages, include 13 figure, corrected some typos",,,"AS-ITP-99-XX","hep-ph",,"  The minimum supersymmetric standard model (MSSM) without R-parity through
+various lepton-number violations is investigated systematically. All kinds of
+possible mixing in the model are formulated precisely. The remarkable issue
+that the lightest `Higgs' $H_1^0$ may be heavier than the weak-boson $Z$ at
+tree level is kept, as the special R-parity violation MSSM where only bilinear
+violation of the lepton numbers is allowed. It is also shown explicitly that
+there is a freedom $U(n+1)$ ($n$ is the number of the broken lepton-numbers) in
+re-defining the lepton and Higgs superfields. Feynman rules relevant to the
+R-parity violations are given precisely in $'$t Hooft-Feynman gauge. With
+further assumptions and concerning all available experimental constraints,
+spectrum for interest sectors is computed numerically.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 23:58:46 GMT""},{""version"":""v2"",""created"":""Sat, 9 Oct 1999 08:38:34 GMT""},{""version"":""v3"",""created"":""Wed, 19 Jan 2000 07:18:48 GMT""}]","2007-05-23"
+"hep-ph/9908296","Galit Eyal","Galit Eyal and Yosef Nir","Constraining Extensions of the Quark Sector with the CP Asymmetry in
+  $B\to \psi K_{S}$","12 pages, LaTeX, 3 figures","JHEP 9909:013,1999","10.1088/1126-6708/1999/09/013","WIS-99/28/AUG-DPP","hep-ph",,"  Models with extended quark sector affect the CP asymmetry in the $B\to \psi
+K_{S}$ decay, $a_{\psi K_{S}}$, in two ways: First, the top-mediated box
+diagram is not necessarily the only important contribution to $B-\bar{B}$
+mixing. Second, the $3\times 3$ CKM matrix is no longer unitary. We analyze the
+constraints that follow from the CDF measurement, $a_{\psi K_{S}}
+=0.79^{+0.41}_{-0.44}$, on the mixing parameters of extended quark sectors.
+Most noticeably, we find significant constraints on the phase of the relevant
+flavor changing $Z$ coupling in models with extra down quarks in vector-like
+representations. Further implications for the CP asymmetry in semileptonic $B$
+decays are discussed.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 11:14:59 GMT""}]","2010-02-03"
+"hep-ph/9908297","Jochum van der Bij","J. J. van der Bij","Large rescaling of the scalar condensate, towards a Higgs-gravity
+  connection ?","6 pages",,,"Freiburg-THEP 99/09","hep-ph",,"  In the Standard Model the Fermi constant is associated with the vacuum
+expectation value of the Higgs field $<\Phi>$, `the condensate', usually
+believed to be a nearly cut-off independent quantity. General arguments related
+to the `triviality' of $\lambda\Phi^4$ theory in 4 space-time dimensions
+suggest, however, a dramatic renormalization effect in the continuum theory.
+This effect is visible on the relatively large lattices (such as $32^4$)
+available today. The result is suggestive of a certain `Higgs-gravity
+connection', as discussed some years ago. The space-time structure is
+determined by symmetry breaking and the Planck scale is essentially a rescaling
+of the Fermi scale. The resulting picture may lead to quite substantial changes
+in the usual phenomenology associated with the Higgs particle.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 13:58:06 GMT""}]","2015-07-22"
+"hep-th/9908056","Daniela","Daniela Bigatti and Leonard Susskind","Magnetic fields, branes and noncommutative geometry","8 pages, laTeX, figures in .gif format. v2: numerical mistakes and
+  misprints corrected; references and acknowledgements added. v3: figures
+  included as .eps files","Phys.Rev.D62:066004,2000","10.1103/PhysRevD.62.066004","SU-ITP 99/39, KUL-TF 99/30","hep-th",,"  We construct a simple physical model of a particle moving on the infinite
+noncommutative 2-plane. The model consists of a pair of opposite charges moving
+in a strong magnetic field. In addition, the charges are connected by a spring.
+In the limit of large magnetic field, the charges are frozen into the lowest
+Landau level. Interaction of such particles include Moyal bracket phases
+characteristics of field theory on noncommutative space. The simple system
+arises in lightcone quantization of open strings attached to D-branes in a.s.
+tensor background. We use the model to work out the general form of lightcone
+vertices from string splitting. We then consider Feynman diagrams in
+uncompactified NC YM theories and find that for all planar diagrams the comm.
+and noncomm. theories are the same. This means large N theories are equivalent
+in the 't Hooft limit. Non planar diagrams convergence is improved.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 22:16:15 GMT""},{""version"":""v2"",""created"":""Wed, 11 Aug 1999 15:18:02 GMT""},{""version"":""v3"",""created"":""Mon, 6 Sep 1999 16:01:16 GMT""},{""version"":""v4"",""created"":""Tue, 7 Sep 1999 21:16:31 GMT""}]","2009-10-07"
+"hep-th/9908057","Valeri Dvoeglazov","Valeri V. Dvoeglazov (Escuela de Fisica, UAZ)","Again on the possible compositeness of the photon","ReVTeX file, 19pp., no figures","Phys.Scripta 64 (2001) 119-127","10.1238/Physica.Regular.064a00119","EFUAZ FT-98-58","hep-th",,"  We construct the transversal and longitudinal 4-vector potentials and
+strengths F^{\mu\nu} in the momentum representation on using the second-type
+4-spinors recently proposed by Ahluwalia. Questions of relevance of this kind
+of theories to the correct photon statistics are briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1999 22:46:02 GMT""}]","2009-10-31"
+"hep-th/9908058","MuLin Yan","Sze-Shiang Feng and Guang-Jiong Ni","Gaussian Effective Potential Analysis of Sinh(Sine)-Gordon Models by New
+  Regularization-Renormalization Scheme","16 pages, LATEX, no figures, to appear in Int. J. Mod. Phys. A","Int.J.Mod.Phys. A14 (1999) 4259-4274","10.1142/S0217751X99002001",,"hep-th",,"  Using the new regularization and renormalization scheme recently proposed by
+Yang and used by Ni et al, we analyse the sine-Gordon and sinh-Gordon models
+within the framework of Gaussian effective potential in D+1 dimensions. Our
+analysis suffers no divergence and so does not suffer from the manipulational
+obscurities in the conventional analysis of divergent integrals. Our main
+conclusions agree exactly with those of Ingermanson for D=1,2 but disagree for
+D=3: the D=3 sinh(sine)-Gordon model is non-trivial. Furthermore, our analysis
+shows that for D=1,2, the running coupling constant (RCC)has poles for
+sine-Gordon model($\gamma^2<0$) and the sinh-Gordon model ($\gamma^2>0$) has a
+possible critical point $\gamma^2_c$ while for D=3, the RCC has poles for both
+$\gamma^2>0$ and $\gamma^2<0$.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 11:51:32 GMT""}]","2016-09-06"
+"hep-th/9908059","MuLin Yan","Sze-Shiang Feng, Zhi Yao, De-Pin Zhao and De-Si Zang","(2+1)-Dimensional Fermion Determinant in a Constant Background Field at
+  Finite Temperature and Density","11 pages, LATEX. no figures","Int.J.Theor.Phys.40:1581-1593,2001","10.1023/A:1011689904643",,"hep-th",,"  We evaluate exactly both the non-relativistic and relativistic fermion
+determinant in 2+1 dimensions in a constant background field at finite
+temperature. The effect of finite chemical potential is also considered. In
+both cases, the systems are decoupled into an infinite number of 1+1 fermions
+by Fourier transformation in the $\beta$-variable. The total effective actions
+demonstrate non-extensiveness in the $\beta$ dimension.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 11:52:23 GMT""}]","2014-11-18"
+"nucl-th/9908029","Andrei Ivanov","A.N. Ivanov, H. Oberhummer, N.I. Troitskaya, M. Faber","The relativistic field theory model of the deuteron from low-energy QCD","24 pages, no figures, Latex, the status of nucl-th/9811012 and the
+  enhancement of the astrophysical factor for the solar proton burning obtained
+  in nucl-th/9811012 are changed, the derivation of the effective Lagrangian of
+  the deuteron field coupled to an external electromagnetic field describing
+  the magnetic dipole and electric quadrupole moments of the deuteron is added",,,,"nucl-th",,"  The relativistic field theory model of the deuteron (RFMD) is reformulated
+from the first principles of QCD. The deuteron appears as a neutron-proton
+collective excitation, i.e. a Cooper np-pair, induced by a phenomenological
+local four-nucleon interaction in the nuclear phase of QCD. The RFMD describes
+the deuteron coupled to hadrons through one-nucleon loop exchanges providing a
+minimal transfer of nucleon flavours from initial to final nuclear states and
+accounting for contributions of nucleon-loop anomalies which are completely
+determined by one-nucleon loop diagrams. The dominance of contributions of
+nucleon-loop anomalies to effective Lagrangians of low-energy nuclear
+interactions is justified in the large N expansion, where N is the number of
+quark colours.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 07:26:24 GMT""},{""version"":""v2"",""created"":""Sun, 17 Oct 1999 20:06:05 GMT""},{""version"":""v3"",""created"":""Fri, 5 Nov 1999 13:42:52 GMT""},{""version"":""v4"",""created"":""Sat, 6 Nov 1999 20:40:15 GMT""}]","2007-05-23"
+"physics/9908015","Doug Snyder","D. M. Snyder","Dark Matter","5 pages; abstract and conclusion edited",,,"05-97","physics.gen-ph",,"  Gravitational force manifested in its affect on rotational velocity is what
+indicates the presence of dark matter in individual galaxies. Newtonian
+mechanics is generally used to derive the relationship between rotational
+velocity and gravitational force. In Newtonian mechanics, mass is associated
+with gravitation. At the same time, in such galaxies there appears to be
+insufficient gravitational mass to account for the size of the gravitational
+force deduced from rotational velocity. The general theory of relativity
+encompasses Newtonian mechanics and also indicates that reference frames
+provide the means to develop spacetime curvature that expresses the
+gravitational field. It is reasonable to conclude that because of the more
+fundamental character of the general theory of relativity, the reference frames
+that are a key element of the general theory form the basis for understanding
+gravitation, and not mass.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1999 05:11:52 GMT""},{""version"":""v2"",""created"":""Wed, 18 Aug 1999 05:14:47 GMT""}]","2007-05-23"

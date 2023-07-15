@@ -1,0 +1,477 @@
+"adap-org/9907002","James P. Crutchfield","Erik van Nimwegen and James P. Crutchfield","Metastable Evolutionary Dynamics: Crossing Fitness Barriers or Escaping
+  via Neutral Paths?","32 pages, 7 figures, 1 table;
+  http://www.santafe.edu/projects/evca/med.ps.gz",,,"Santa Fe Institute Working Paper 99-07-041","adap-org nlin.AO q-bio.PE",,"  We analytically study the dynamics of evolving populations that exhibit
+metastability on the level of phenotype or fitness. In constant selective
+environments, such metastable behavior is caused by two qualitatively different
+mechanisms. One the one hand, populations may become pinned at a local fitness
+optimum, being separated from higher-fitness genotypes by a {\em fitness
+barrier} of low-fitness genotypes. On the other hand, the population may only
+be metastable on the level of phenotype or fitness while, at the same time,
+diffusing over {\em neutral networks} of selectively neutral genotypes.
+Metastability occurs in this case because the population is separated from
+higher-fitness genotypes by an {\em entropy barrier}: The population must
+explore large portions of these neutral networks before it discovers a rare
+connection to fitter phenotypes.
+  We derive analytical expressions for the barrier crossing times in both the
+fitness barrier and entropy barrier regime. In contrast with ``landscape''
+evolutionary models, we show that the waiting times to reach higher fitness
+depend strongly on the width of a fitness barrier and much less on its height.
+The analysis further shows that crossing entropy barriers is faster by orders
+of magnitude than fitness barrier crossing. Thus, when populations are trapped
+in a metastable phenotypic state, they are most likely to escape by crossing an
+entropy barrier, along a neutral path in genotype space. If no such escape
+route along a neutral path exists, a population is most likely to cross a
+fitness barrier where the barrier is {\em narrowest}, rather than where the
+barrier is shallowest.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 21:33:23 GMT""}]","2007-05-23"
+"astro-ph/9907025","Daniela Calzetti","Daniela Calzetti (Space Telescope Science Institute)","Properties of High Redshift Galaxies","Latex, 7 encapsulated postscript Figures, uses moriond.sty special
+  macro. Invited talk at the XXXIVrd Recontres de Moriond on Building the
+  Galaxies: from the Primordial Universe to the Present, held in Les Arcs,
+  France, March 13-20, 1999. Proceedings Editors: F. Hammer, T.X. Thuan, V.
+  Cayatte, B. Guiderdoni and J.T. Thanh Van, Editions Frontieres
+  (Gif-sur-Yvette)",,,,"astro-ph",,"  I review the characteristics of high redshift galaxies, with particular
+attention to the effects of dust obscuration on the observed light. Galaxies at
+redshift z~1 and at z>2 are discussed separately, as the accessible information
+for each redshift range are different. In the z<=1-2 redshift region, data on
+the H-alpha and mid/far-IR luminosity of the galaxies are becoming increasingly
+available, effectively complementing the restframe UV data; they offer a better
+handle on the amount of dust obscuration present in the galaxies, although some
+ambiguity remains as to the distribution of the dust within the system and the
+opacity correction factor this implies. At higher redshifts, most of the
+available data cover the far-UV region only, representing a challenge for a
+careful assessment of the effects of dust in galaxies. Finally, I discuss the
+implications of the dust corrections to the star formation rate density of the
+Universe as a function of redshift.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:21:54 GMT""}]","2007-05-23"
+"astro-ph/9907037","Adam G. Riess","Adam G. Riess, Alexei V. Filippenko, Weidong Li, Richard R. Treffers,
+  Brian P. Schmidt, Yulei Qiu, Jingyao Hu, Mark Armstrong, Chuck Faranda, Eric
+  Thouvenot","The Risetime of Nearby Type Ia Supernovae","Submitted to the Astronomical Journal, 24 pages, 7 figures","Astron.J. 118 (1999) 2675-2688","10.1086/301143",,"astro-ph",,"  We present calibrated photometric measurements of the earliest detections of
+nearby type Ia supernovae (SNe Ia). The set of ~30 new, unfiltered CCD
+observations delineate the early rise behavior of SNe Ia > 18 to 10 days before
+maximum. Using simple empirical models, we demonstrate the strong correlation
+between the risetime (i.e., the time between explosion and maximum), the
+post-rise light-curve shape, and the peak luminosity. Using a variety of
+light-curve shape methods, we find the risetime to B maximum for a SN Ia with
+Delta m15(B)=1.1 mag and peak M_V=-19.45 mag to be 19.5+/-0.2 days. We find
+that the peak brightness of SNe Ia is correlated with their risetime; SNe Ia
+which are 0.10 mag brighter at peak in the B-band require 0.80+/-0.05 days
+longer to reach maximum light.
+  We determine the effects of several possible sources of systematic errors,
+but none of these significantly impacts the inferred risetime. Constraints on
+SN Ia progenitor systems and explosion models are derived from a comparison
+between the observed and theoretical predictions of the risetime.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:11:23 GMT""}]","2019-08-17"
+"astro-ph/9907038","Adam G. Riess","Adam G. Riess, Alexei V. Filippenko, Weidong Li, Brian P. Schmidt","A Preliminary Indication of Evolution of Type Ia Supernovae from their
+  Risetimes","Accepted by the Astronomical Journal, 11 pages, 5 figures","Astron.J. 118 (1999) 2668-2674","10.1086/301144",,"astro-ph",,"  We have compared the risetime for samples of nearby and high-redshift type Ia
+supernovae (SNe Ia).
+  The fiducial risetime of the nearby SNe Ia is 2.5+/-0.4 days longer than the
+proemial risetime determined by Goldhaber (1998a,b) for high-redshift SNe
+  Ia from the Supernova Cosmology Project.
+  The statistical likelihood that the two samples have different fiducial
+risetimes is high (5.8 sigma) and indicates possible evolution between the
+samples of SNe Ia. We consider the likely effects of several sources of
+systematic error, but none of these resolves the difference in the risetimes.
+  Currently, we cannot directly determine the impact of the apparent evolution
+on previous determinations of cosmological parameters.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:16:50 GMT""},{""version"":""v2"",""created"":""Tue, 21 Sep 1999 21:49:06 GMT""}]","2019-08-17"
+"astro-ph/9907039","Anthony N. Aguirre","Anthony Aguirre (Harvard), Zoltan Haiman (NASA/Fermilab)","Cosmological Constant or Intergalactic Dust? Constraints from the Cosmic
+  Far Infrared Background","Minor revision; accepted by The Astrophysical Journal; 8 pages + 4
+  figures","Astrophys.J. 532 (2000) 28","10.1086/308557","Fermilab Preprint No. Pub-99/195-A","astro-ph",,"  Recent observations of Type Ia SNe at redshifts 0 < z <1 reveal a progressive
+dimming which has been interpreted as evidence for a cosmological constant of
+Omega_Lambda ~ 0.7. An alternative explanation of the SN results is an open
+universe with Omega_Lambda=0 and the presence of > 0.1 micron dust grains with
+a mass density of Omega_dust ~ (few) * 10^{-5} in the intergalactic (IG)
+medium. The same dust that dims the SNe absorbs the cosmic UV/optical
+background radiation around ~ 1 micron, and re-emits it at far infrared (FIR)
+wavelengths. Here we compare the FIR emission from IG dust with observations of
+the cosmic microwave (CMB) and cosmic far infrared backgrounds (FIRB) by the
+DIRBE/FIRAS instruments. We find that the emission would not lead to measurable
+distortion to the CMB, but would represent a substantial fraction (> 75%) of
+the measured value of the FIRB in the 300-1000 micron range. This contribution
+would be marginally consistent with the present unresolved fraction of the
+observed FIRB in an open universe. However, we find that IG dust probably could
+not reconcile the standard Omega=1 CDM model with the SN observations, even if
+the necessary quantity of dust existed. Future observations able to reliably
+resolve the FIRB to a flux limit of ~0.5 mJy, along with a more precise measure
+of the coarse-grained FIRB, will provide a definitive test of the IG dust
+hypothesis in all cosmologies.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 00:04:37 GMT""},{""version"":""v2"",""created"":""Mon, 1 Nov 1999 16:22:15 GMT""}]","2009-10-31"
+"cond-mat/9907040","Phil Nelson","Philip Nelson (University of Pennsylvania)","Transport of Torsional Stress in DNA","Final published version. Latex using epsfig; pdf available at
+  http://www.physics.upenn.edu/~nelson/Mss/torque.pdf",,"10.1073/pnas.96.25.14342",,"cond-mat.soft q-bio.BM",,"  It is well known that transcription can induce torsional stress in DNA,
+affecting the activity of nearby genes or even inducing structural transitions
+in the DNA duplex. It has long been assumed that the generation of significant
+torsional stress requires the DNA to be anchored, forming a limited topological
+domain, since otherwise it would spin almost freely about its axis. Previous
+estimates of the rotational drag have, however, neglected the role of small
+natural bends in the helix backbone. We show how these bends can increase the
+drag several thousandfold relative to prior estimates, allowing significant
+torsional stress even in linear, unanchored DNA. The model helps explain
+several puzzling experimental results on structural transitions induced by
+transcription of DNA.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 20:07:48 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1999 21:59:14 GMT""}]","2009-10-31"
+"cond-mat/9907041","Kanzieper Eugene","E. Kanzieper and V. E. Kravtsov","Topological universality of level dynamics in quasi-one-dimensional
+  disordered conductors","15 pages (revtex), 3 figures","Physical Review B 60, 16774 (1999)","10.1103/PhysRevB.60.16774",,"cond-mat.mes-hall",,"  Nonperturbative, in inverse Thouless conductance 1/g, corrections to
+distributions of level velocities and level curvatures in quasi-one-dimensional
+disordered conductors with a topology of a ring subject to a constant vector
+potential are studied within the framework of the instanton approximation of
+nonlinear sigma-model. It is demonstrated that a global character of the
+perturbation reveals the universal features of the level dynamics. The
+universality shows up in the form of weak topological oscillations of the
+magnitude ~ exp(-g) covering the main bodies of the densities of level
+velocities and level curvatures. The period of discovered universal
+oscillations does not depend on microscopic parameters of conductor, and is
+only determined by the global symmetries of the Hamiltonian before and after
+the perturbation was applied. We predict the period of topological oscillations
+to be 4/(pi)^2 for the distribution function of level curvatures in orthogonal
+symmetry class, and 3^(1/2)/(pi) for the distribution of level velocities in
+unitary and symplectic symmetry classes.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 16:00:43 GMT""}]","2009-10-31"
+"cond-mat/9907042","Wolodymyr Skrypnik","W.Skrypnik","Thermodynamic Limit in Chern-Simons System of Particles with MB
+  Statistics","Latex, 7 pages, no figures",,,,"cond-mat.stat-mech cond-mat.supr-con",,"  The reduced density matrices (RDMs) are calculated in the thermodynamic limit
+for the Chern-Simons non-relativistic particle system and Maxwell-Boltzmann
+(MB) statistics. It is established that they are zero outside of a diagonal and
+well-behaved after a renormalization, depending on an arbitrary real number, if
+the condition of neutrality holds.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 16:12:43 GMT""}]","2016-08-31"
+"cond-mat/9907043","Andreas Suter","A. Suter, M. Mali, J. Roos, and D. Brinkmann","Charge degree of freedom and single-spin fluid model in YBa_2Cu_4O_8","4 pages, 3 figures, REVTEX",,"10.1103/PhysRevLett.84.4938",,"cond-mat.supr-con",,"  We present a 17O nuclear magnetic resonance study in the stoichiometric
+superconductor YBa_2Cu_4O_8. A double irradiation method enables us to show
+that, below around 180 K, the spin-lattice relaxation rate of plane oxygen is
+not only driven by magnetic, but also significantly by quadrupolar
+fluctuations, i.e. low-frequency charge fluctuations. In the superconducting
+state, on lowering the temperature, the quadrupolar relaxation diminishes
+faster than the magnetic one. These findings show that, with the opening of the
+pseudo spin gap, a charge degree of freedom of mainly oxygen character is
+present in the electronic low-energy excitation spectrum.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 18:07:28 GMT""},{""version"":""v2"",""created"":""Wed, 29 Sep 1999 15:28:44 GMT""}]","2009-10-31"
+"cond-mat/9907044","Michael Reyzer","M. Reizer and A. Sergeev","Weak localization effect on thermomagnetic phenomena","20 pages 2 figures",,"10.1103/PhysRevB.61.7340",,"cond-mat.dis-nn",,"  The quantum transport equation (QTE) is extended to study weak localization
+(WL) effects on galvanomagnetic and thermomagnetic phenomena. QTE has many
+advantages over the linear response method (LRM): (i) particle-hole asymmetry
+which is necessary for the Hall effect is taken into account by the
+nonequilibrium distribution function, while LRM requires expansion near the
+Fermi surface, (ii) when calculating response to the temperature gradient, the
+problem of WL correction to the heat current operator is avoided, (iii)
+magnetic field is directly introduced to QTE, while the LRM deals with the
+vector potential and and special attention should be paid to maintain gauge
+invariance, e.g. when calculating the Nernst effect the heat current operator
+should be modified to include the external magnetic field. We reproduce in a
+very compact form known results for the conductivity, the Hall and the
+thermoelectric effects and then we study our main problem, WL correction to the
+Nernst coefficient (transverse thermopower).
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 18:43:59 GMT""}]","2009-10-31"
+"cond-mat/9907045","Marion Linn","Marion Linn and Alexander L. Fetter","Small-amplitude normal modes of a vortex in a trapped Bose-Einstein
+  condensate","4 pages, no figures, Revtex",,"10.1103/PhysRevA.61.063603",,"cond-mat.stat-mech",,"  We consider a cylindrically symmetric trap containing a small Bose-Einstein
+condensate with a singly quantized vortex on the axis of symmetry. A
+time-dependent variational Lagrangian analysis yields the small-amplitude
+dynamics of the vortex and the condensate, directly determining the equations
+of motion of the coupled normal modes. As found previously from the Bogoliubov
+equations, there are two rigid dipole modes and one anomalous mode with a
+negative frequency when seen in the laboratory frame.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:07:50 GMT""}]","2009-10-31"
+"cond-mat/9907046","Michael Reyzer","M. Reizer","Electron-electron relaxation in two-dimensional impure superconductors","24 pages 1 figures",,"10.1103/PhysRevB.61.7108",,"cond-mat.supr-con",,"  The electron-electron relaxation in impure two-dimensional superconductors is
+studied. All channels of the electron-electron interaction classified in the
+Nambu representation are taken into account. It is shown that the recombination
+relaxation rate originates from quasipartical processes associated with
+fluctuations of the electron density and the phase of the order parameter. At
+low temperatures the recombination relaxation rate has a double exponential
+temperature dependence. The scattering relaxation rate at low temperatures has
+a power law temperature dependence due to contributions from gapless collective
+excitations, the phase modes. Two-layer superconductor-normal metal system is
+also considered. It is shown that the recombination relaxation rate in the
+superconducting layer has a single exponential factor at low temperatures in
+comparison with a one layer superconducting system. This increase in the
+recombination relaxation rate originates from the inter-layer Coulomb
+interaction and may be used in constructing of superconducting radiation
+detectors.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:10:45 GMT""}]","2009-10-31"
+"cond-mat/9907047","Michael Reyzer","M. Reizer","Zero-bias anomaly in one-dimensional tunneling contacts","12 pages",,,,"cond-mat.mes-hall",,"  We study the Coulomb interaction effects on the tunneling conductance of a
+contact constructed of two parallel quantum wires. The following contacts are
+considered: two clean identical quantum wires, two disordered identical quantum
+wires, and asymmetric contact of one clean and another disordered quantum
+wires. We show that the low-voltage anomaly of the tunneling conductance is
+less singular than the low-energy anomaly of the one-particle density of
+states.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:38:18 GMT""}]","2007-05-23"
+"cond-mat/9907048","Michael Reyzer","M. Reizer","Screening effects in the electron-optical phonon interaction","7 pages",,"10.1103/PhysRevB.61.40",,"cond-mat.str-el",,"  We show that recently reported unusual hardening of optical phonons
+renormalized by the electron-phonon interaction is due to the neglect of
+screening effects. When the electron-ion interaction is properly screened
+optical phonons soften in three dimension. It is important that for
+short-wavelength optical phonons screening is static while for long-wavelength
+optical phonons screening is dynamic. In two-dimensional and one-dimensional
+cases due to crossing of the nonperturbed optical mode with gapless plasmons
+the spectrum of renormalized optical phonon-plasmon mode shows split momentum
+dependence.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:47:46 GMT""}]","2009-10-31"
+"cond-mat/9907049","Roland Schiller","R. Schiller and W. Nolting","The temperature dependent bandstructure of a ferromagnetic semiconductor
+  film","11 pages, 9 figures","Phys. Rev B 60, 462 (1999)","10.1103/PhysRevB.60.462",,"cond-mat.str-el",,"  The electronic quasiparticle spectrum of a ferromagnetic film is investigated
+within the framework of the s-f model. Starting from the exact solvable case of
+a single electron in an otherwise empty conduction band being exchange coupled
+to a ferromagnetically saturated localized spin system we extend the theory to
+finite temperatures. Our approach is a moment-conserving decoupling procedure
+for suitable defined Green functions. The theory for finite temperatures
+evolves continuously from the exact limiting case. The restriction to zero
+conduction band occupation may be regarded as a proper model description for
+ferromagnetic semiconductors like EuO and EuS. Evaluating the theory for a
+simple cubic film cut parallel to the (100) crystal plane, we find some marked
+correlation effects which depend on the spin of the test electron, on the
+exchange coupling, and on the temperature of the local-moment system.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 23:46:19 GMT""}]","2009-10-31"
+"cond-mat/9907050","Seung-Pyo Hong","Seung-Pyo Hong, Kwangyl Park, and Sung-Ho Suck Salk","Effects of nonmagnetic impurities on optical conductivity in strongly
+  correlated systems","RevTeX, 11pages, 4 figures",,"10.1103/PhysRevB.60.15504",,"cond-mat.str-el",,"  Effects of nonmagnetic impurities on optical conductivity in the systems of
+antiferromagnetically correlated electrons are examined based on the Lanczos
+exact diagonalization scheme. As a result of resonant scattering a
+low-frequency peak in the optical conductivity is predicted to occur in the
+presence of the nonmagnetic impurities, which is consistent with the observed
+normal-state optical conductivity of ${\rm YBa_2}({\rm Cu}_{1-x}{\rm
+Zn}_x)_3{\rm O}_{7-\delta}$. In addition, a relatively high and broad peak is
+found to occur at a high frequency region as a consequence of the Heisenberg
+interaction between electrons, in agreement with observation in the peak
+position.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 05:11:36 GMT""}]","2009-10-31"
+"cond-mat/9907051","Alexander Lavrov","A. N. Lavrov, Yoichi Ando, Kouji Segawa and J. Takeya (CRIEPI, Japan)","Magnetoresistance in Heavily Underdoped YBa_2Cu_3O_{6+x}:
+  Antiferromagnetic Correlations and Normal-State Transport","4 pages, 5 figures, accepted for publication in Phys.Rev.Lett","Phys. Rev. Lett. 83, 1419 (1999).","10.1103/PhysRevLett.83.1419",,"cond-mat.supr-con cond-mat.str-el",,"  We report on a contrasting behavior of the in-plane and out-of-plane
+magnetoresistance (MR) in heavily underdoped antiferromagnetic (AF)
+YBa_2Cu_3O_{6+x} (x<0.37). The out-of-plane MR (I//c) is positive over most of
+the temperature range and shows a sharp increase, by about two orders of
+magnitude, upon cooling through the Neel temperature T_N. A contribution
+associated with the AF correlations is found to dominate the out-of-plane MR
+behavior for H//c from far above T_N, pointing to the key role of spin
+fluctuations in the out-of-plane transport. In contrast, the transverse
+in-plane MR (I//a(b);H//c) appears to be small and smooth through T_N, implying
+that the development of the AF order has little effect on the in-plane
+resistivity.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 09:58:01 GMT""}]","2009-10-31"
+"cs/9907001","David Eppstein","David Eppstein","Setting Parameters by Example","13 pages, 3 figures. To be presented at 40th IEEE Symp. Foundations
+  of Computer Science (FOCS '99)","SIAM J. Computing 32(3):643-653, 2003","10.1137/S0097539700370084",,"cs.DS cs.CG",,"  We introduce a class of ""inverse parametric optimization"" problems, in which
+one is given both a parametric optimization problem and a desired optimal
+solution; the task is to determine parameter values that lead to the given
+solution. We describe algorithms for solving such problems for minimum spanning
+trees, shortest paths, and other ""optimal subgraph"" problems, and discuss
+applications in multicast routing, vehicle path planning, resource allocation,
+and board game programming.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 21:09:55 GMT""}]","2010-01-21"
+"cs/9907002","David Eppstein","Xian-ping Ge, David Eppstein, Padhraic Smyth","The Distribution of Cycle Lengths in Graphical Models for Iterative
+  Decoding","23 pages, 11 figures","IEEE Trans. Information Theory 47(6):2549-2553, 2001","10.1109/18.945266",,"cs.DM",,"  This paper analyzes the distribution of cycle lengths in turbo decoding and
+low-density parity check (LDPC) graphs. The properties of such cycles are of
+significant interest in the context of iterative decoding algorithms which are
+based on belief propagation or message passing. We estimate the probability
+that there exist no simple cycles of length less than or equal to k at a
+randomly chosen node in a turbo decoding graph using a combination of counting
+arguments and independence assumptions. For large block lengths n, this
+probability is approximately e^{-{2^{k-1}-4}/n}, k>=4. Simulation results
+validate the accuracy of the various approximations. For example, for turbo
+codes with a block length of 64000, a randomly chosen node has a less than 1%
+chance of being on a cycle of length less than or equal to 10, but has a
+greater than 99.9% chance of being on a cycle of length less than or equal to
+20. The effect of the ""S-random"" permutation is also analyzed and it is shown
+that while it eliminates short cycles of length k<8, it does not significantly
+affect the overall distribution of cycle lengths. Similar analyses and
+simulations are also presented for graphs for LDPC codes. The paper concludes
+by commenting briefly on how these results may provide insight into the
+practical success of iterative decoding methods.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 23:37:54 GMT""}]","2010-01-21"
+"gr-qc/9907005","Pablo Laguna","Pablo Laguna","A Linear-Nonlinear Formulation of Einstein Equations for the Two-Body
+  Problem in General Relativity","7 pages, no figures","Phys.Rev. D60 (1999) 084012","10.1103/PhysRevD.60.084012",,"gr-qc",,"  A formulation of Einstein equations is presented that could yield advantages
+in the study of collisions of binary compact objects during regimes between
+linear-nonlinear transitions. The key idea behind this formulation is a
+separation of the dynamical variables into i) a fixed conformal 3-geometry, ii)
+a conformal factor possessing nonlinear dynamics and iii) transverse-traceless
+perturbations of the conformal 3-geometry.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 18:12:44 GMT""}]","2009-10-31"
+"gr-qc/9907006","Eric Poisson","Karl Martel and Eric Poisson","Gravitational waves from eccentric compact binaries: Reduction in
+  signal-to-noise ratio due to nonoptimal signal processing","14 pages, 4 figures, ReVTeX; minor changes made after referee's
+  comments","Phys.Rev. D60 (1999) 124008","10.1103/PhysRevD.60.124008",,"gr-qc",,"  Inspiraling compact binaries have been identified as one of the most
+promising sources of gravitational waves for interferometric detectors. Most of
+these binaries are expected to have circularized by the time their
+gravitational waves enter the instrument's frequency band. However, the
+possibility that some of the binaries might still possess a significant
+eccentricity is not excluded. We imagine a situation in which eccentric signals
+are received by the detector but not explicitly searched for in the data
+analysis, which uses exclusively circular waveforms as matched filters. We
+ascertain the likelihood that these filters, though not optimal, will
+nevertheless be successful at capturing the eccentric signals. We do this by
+computing the loss in signal-to-noise ratio incurred when searching for
+eccentric signals with those nonoptimal filters. We show that for a binary
+system of a given total mass, this loss increases with increasing eccentricity.
+We show also that for a given eccentricity, the loss decreases as the total
+mass is increased.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 19:06:12 GMT""},{""version"":""v2"",""created"":""Mon, 30 Aug 1999 15:11:46 GMT""}]","2009-10-31"
+"gr-qc/9907007","Ken D. Olum","Ken D. Olum","The Ori-Soen time machine","5 pages, RevTeX, 7 figures with epsf, miscellaneous clarifications in
+  v2, minor updates to correspond to version to appear in PRD","Phys.Rev. D61 (2000) 124022","10.1103/PhysRevD.61.124022",,"gr-qc",,"  Ori and Soen have proposed a spacetime which has closed causal curves on the
+boundary of a region of normal causality, all within a region where the weak
+energy condition (positive energy density) is satisfied. I analyze the causal
+structure of this spacetime in some simplified models, show that the Cauchy
+horizon is compactly generated, and argue that any attempt to build such a
+spacetime with normal matter might lead to singular behavior where the
+causality violation would otherwise take place.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 21:14:25 GMT""},{""version"":""v2"",""created"":""Mon, 20 Dec 1999 21:26:51 GMT""},{""version"":""v3"",""created"":""Tue, 18 Apr 2000 21:41:05 GMT""}]","2009-10-31"
+"gr-qc/9907008","Shin'ichi Nojiri","S. Nojiri, O. Obregon, S.D. Odintsov","Unified approach to study quantum properties of primordial black holes,
+  wormholes and of quantum cosmology","LaTeX file and two eps files, to appear in MPLA, Brief Reviews","Mod.Phys.Lett.A14:1309-1316,1999","10.1142/S0217732399001401",,"gr-qc",,"  We review the anomaly induced effective action for dilaton coupled spinors
+and scalars in large N and s-wave approximation. It may be applied to study the
+following fundamental problems: construction of quantum corrected black holes
+(BHs), inducing of primordial wormholes in the early Universe (this effect is
+confirmed) and the solution of initial singularity problem. The recently
+discovered anti-evaporation of multiple horizon BHs is discussed. The existance
+of such primordial BHs may be interpreted as SUSY manifestation. Quantum
+corrections to BHs thermodynamics maybe also discussed within such scheme.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 01:57:00 GMT""}]","2016-08-31"
+"gr-qc/9907009","Akihiro Ishibashi","Akihiro Ishibashi and Akio Hosoya","Who's Afraid of Naked Singularities?","25 pages, 3 figures, Accepted for publication in Phys.Rev.D","Phys.Rev. D60 (1999) 104028","10.1103/PhysRevD.60.104028","YITP-99-6, TIT/HEP-414/COSMO-91","gr-qc",,"  To probe naked spacetime singularities with waves rather than with particles
+we study the well-posedness of initial value problems for test scalar fields
+with finite energy so that the natural function space of initial data is the
+Sobolev space. In the case of static and conformally static spacetimes we
+examine the essential self-adjointness of the time translation operator in the
+wave equation defined in the Hilbert space. For some spacetimes the classical
+singularity becomes regular if probed with waves while stronger classical
+singularities remain singular. If the spacetime is regular when probed with
+waves we may say that the spacetime is `globally hyperbolic.'
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 08:55:18 GMT""}]","2009-10-31"
+"hep-ex/9907002","Eckhard Elsen","H1 Collaboration: C.Adloff, et al","A Search for Leptoquark Bosons and Lepton Flavor Violation in
+  Positron-Proton Collisions at HERA","44 pages, 20 figures, 2 tables, submitted to European Physical
+  Journal C Corrections for constraints for lepton flavour violating
+  leptoquarks involving tau leptons (figs 19 and 20)","Eur.Phys.J.C11:447-471,1999; Erratum-ibid.C14:553-554,2000","10.1007/s100520050646","DESY 99-081","hep-ex",,"  A search for new bosons possessing couplings to lepton-quark pairs is
+performed in the H1 experiment at HERA using 1994 to 1997 data corresponding to
+an integrated luminosity of 37pb^-1. First generation leptoquarks (LQs) are
+searched in very high Q^2 neutral (NC) and charged (CC) current data samples.
+The measurements are compared to Standard Model (SM) expectations from
+deep-inelastic scattering (DIS). A deviation in the Q^2 spectrum previously
+observed in the 1994 to 1996 dataset at Q^2 \gsim 15000GeV^2 remains, though
+with less significance. This deviation corresponded to a clustering in the
+invariant mass spectrum at M \simeq 200 GeV which is not observed with the 1997
+dataset alone. The NC DIS data is used to constrain the Yukawa couplings lambda
+of first generation scalar and vector LQs in the Buchmueller-Rueckl-Wyler
+effective model. Scalar LQs are excluded for masses up to 275GeV for a coupling
+of electromagnetic strength, lambda=0.3. A sensitivity to coupling values \lsim
+1 is established for masses up to 400GeV for any LQ type. The NC and CC DIS
+data are combined to constrain lambda for arbitrary branching ratios of the LQ
+into eq in a generic model. For a decay branching ratio into e^+ u pairs as
+small as 10%, LQ masses up to 260 GeV are ruled out for lambda=0.3. LQs
+possessing couplings to mixed fermion generations, which could lead to signals
+of lepton flavor violation (LFV), are searched in events with a high transverse
+momentum mu or tau. No mu+X or tau+X event candidate is found that is
+compatible with LQ kinematics. Constraints are set on the Yukawa coupling
+involving the mu and tau lepton in a yet unexplored mass range.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 17:40:36 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 2000 18:04:35 GMT""}]","2008-11-26"
+"hep-lat/9907001","Pierre van Baal","M.N. Chernodub, Thomas C. Kraan and Pierre van Baal","Exact fermion zero-mode for the new calorons","LATTICE99(confine) - 3p, 1 fig in 3 parts","Nucl.Phys.Proc.Suppl. 83 (2000) 556-558","10.1016/S0920-5632(00)91737-7","ITEP-TH-27/99; INLO-PUB-13/99","hep-lat hep-th",,"  We construct the fermion zero-mode for arbitrary charge one SU(n) calorons
+with non-trivial holonomy, both in the finite temperature context
+(anti-periodic boundary conditions in time) and in the Kaluza-Klein
+compactification context (periodic boundary conditions in time). The zero-mode
+is localised on one of the constituent monopoles and we discuss a relation to
+the Callias index theorem.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 08:02:25 GMT""}]","2015-06-25"
+"hep-ph/9907217","Alec J. Schramm","Alec J. Schramm","Glueball Production in Peripheral Heavy-Ion Collisions","15 pages, 6 figures","J.Phys.G25:1965-1978,1999","10.1088/0954-3899/25/9/314",,"hep-ph",,"  The method of equivalent quanta is applied both to photon-photon and, by
+analogy, to double pomeron exchange in heavy-ion collisions. This
+Weizs\""acker-Williams approach is used to calculate production cross sections
+for the glueball candidate $f_J(1710)$ meson via photon-photon and
+pomeron-pomeron fusion in peripheral heavy-ion collisions at both RHIC and LHC
+energies. The impact-parameter dependence for total and elastic cross sections
+are presented, and are compared to results for proton-proton collisions.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 21:42:47 GMT""}]","2008-11-26"
+"hep-ph/9907219","Michele Maltoni","M. Maltoni and M. I. Vysotsky","Diminishing ""charginos nearly degenerate with the lightest neutralino""
+  slit using precision data","6 pages, latex, 2 figures included; published on PLB. Bounds on
+  chargino mass are improved; two references are added","Phys.Lett.B463:230-233,1999","10.1016/S0370-2693(99)00976-4","INFN-FE-11-99","hep-ph",,"  Though LEP II direct searches still cannot exclude a chargino nearly
+degenerate with the lightest neutralino if their mass is only slightly above
+half of the Z boson mass, it can be excluded indirectly analyzing precision
+data. In this particular limit simple analytical formulas for oblique
+electroweak radiative corrections are presented.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 08:40:35 GMT""},{""version"":""v2"",""created"":""Thu, 21 Oct 1999 16:57:22 GMT""}]","2008-11-26"
+"hep-ph/9907220","Emilio Torrente Lujan","E. Torrente-Lujan","The decay $b\to s\gamma$ and the charged Higgs boson mass without
+  R-Parity","Based on work made in collaboration with M. A. D\'\i az and J. W. F.
+  Valle and presented at: ``TMR Network on Physics beyond the SM''. Trieste,
+  February 1999.}",,,"IFIC-99-233,FTUV-99-23","hep-ph",,"  The experimental measurement of $B(b \to s\gamma)$ imposes important
+constraints on the charged Higgs boson mass in the MSSM. We show that by adding
+bilinear R--Parity violation (BRpV) in the tau sector, these bounds are
+relaxed. The bound on $m_{H^{\pm}}$ in the MSSM--BRpV model is $\gsim 200-250$
+GeV for the the heavy squark limit. For lighter squarks, light charged Higgs
+bosons can be reconciled with $B(b \to s\gamma)$ only if there is also a light
+chargino. In the BRpV model if we impose $m_{\chi^{\pm}_1}>90$ GeV $m_{H^{\pm}}
+\gsim 75$ GeV, around 30 GeV down from the MSSM. In this case the charged Higgs
+bosons would be observable at LEP II. The relaxation of the bounds is due
+mainly to the fact that charged Higgs bosons mix with staus and they contribute
+importantly to $B(b \to s\gamma)$.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 14:52:16 GMT""}]","2007-05-23"
+"hep-th/9907010","Philippe Droz-Vincent","Philippe Droz-Vincent (Universite P. et M. Curie, Paris)","Two-Body Mass-Shell Constraints in a Constant Magnetic Field (Neutral
+  Case)","14 pages, LaTeX file, no figure","Int.J.Theor.Phys.39:389-403,2000","10.1023/A:1003696528314","GCR 99/07/01","hep-th math-ph math.MP",,"  A constant homogeneous magnetic field is applied to a composite system made
+of two scalar particles with opposite charges. Motion is described by a pair of
+coupled Klein-Gordon equations that are written in closed form with help of a
+suitable representation. The relativistic symmetry associated with the magnetic
+field is carefully respected. Considering eigenstates of the pseudo momentum
+four-vector, we separate out collective variables and obtain a 3- dimensional
+reduced equation, posing a nonconventional eigenvalue problem. The velocity of
+the system as a whole generates ""motional"" terms in the formulas these terms
+are taken into account within a manifestly covariant framework.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 17:05:23 GMT""}]","2011-08-17"
+"hep-th/9907012",,"G. Veneziano","Entropy Bounds and String Cosmology","Latex file, 11 pages, 3 figures, Talk given in honour of F. Englert,
+  Brussels, March 1999",,,"CERN-TH/99-176","hep-th",,"  After discussing some old (and not-so-old) entropy bounds both for isolated
+systems and in cosmology, I will argue in favour of a ""Hubble entropy bound""
+holding in the latter context. I will then apply this bound to recent
+developments in string cosmology, show that it is naturally saturated
+throughout pre-big bang inflation, and claim that its fulfilment at later times
+has interesting implications for the exit problem of string cosmology.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 16:15:14 GMT""}]","2007-05-23"
+"math/9907019","David Goss","David Goss","A Riemann Hypothesis for characteristic p L-functions","This is the final version (with new title) as it will appear in the
+  Journal of Number Theory","Journal of Number Theory, vol. 82 (June 2000), 299-322",,,"math.NT",,"  We propose analogs of the classical Generalized Riemann Hypothesis and the
+Generalized Simplicity Conjecture for the characteristic p L-series associated
+to function fields over a finite field. These analogs are based on the use of
+absolute values. Further we use absolute values to give similar reformulations
+of the classical conjectures (with, perhaps, finitely many exceptional zeroes).
+We show how both sets of conjectures behave in remarkably similar ways.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 18:46:01 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1999 14:02:43 GMT""},{""version"":""v3"",""created"":""Wed, 1 Dec 1999 16:28:06 GMT""}]","2007-05-23"
+"math/9907020","De-Qi Zhang","Keiji Oguiso and De-Qi Zhang","K3 surfaces with order 11 automorphisms","Submitted to Pure and Applied Mathematics Quarterly; 14 pages; Lemma
+  2.1 re-proved; Prop 1.8 added","Pure and Applied Mathematics Quarterly, 7 (2011) 1657-1674, Eckart
+  Viehweg Special Issue",,,"math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  In the present paper we describe the K3 surfaces admitting order 11
+automorphisms and apply this to classify log Enriques surfaces of global index
+11.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 02:45:36 GMT""},{""version"":""v2"",""created"":""Mon, 8 Nov 2010 08:57:32 GMT""}]","2018-06-20"
+"nucl-th/9907009","Kazunari Kaneko","M. Hasegawa and K. Kaneko","Roles of proton-neutron interactions in alpha-like four-nucleon
+  correlations","10 pages, 2 figures, RevTex, submitted to Phys. Rev. C","Phys.Rev. C61 (2000) 037306","10.1103/PhysRevC.61.037306",,"nucl-th",,"  An extended pairing plus QQ force model, which has been shown to successfully
+explain the nuclear binding energy and related quantities such as the symmetry
+energy, is applied to study the alpha-like four-nucleon correlations in
+1f_{7/2} shell nuclei.
+  The double difference of binding energies, which displays a characteristic
+behavior at $N \approx Z$, is interpreted in terms of the alpha-like
+correlations. Important roles of proton-neutron interactions forming the
+alpha-like correlated structure are discussed.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 04:49:39 GMT""}]","2016-09-08"
+"physics/9907006","Giulio Ruffini","Giulio Ruffini, Antonio Rius, Lidia Cucurull, Alex Flores","Analysis of Water Vapor spatio-temporal structure over the Madrid Area
+  using GPS data","19 pages, 8 figures",,,,"physics.ao-ph physics.data-an",,"  We have analyzed Zenith Wet Delay (ZWD) time series from an experiment over
+the Madrid (Spain) area obtained from 5 GPS receivers using two different
+techniques. In the first case a delay correlation analysis of the ZWD
+time-series has been carried out. We show that for this small network (with a
+spatial scale of less than 100 km) the correlation between the time series is
+very strong, and that using windowing techniques a reliable correlation delay
+time series can be produced for each pair of sites (10 such pairs are
+available). We use this delay time series together with a frozen flow model to
+estimate the velocity of a passing front, and compare the results to
+meteorological data and Numerical Weather Prediction output, showing good
+agreement. In the second approach, the data is analyzed using Empirical
+Orthogonal Functions. We demonstrate that the temporally demeaned and
+normalized analysis yields information about the passing of fronts, while the
+spatially demeaned data yields orographic information. A common second mode
+highlights the underlying wave behavior.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 09:02:18 GMT""}]","2007-05-23"
+"quant-ph/9907008","Fred Cooper","Carl Bender, Fred Cooper, Peter Meisinger and Van M. Savage","Variational Ansatz for PT-Symmetric Quantum Mechanics","9 pages -- one postscript figure","Phys.Lett. A259 (1999) 224-231","10.1016/S0375-9601(99)00468-5","LA-UR-99-3026","quant-ph",,"  A variational calculation of the energy levels of a class of PT-invariant
+quantum mechanical models described by the non-Hermitian Hamiltonian H= p^2 -
+(ix)^N with N positive and x complex is presented. Excellent agreement is
+obtained for the ground state and low lying excited state energy levels and
+wave functions. We use an energy functional with a three parameter class of
+PT-symmetric trial wave functions in obtaining our results.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 20:20:04 GMT""}]","2009-10-31"
+"quant-ph/9907011","Miroljub Dugic","Miroljub Dugic (Faculty of Science, Kragujevac, YU)","Quantum mechanical modeling of the CNOT (XOR) gate","A short version. PlainTex, 28 pages, no figures",,,,"quant-ph",,"  We consider the CNOT quantum gate as a physical action, i.e. as unitary in
+time evolution of the two-qubit system. This points to the modeling of the
+interaction Hamiltonian of the two-qubit system which would correspond to the
+CNOT transformation; the analysis naturally generalizes to the Toffoli gate.
+Despite nonuniqueness of the model of the interaction Hamiltonian, the analysis
+distinguishes that the interaction Hamiltonian does not posses any global
+(rotational) symmetry. This forces us to conclude that the direct
+(non-mediated) interaction in the two-qubit system does not suffice for
+implementing the CNOT gate. I.e., so as to be able succesfully to implement the
+CNOT transformation, a mediator (i.e. an external physical system interacting
+with both of the qubits) is required.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1999 13:09:35 GMT""}]","2007-05-23"
+"solv-int/9907007","Hendry Izaac Elim","Hendry I. Elim","New Integrable Coupled Nonlinear Schrodinger Equations","11 pages, LaTeX",,,,"solv-int nlin.SI",,"  Two types of integrable coupled nonlinear Schrodinger (NLS) equations are
+derived by using Zakharov-Shabat (ZS) dressing method.The Lax pairs for the
+coupled NLS equations are also investigated using the ZS dressing method. These
+give new types of the integrable coupled NLS equations with certain additional
+terms. Then, the exact solutions of the new types are obtained. We find that
+the solution of these new types do not always produce a soliton solution even
+they are the kind of the integrable NLS equations.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1999 22:22:55 GMT""}]","2007-05-23"

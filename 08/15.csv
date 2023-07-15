@@ -1,0 +1,203 @@
+"astro-ph/9908157","Dragan Huterer","Dragan Huterer, Michael S. Turner","On the degree of scale invariance of inflationary perturbations","7 pages, 2 figures, submitted to Phys. Rev. D","Phys.Rev. D62 (2000) 063503","10.1103/PhysRevD.62.063503",,"astro-ph hep-ph",,"  Many, if not most, inflationary models predict the power-law index of the
+spectrum of density perturbations is close to one, though not precisely equal
+to one, |n-1| \sim O(0.1), implying that the spectrum of density perturbations
+is nearly, but not exactly, scale invariant. Some models allow n to be
+significantly less than one (n \sim 0.7); a spectral index significantly
+greater than one is more difficult to achieve. We show that n \approx 1 is a
+consequence of the slow-roll conditions for inflation and ``naturalness,'' and
+thus is a generic prediction of inflation. We discuss what is required to
+deviate significantly from scale invariance, and then show, by explicit
+construction, the existence of smooth potentials that satisfy all the
+conditions for successful inflation and give $n$ as large as 2.
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 19:14:31 GMT""}]","2009-10-31"
+"astro-ph/9908158","Andy Nelson","Andrew F. Nelson","Dynamics and Observational Appearance of Circumstellar Disks","PhD thesis. 172pg (single space 10pt) incl 56 numbered figures",,,,"astro-ph",,"  In my thesis I present a study of the dynamics and observational
+characteristics of massive circumstellar disks in two dimensions ($r$, $\phi$)
+using two complimentary hydrodynamic codes: a `Smoothed Particle Hydrodynamic'
+(SPH) code and a `Piecewise Parabolic Method' (PPM) code. I also study the
+detection limits available to radial velocity searches for low mass companions
+to main sequence stars. The thesis is organized as a series of published or
+submitted papers, connected by introductory and concluding material and is
+archived `for posterity'. I recommend that readers of this abstract obtain the
+published versions of each of these papers. I first outline the progress which
+has been made in the modeling of the structure and origins of the solar system,
+then in chapter 2 (ApJ 502,p342) I proceed with numerical simulations of
+circumstellar disks using both hydrodynamic codes assuming a `locally
+isothermal' equation of state. In chapter 4 (ApJ submitted) I relax the locally
+isothermal evolution assumption and instead include simple heating and cooling
+prescriptions for the system. In chapter 6 (ApJ 500,p940) I examine the limits
+which may be placed upon the detection of planets, brown dwarfs and low mass
+stellar companions using radial velocity measurements. In chapter 7, I outline
+several problems which may be profitably addressed by building on this work.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 15:08:21 GMT""}]","2007-05-23"
+"cond-mat/9908210","Stephanie M. Reimann","R. K. Bhaduri, S. M. Reimann, S. Viefers, A. Ghose Choudhury and M. K.
+  Srivastava","The effect of interactions on Bose-Einstein condensation in a
+  two-dimensional harmonic trap","extended version; to appear in J. Phys. B (special issue on BEC)",,"10.1088/0953-4075/33/19/304","NORDITA-2000/35 CM","cond-mat.mes-hall cond-mat.stat-mech",,"  A dilute bose gas in a quasi two-dimensional harmonic trap and interacting
+with a repulsive two-body zero-range potential of fixed coupling constant is
+considered. Using the Thomas-Fermi method, it is shown to remain in the same
+uncondensed phase as the temperature is lowered. Its density profile and energy
+are identical to that of an ideal gas obeying the fractional exclusion
+statistics of Haldane. PACS: ~03.75.Fi, 05.30.Jp, 67.40.Db, 05.30.-d
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 16:35:14 GMT""},{""version"":""v2"",""created"":""Thu, 6 Apr 2000 13:43:06 GMT""}]","2009-10-31"
+"cond-mat/9908211","Min-Fong Yang","Min-Fong Yang (Dept.of Phys., Tunghai Univ., Taiwan) and Ming-Che
+  Chang (Dept. of Phys., Natl.Taiwan Normal Univ., Taiwan)","Effect of in-plane magnetic field on magnetic phase transitions in nu=2
+  bilayer quantum Hall systems","RevTeX, 4 pages with 3 EPS figures included","Phys. Rev. B 60, R13985 (1999)","10.1103/PhysRevB.60.R13985",,"cond-mat.mes-hall",,"  By using the effective bosonic spin theory, which is recently proposed by
+Demler and Das Sarma [ Phys. Rev. Lett. 82, 3895 (1999) ], we analyze the
+effect of an external in-plane magnetic field on the magnetic phase transitions
+of the bilayer quantum Hall system at filling factor nu=2. It is found that the
+quantum phase diagram is modified by the in-plane magnetic field. Therefore,
+quantum phase transitions can be induced simply by tilting the magnetic field.
+The general behavior of the critical tilted angle for different layer
+separations and interlayer tunneling amplitudes is shown. We find that the
+critical tilted angles being calculated agree very well with the reported
+values. Moreover, a universal critical exponent for the transition from the
+canted antiferromagnetic phase to the ferromagnetic phase is found to be equal
+to 1/2 within the present effective theory.
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 20:07:39 GMT""}]","2007-05-23"
+"cond-mat/9908212","Anne Tanguy","S. Krishnamurthy, A. Tanguy, P. Abry and S. Roux","A Stochastic Description for Extremal Dynamics","4 pages LaTex, 3 figures .eps",,"10.1209/epl/i2000-00330-9",,"cond-mat.dis-nn",,"  We show that extremal dynamics is very well modelled by the ""Linear
+Fractional Stable Motion"" (LFSM), a stochastic process entirely defined by two
+exponents that take into account spatio-temporal correlations in the
+distribution of active sites. We demonstrate this numerically and analytically
+using well-known properties of the LFSM. Further, we use this correspondence to
+write an exact expressions for an n-point correlation function as well as an
+equation of fractional order for interface growth in extremal dynamics.
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 20:50:15 GMT""}]","2009-10-31"
+"cond-mat/9908213","Arno Schindlmayr","C. Stampfl, H. J. Kreuzer, S. H. Payne, H. Pfnuer, M. Scheffler","Towards a first-principles theory of surface thermodynamics and kinetics","4 pages including 3 figures. Related publications can be found at
+  http://www.fhi-berlin.mpg.de/th/paper.html","Phys. Rev. Lett. 83, 2993-2996 (1999)","10.1103/PhysRevLett.83.2993",,"cond-mat.mtrl-sci",,"  Understanding of the complex behavior of particles at surfaces requires
+detailed knowledge of both macroscopic and microscopic processes that take
+place; also certain processes depend critically on temperature and gas
+pressure. To link these processes we combine state-of-the-art microscopic, and
+macroscopic phenomenological, theories. We apply our theory to the O/Ru(0001)
+system and calculate thermal desorption spectra, heat of adsorption, and the
+surface phase diagram. The agreement with experiment provides validity for our
+approach which thus identifies the way for a predictive simulation of surface
+thermodynamics and kinetics.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 09:07:11 GMT""}]","2009-10-31"
+"cond-mat/9908214","Iksoo Chang","Iksoo Chang, Jacques Friedel, and Mahito Kohmoto","Phase transition between d-wave and anisotropic s-wave gaps in high
+  temperature oxides superconductors","4 pages in RevTex (double column), 4 figures",,"10.1209/epl/i2000-00549-4",,"cond-mat.supr-con",,"  We study models for superconductivity with two interactions: $V^>$ due to
+antiferromagnetic(AF) fluctuations and $V^<$ due to phonons, in a weak coupling
+approach to the high temperature superconductivity. The nature of the two
+interactions are considerably different; $V^>$ is positive and sharply peaked
+at ($\pm\pi$,$ \pm\pi$) while $V^<$ is negative and peaked at ($0,0$) due to
+weak phonon screening. We numerically find (a) weak BCS attraction is enough to
+have high critical temperature if a van Hove anomaly is at work, (b) $V^>$ (AF)
+is important to give d-wave superconductivity, (c) the gap order parameter
+$\Delta({\bf k})$ is constant(s-wave) at extremely overdope region and it
+changes to anisotropic s-wave as doping is reduced, (d) there exists a first
+order phase transition between d-wave and anisotropic s-wave gaps. These
+results are qualitatively in agreement with preceding works; they should be
+modified in the strongly underdope region by the presence of antiferromagnetic
+fluctuations and ensuing AF pseudogap.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 11:38:46 GMT""}]","2009-10-31"
+"cond-mat/9908215","Ofer Malcai","Ofer Biham, Ofer Malcai, Daniel A. Lidar (Hamburger) and David Avnir","Pattern Formation and a Clustering Transition in Power-Law Sequential
+  Adsorption","4 pages, 5 figures","Phys. Rev. E 59, R4713 (1999)","10.1103/PhysRevE.59.R4713",,"cond-mat.stat-mech",,"  A new model that describes adsorption and clustering of particles on a
+surface is introduced. A {\it clustering} transition is found which separates
+between a phase of weakly correlated particle distributions and a phase of
+strongly correlated distributions in which the particles form localized fractal
+clusters. The order parameter of the transition is identified and the fractal
+nature of both phases is examined. The model is relevant to a large class of
+clustering phenomena such as aggregation and growth on surfaces, population
+distribution in cities, plant and bacterial colonies as well as gravitational
+clustering.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 14:12:24 GMT""}]","2009-10-31"
+"hep-ph/9908360","Krishna Rajagopal","Krishna Rajagopal (MIT)","Mapping the QCD Phase Diagram","Contribution to proceedings of Quark Matter '99, Torino, Italy. 12
+  pages. 4 figures","Nucl.Phys. A661 (1999) 150-161","10.1016/S0375-9474(99)85017-9","MIT-CTP-2895","hep-ph astro-ph nucl-th",,"  I review recent theoretical developments which show how a key qualitative
+feature of the QCD phase diagram, namely a critical point which in a sense
+defines the landscape which heavy ion collision experiments are seeking to map,
+can be discovered. The map of the phase diagram which I sketch is based on
+reasonable inference from universality, lattice gauge theory and models; the
+discovery of the critical point would provide an experimental foundation for
+the central qualitative feature of the landscape. I also review recent progress
+in our understanding of cold, dense quark matter, as may occur in the cores of
+neutron stars. In this regime, quarks form Cooper pairs. The formation of such
+superconducting phases requires only weak attractive interactions, as provided
+by one-gluon exchange at asymptotically high density; these phases may
+nevertheless break chiral symmetry (by locking flavor symmetries to color
+symmetry) and may have excitations which are indistinguishable from those in a
+confined phase. Mapping this part of the phase diagram will require a better
+understanding of how the presence of color superconductivity and color-flavor
+locking affects neutron star phenomenology.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 07:05:50 GMT""}]","2015-06-25"
+"hep-th/9908100","Andre Lukas","Andre Lukas and Burt A. Ovrut","Symmetric Vacua in Heterotic M-Theory","22 pages, Latex",,"10.1142/S0217751X00002718","OUTP-99-37P, UPR-854T","hep-th",,"  Symmetric vacua of heterotic M-theory, characterized by vanishing cohomology
+classes of individual sources in the three-form Bianchi identity, are analyzed
+on smooth Calabi-Yau three-folds. We show that such vacua do not exist for
+elliptically fibered Calabi-Yau spaces. However, explicit examples are found
+for Calabi-Yau three-folds arising as intersections in both unweighted and
+weighted projective space. We show that such symmetric vacua can be combined
+with attractive phenomenological features such as three generations of quarks
+and leptons. Properties of the low energy effective actions associated with
+symmetric vacua are discussed. In particular, the gauge kinetic functions
+receive no perturbative threshold corrections, there are no corrections to the
+matter field Kahler metric and the associated five-dimensional effective theory
+admits flat space as its vacuum.
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 21:13:15 GMT""}]","2016-12-28"
+"hep-th/9908101","Israel Klich","I. Klich","Casimir's energy of a conducting sphere and of a dilute dielectric ball","references added; typos fixed","Phys. Rev. D 61, 025004 (1999)","10.1103/PhysRevD.61.025004",,"hep-th cond-mat hep-ph quant-ph",,"  In this paper we sum over the spherical modes appearing in the expression for
+the Casimir energy of a conducting sphere and of a dielectric ball (assuming
+the same speed of light inside and outside), before doing the frequency
+integration. We derive closed integral expressions that allow the calculations
+to be done to all orders, without the use of regularization procedures. The
+technique of mode summation using a contour integral is critically examined.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 13:16:18 GMT""},{""version"":""v2"",""created"":""Mon, 6 Sep 1999 11:14:19 GMT""},{""version"":""v3"",""created"":""Tue, 21 Sep 1999 09:54:43 GMT""}]","2016-08-25"
+"math/9908069","Martin Welk","Martin Welk","Covariant first order differential calculus on quantum projective spaces","20 pages; Latex2e, amsmath, amssymb",,,,"math.QA",,"  We investigate covariant first order differential calculi on the quantum
+complex projective spaces CP_q^{N-1} which are quantum homogeneous spaces for
+the quantum group SU_q(N). Hereby, one more well-studied example of covariant
+first order differential calculus on a quantum homogeneous space is given.
+Since the complex projective spaces are subalgebras of the quantum spheres
+S_q^{2N-1} introduced by Vaksman and Soibelman, we get also an example of the
+relations between covariant differential calculus on two closely related
+quantum spaces.
+  Two approaches are combined in obtaining covariant first order differential
+calculi on CP_q^{N-1}: 1. restriction of covariant first order differential
+calculi from S_q^{2N-1}; 2. classification of calculi under appropriate
+constraints, using methods from representation theory.
+  The main result is that under three reasonable settings of dimension
+constraints, covariant first order differential calculi on CP_q^{N-1} exist and
+are (for N >= 6) uniquely determined. This is a clear difference as compared to
+the case of the quantum spheres where several parametrical series of calculi
+exist. For two of the constraint settings, the covariant first order calculi on
+CP_q^{N-1} are also obtained by restriction from calculi on S_q^{2N-1} as well
+as from calculi on the quantum group SU_q(N).
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 23:36:59 GMT""}]","2007-05-23"
+"math/9908070","Jack Morava","Jack Morava","Cobordism of symplectic manifolds and asymptotic expansions","A talk at the conference in honor of S.P. Novikov's 60th birthday",,,,"math.SG math.AT math.QA",,"  The cobordism ring of symplectic manifolds defined by V.L. Ginzburg is shown
+to be isomorphic to the Pontrjagin ring of complex-oriented manifolds with free
+circle actions. This suggests an interpretation of the formal group law of
+complex cobordism, in terms of a composition-law on semiclassical expansions.
+An appendix discusses related questions about cobordism of toric varieties.
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1999 19:40:52 GMT""}]","2007-05-23"
+"math/9908071","Alex Chigogidze","Alex Chigogidze","Uncountable direct systems and a characterization of non-separable
+  projective $C^{\ast}$-algebras","44 pages",,,,"math.FA",,"  We introduce the concept of a direct $C_{\omega}^{\ast}$-system and show that
+every non-separable unital $C^{\ast}$-algebra is the limit of essentially
+unique direct $C_{\omega}^{\ast}$-system. This result is then applied to the
+problem of characterization of projective unital $C^{\ast}$-algebras. It is
+shown that a non-separable unital $C^{\ast}$-algebra $X$ of density $\tau$ is
+projective if and only if it is the limit of a well ordered direct system
+${\mathcal S}_{X} = \{X_{\alpha}, i_{\alpha}^{\alpha +1}, \alpha < \tau \}$ of
+length $\tau$, consisting of unital projective $C^{\ast}$-subalgebras
+$X_{\alpha}$ of $X$ and doubly projective homomorphisms (inclusions)
+$i_{\alpha}^{\alpha +1} \colon X_{\alpha} \to X_{\alpha +1}$, $\alpha < \tau$,
+so that $X_{0}$ is separable and each $i_{\alpha}^{\alpha +1}$, $\alpha <
+\tau$, has a separable type. In addition we show that a doubly projective
+homomorphism $f \colon X \to Y$ of unital projective $C^{\ast}$-algebras has a
+separable type if and only if there exists a pushout diagram \[ \begin{CD} X
+@>f>> Y @A{p}AA @AA{q}A X_{0} @>f_{0}>> Y_{0}, \end{CD} \]
+  \noindent where $X_{0}$ and $Y_{0}$ are separable unital projective
+$C^{\ast}$-algebras and the homomorphisms $i_{0} \colon X_{0} \to Y_{0}$, $p
+\colon X_{0} \to X$ and $q \colon Y_{0} \to Y$ are doubly projective. These two
+results provide a complete characterization of non-separable projective unital
+$C^{\ast}$-algebras in terms of separable ones.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 15:50:04 GMT""}]","2007-05-23"
+"quant-ph/9908048","Michael Martin Nieto","Michael Martin Nieto and D. Rodney Truax","Higher-Power Coherent and Squeezed States","23 pages including 9 figures. To be published in Optics
+  Communications","Optics Com. 179, 197-213 (2000)","10.1016/S0030-4018(99)00483-6","LA-UR-99-1157","quant-ph",,"  A closed form expression for the higher-power coherent states (eigenstates of
+$a^{j}$) is given. The cases j=3,4 are discussed in detail, including the
+time-evolution of the probability densities. These are compared to the case
+j=2, the even- and odd-coherent states. We give the extensions to the
+""effective"" displacement-operator, higher-power squeezed states and to the
+ladder-operator/minimum-uncertainty, higher-power squeezed states. The
+properties of all these states are discussed.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 01:01:26 GMT""}]","2016-09-08"
+"quant-ph/9908049","Dmitri Horoshko","D. B. Horoshko and S. Ya. Kilin","Quantum Teleportation Using Quantum Non-Demolition Technique","4 pages RevTeX, 2 figures","Phys. Rev. A 61, 032304 (2000)","10.1103/PhysRevA.61.032304",,"quant-ph",,"  We propose a new scheme and protocol for quantum teleportation of a
+single-mode field state, based on entanglement produced by quantum
+non-demolition interaction. We show that the recently attained results in QND
+technique allow to perform the teleportation in quantum regime. We also show
+that applying QND coupling to squeezed fields will significantly improve the
+quality of teleportation for a given degree of squeezing.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1999 10:50:09 GMT""}]","2009-10-31"

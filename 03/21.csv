@@ -1,0 +1,243 @@
+"astro-ph/9903311","Mark Henriksen","M. Henriksen","RXTE and ASCA Constraints on Non-thermal Emission from the A2256 Galaxy
+  Cluster","8 pages, Astrophysical Journal (in press)","Astrophys.J. 511 (1999) 666","10.1086/306729",,"astro-ph",,"  An 8.3 hour observation of the Abell 2256 galaxy cluster using the Rossi
+X-ray Timing Explorer proportional counter array produced a high quality
+spectrum in the 2 - 30 keV range. Joint fitting with the 0.7 - 11 keV spectrum
+obtained with the Advanced Satellite for Astrophysics and Cosmology gas imaging
+spectrometer gives an upperlimit of 2.3x10^-7 photons/cm^2/sec/keV for
+non-thermal emission at 30 keV. This yields a lower limit to the mean magnetic
+field of 0.36 micro Gauss (uG) and an upperlimit of 1.8x10^-13 ergs/cm^3 for
+the cosmic-ray electron energy density. The resulting lower limit to the
+central magnetic field is ~1 - 3 uG While a magnetic field of ~0.1 - 0.2 uG can
+be created by galaxy wakes, a magnetic field of several uG is usually
+associated with a cooling flow or, as in the case of the Coma cluster, a
+subcluster merger. However, for A2256, the evidence for a merger is weak and
+the main cluster shows no evidence of a cooling flow. Thus, there is presently
+no satisfactory hypothesis for the origin of an average cluster magnetic field
+as high as >0.36 uG in the A2256 cluster.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 21:07:54 GMT""}]","2009-10-31"
+"cond-mat/9903316","Masahiko Yoshioka","Masahiko Yoshioka, Masatoshi Shiino","Associative memory storing an extensive number of patterns based on a
+  network of oscillators with distributed natural frequencies in the presence
+  of external white noise","published in Phys. Rev. E","Phys. Rev. E 61, 4732 (2000)","10.1103/PhysRevE.61.4732",,"cond-mat.dis-nn",,"  We study associative memory based on temporal coding in which successful
+retrieval is realized as an entrainment in a network of simple phase
+oscillators with distributed natural frequencies under the influence of white
+noise. The memory patterns are assumed to be given by uniformly distributed
+random numbers on $[0,2\pi)$ so that the patterns encode the phase differences
+of the oscillators. To derive the macroscopic order parameter equations for the
+network with an extensive number of stored patterns, we introduce the effective
+transfer function by assuming the fixed-point equation of the form of the TAP
+equation, which describes the time-averaged output as a function of the
+effective time-averaged local field. Properties of the networks associated with
+synchronization phenomena for a discrete symmetric natural frequency
+distribution with three frequency components are studied based on the order
+parameter equations, and are shown to be in good agreement with the results of
+numerical simulations. Two types of retrieval states are found to occur with
+respect to the degree of synchronization, when the size of the width of the
+natural frequency distribution is changed.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 19:37:45 GMT""},{""version"":""v2"",""created"":""Thu, 4 Oct 2001 12:55:07 GMT""}]","2009-10-31"
+"cond-mat/9903317","Bob Markiewicz","C. Kusko and R.S. Markiewicz (Northeastern U. Boston)","Remnant Fermi Surfaces in Photoemission","4 pages LaTex, 3 ps figures",,"10.1103/PhysRevLett.84.963",,"cond-mat.supr-con",,"  Recent experiments have introduced a new concept for analyzing the
+photoemission spectra of correlated electrons -- the remnant Fermi surface
+(rFs), which can be measured even in systems which lack a conventional Fermi
+surface. Here, we analyze the rFs in a number of interacting electron models,
+and find that the results fall into two classes. For systems with pairing
+instabilities, the rFs is an accurate replica of the true Fermi surface. In the
+presence of nesting instabilities, the rFs is a map of the resulting
+superlattice Brillouin zone. The results suggest that the gap in Ca_2CuO_2Cl_2
+is of nesting origin.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 21:19:44 GMT""}]","2009-10-31"
+"cond-mat/9903318","Tomas Jungwirth","A.H. MacDonald, R. Rajaraman, and T. Jungwirth","Broken Symmetry Ground States in \nu=2 Bilayer Quantum Hall Systems","26 pages, 8 figures, submitted to Phys. Rev. B",,"10.1103/PhysRevB.60.8817",,"cond-mat.mes-hall",,"  We report on a study of a bilayer two-dimensional electron gas at Landau
+level filling factor $\nu=2$. The system exhibits both magnetic and spontaneous
+interlayer phase coherence broken symmetries. We propose a 3-parameter Slater
+determinant variational wavefunction which describes the ground state over the
+full range of bias potential ($\Delta_V$) Zeeman coupling ($\Delta_z$) and
+interlayer tunneling amplitude ($\Delta_t$) strengths. Broken symmetry states
+occur inside a volume in this three-dimensional phase diagram near the
+$\Delta_z^2=\Delta_V^2+\Delta_t^2$ surface. We have obtained analytic results
+for the intersections of the phase diagram with the $\Delta_t=0$, $\Delta_z=0$,
+and $\Delta_V=0$, planes and show that the differential capacitance of the
+bilayer system is singular at the phase boundary.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 22:20:37 GMT""}]","2009-10-31"
+"cond-mat/9903319","Dirk Helbing","Dirk Helbing and Tamas Vicsek","Self-Organised Optimality in Driven Systems with Symmetrical
+  Interactions","Orgininal version, submitted on December 1, 1998. For related
+  publications see http://www.theo2.physik.uni-stuttgart.de/helbing.html and
+  http://angel.elte.hu/~vicsek/",,,,"cond-mat.stat-mech",,"  Extremal principles are fundamental in our interpretation of phenomena in
+nature. One of the best known examples is the second law of thermodynamics,
+governing most physical and chemical systems and stating the continuous
+increase of entropy in closed systems. Biological and social systems, however,
+are usually open and characterised by self-organised structures. Being results
+of an evolutionary optimisation process, one may conjecture that such systems
+use resources like energy very efficiently, but there is no proof for this.
+Recent results on driven systems indicate that systems composed of competing
+entities tend to reach a state of self-organised optimality associated with
+minimal interaction or minimal dissipation, respectively. Using concepts from
+non-equilibrium thermodynamics and game theoretical ideas, we will show that
+this is universal to an even wider class of systems which, generally speaking,
+have the ability to reach a state of maximal overall ``success''. This
+principle is expected to be relevant for driven systems in physics, but its
+main significance concerns biological and social systems, for which only a
+limited number of quantitative principles are available yet.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 08:02:34 GMT""}]","2007-05-23"
+"gr-qc/9903078","Parthasarathi Mitra","P. Mitra","Thermodynamics of charged anti-de Sitter black holes in canonical
+  ensemble","LaTeX, 10 pages; minor post-publication changes","Phys.Lett. B459 (1999) 119-124","10.1016/S0370-2693(99)00689-9","SINP/TNP/99-04","gr-qc hep-th",,"  As in the grand canonical treatment of Reissner - Nordstr\""{o}m black holes
+in anti-de Sitter spacetime, the canonical ensemble formulation also shows that
+non-extremal black holes tend to have lower action than extremal ones. However,
+some small non-extremal black holes have higher action, leading to the
+possibility of transitions between non-extremal and extremal black holes.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 16:53:32 GMT""},{""version"":""v2"",""created"":""Thu, 5 Aug 1999 09:22:42 GMT""},{""version"":""v3"",""created"":""Thu, 16 Dec 1999 09:12:46 GMT""}]","2009-10-31"
+"gr-qc/9903079","Leonid Grishchuk","L. P. Grishchuk","On the Detectability of Relic (Squeezed) Gravitational Waves","6 pages, latex, uses moriond.sty ; a talk given at XXXIV-th
+  Rencontres de Moriond ""Gravitational Waves and Experimental Gravity"" (Les
+  Arcs, 23-30 January, 1999)",,,,"gr-qc astro-ph hep-ph",,"  The expected amplitudes and spectral slopes of relic gravitational waves,
+plus their specific correlation properties associated with the phenomenon of
+squeezing, may allow the registration of relic (squeezed) gravitational waves
+by the first generation of sensitive gravity-wave detectors.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 18:14:54 GMT""}]","2007-05-23"
+"gr-qc/9903080","Giovanni Amelino-Camelia","Giovanni Amelino-Camelia","Gravity-wave interferometers as probes of a low-energy effective quantum
+  gravity","LaTex, 33 pages","Phys.Rev. D62 (2000) 024015","10.1103/PhysRevD.62.024015","CERN-TH/99-70","gr-qc astro-ph hep-ph hep-th",,"  The interferometry-based experimental tests of quantum properties of
+space-time which the author sketched out in a recent short Letter [Nature 398
+(1999) 216] are here discussed in self-contained fashion. Besides providing
+detailed derivations of the results already announced in the previous Letter,
+some new results are also derived; in particular, the analysis is extended to a
+larger class of scenarios for space-time fuzziness and an absolute bound on the
+measurability of the amplitude of a gravity wave is obtained. It is argued that
+these studies could be helpful for the search of a theory describing a first
+stage of partial unification of Gravity and Quantum Mechanics.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 23:03:41 GMT""}]","2009-10-31"
+"gr-qc/9903081","Eric W. Hirschmann","Matthew W. Choptuik, Eric W. Hirschmann and Robert L. Marsa","New Critical Behavior in Einstein-Yang-Mills Collapse","13 pages, 4 figures","Phys. Rev. D 60, 124011 (1999)","10.1103/PhysRevD.60.124011","NSF-ITP-99-15, LIU-SC-TCSG-4/1999002","gr-qc",,"  We extend the investigation of the gravitational collapse of a spherically
+symmetric Yang-Mills field in Einstein gravity and show that, within the black
+hole regime, a new kind of critical behavior arises which separates black holes
+formed via Type I collapse from black holes formed through Type II collapse.
+Further, we provide evidence that these new attracting critical solutions are
+in fact the previously discovered colored black holes with a single unstable
+mode.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 06:05:21 GMT""}]","2016-08-25"
+"gr-qc/9903082","Manuela Campanelli","Manuela Campanelli (Max-Planck-Institut fuer Gravitationsphysik,
+  Albert-Einstein-Institut, Potsdam, Germany)","Black hole collisions: how far can perturbation theory go?","6 pages, Latex, uses moriond.sty, proceedings of the talk given at
+  the Moriond 99' euroconference",,,,"gr-qc",,"  The computation of gravitational radiation generated by the coalescence of
+inspiralling binary black holes is nowdays one of the main goals of numerical
+relativity. Perturbation theory has emerged as an ubiquitous tool for all those
+dynamical evolutions where the two black holes start close enough to each
+other, to be treated as single distorted black hole (close limit
+approximation), providing at the same time useful benchmarks for full numerical
+simulations. Here we summarize the most recent developments to study evolutions
+of perturbations around rotating (Kerr) black holes. The final aim is to
+generalize the close limit approximation to the most general case of two
+rotating black holes in orbit around each other, and thus provide reliable
+templates for the gravitational waveforms in this regime. For this reason it
+has become very important to know if these predictions can actually be trusted
+to larger separation parameters (even in the region where the holes have
+distinct event horizons). The only way to extend the range of validity of the
+linear approximation is to develop the theory of second order perturbations
+around a Kerr hole, by generalizing the Teukolsky formalism.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 10:40:24 GMT""}]","2007-05-23"
+"hep-ex/9903048","Amitabh Lath","A. Alavi-Harati et al, KTeV Collaboration","Light Gluino Search for Decays Containing pi+pi- or pi0 from a Neutral
+  Hadron Beam at Fermilab","15 pages, 7 figures","Phys.Rev.Lett.83:2128-2132,1999","10.1103/PhysRevLett.83.2128","RUTGERS 99-12","hep-ex",,"  We report on two null searches, one for the spontaneous appearance of
+$\pi^+\pi^-$ pairs, another for a single $\pi^0$, consistent with the decay of
+a long-lived neutral particle into hadrons and an unseen neutral particle. For
+the lowest level gluon-gluino bound state, known as the $R^0$, we exclude the
+decays $R^0\to \pi^+\pi^-\tilde{\gamma}$ and $R^0\to \pi^0\tilde{\gamma}$ for
+the masses of $R^0$ and $\tilde{\gamma}$ in the theoretically allowed range. In
+the most interesting $R^0$ mass range, $\leq 3 GeV/c^2$, we exclude $R^0$
+lifetimes from $3\times 10^{-10}$ seconds to as high as $10^{-3}$ seconds,
+assuming perturbative QCD production for the $R^0$.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 21:05:57 GMT""}]","2008-11-26"
+"hep-ph/9903420","Benjamin Pablo-Norman","J.L. Lucio, M. Napsuciale and M. Ruiz-Altaba","The Linear Sigma Model at Work: Succesful Postdictions for Pion
+  Scattering",,,,"PREPRINT-IFUNAM-FT-03","hep-ph",,"  We enforce chiral Ward identities on the vertices of the linear sigma model
+to take into account the width of the scalar sigma, considered as a true
+physical resonance. We consider pion scattering at very low energies and, from
+a fit to the measured phase shifts in the various angular momentum and isospin
+channels, conclude a mass for the sigma of 600+200-100 MeV. Its width turns out
+to be of the same size.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 18:53:47 GMT""}]","2007-05-23"
+"hep-ph/9903421","A. Khodjamirian","A. Khodjamirian, R. R\""uckl, S. Weinzierl, O.Yakovlev","Perturbative QCD Correction to the Light-Cone Sum Rule for the $B^*B\pi
+  $ and $D^*D\pi$ Couplings","11 pages, 1 figure, Latex, epsfig","Phys.Lett. B457 (1999) 245-252","10.1016/S0370-2693(99)00518-3","WUE-ITP-98-043","hep-ph",,"  The $B^*B\pi$ and $D^*D\pi$ couplings have previously been derived from a QCD
+light-cone sum rule in leading order. Here, we describe the calculation of the
+$O(\alpha_s)$ correction to the twist 2 term of this sum rule. The result is
+used for a first next-to-leading order analysis. We obtain $g_{B^*B\pi}= 22\pm
+7$ and $g_{D^*D\pi}=10.5\pm 3$, where the error indicates the remaining
+theoretical uncertainty.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 20:44:24 GMT""}]","2009-10-31"
+"hep-ph/9903422","Schuyler Cullen","Schuyler Cullen and Maxim Perelstein","SN1987A Constraints on Large Compact Dimensions","9 pages, LaTex, 1 figure in eps format","Phys.Rev.Lett. 83 (1999) 268-271","10.1103/PhysRevLett.83.268","SLAC-PUB-8084, SU-ITP-99/15","hep-ph astro-ph hep-th",,"  Recently there has been a lot of interest in models in which gravity becomes
+strong at the TeV scale. The observed weakness of gravitational interactions is
+then explained by the existence of extra compact dimensions of space, which are
+accessible to gravity but not to Standard Model particles. In this letter we
+consider graviton emission into these extra dimensions from a hot supernova
+core. The phenomenology of SN1987A places strong constraints on this energy
+loss mechanism, allowing us to derive a bound on the fundamental Planck scale.
+For the case of two extra dimensions we obtain a very strong bound of M > 50
+TeV, which corresponds to a radius R < 0.3 microns. While there are a lot of
+sources of uncertainty associated with this bound, we find that pushing it down
+to the few-TeV range, which could in principle be probed by ground-based
+experiments, is disfavored. For three or more extra dimensions the SN1987A
+constraints do not exclude a TeV gravitational scale.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 04:11:23 GMT""}]","2009-10-31"
+"hep-ph/9903423","Galit Eyal","Galit Eyal","Phenomenological Constraints on Supersymmetric Models with an Anomalous
+  U(1) Flavor Symmetry","13 pages, LaTeX; analysis limited to phenomenological constraints,
+  version accepted for publication in Phys. Lett. B","Phys.Lett. B461 (1999) 71-78","10.1016/S0370-2693(99)00832-1","WIS-99/10/MAR-DPP","hep-ph",,"  We investigate supersymmetric models in which an anomalous $U(1)_{X}$
+symmetry explains the Yukawa hierarchy, and the related $D_{X}$-term plays a
+role in supersymmetry breaking. We use a bottom-up approach to model building.
+Phenomenological viability leads to a scenario with degenerate squark and
+slepton spectra and with heavy gauginos. Features of a K\""ahler potential that
+allows for such a scenario are described.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 09:04:50 GMT""},{""version"":""v2"",""created"":""Sun, 18 Jul 1999 10:47:26 GMT""}]","2009-10-31"
+"hep-th/9903172","Jose M. F. Labastida","J. M. F. Labastida and Carlos Lozano","The Vafa-Witten Theory for Gauge Group SU(N)","24 pages, latex, amsmath package","Adv.Theor.Math.Phys.3:1201-1225,1999",,,"hep-th",,"  We derive the partition function for the Vafa-Witten twist of the
+$\mathcal{N}=4$ supersymmetric gauge theory with gauge group SU(N) (for prime
+$N$) and arbitrary values of the 't Hooft fluxes $v\in H^{2}(X,\mathbb{Z}_{N})$
+on K\""ahler four-manifolds with $b^{+}_2>1$.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 17:11:34 GMT""}]","2017-09-07"
+"hep-th/9903175","Tristan Hubsch","Tristan Hubsch","Linear and Chiral Superfields are Usefully Inequivalent","4 pages, plain TeX (needs ""harvmac""); 2 references added, typos
+  corrected","Class.Quant.Grav.16:L51-L54,1999","10.1088/0264-9381/16/9/101",,"hep-th",,"  Chiral superfields have been used, and extensively, almost ever since
+supersymmetry has been discovered. Complex linear superfields afford an
+alternate representation of matter, but are widely misbelieved to be
+'physically equivalent' to chiral ones. We prove the opposite is true.
+Curiously, this re-enables a previously thwarted interpretation of the
+low-energy (super)field limit of superstrings.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 20:21:57 GMT""},{""version"":""v2"",""created"":""Mon, 12 Apr 1999 20:38:58 GMT""}]","2010-04-06"
+"hep-th/9903176","Peter Bouwknegt","Peter Bouwknegt, Leung Chim and David Ridout","Exclusion statistics in conformal field theory and the UCPF for WZW
+  models","plain TeX, 31 pages; ref added","Nucl.Phys.B572:574-608,2000","10.1016/S0550-3213(99)00777-4","ADP-99-12/M78","hep-th cond-mat.stat-mech math.QA",,"  In this paper we further elaborate on the notion of fractional exclusion
+statistics, as introduced by Haldane, in two-dimensional conformal field
+theory, and its connection to the Universal Chiral Partition Function as
+defined by McCoy and collaborators. We will argue that in general, besides the
+pseudo-particles introduced recently by Guruswamy and Schoutens, one needs
+additional `null quasi-particles' to account for the null-states in the
+quasi-particle Fock space. We illustrate this in several examples of
+WZW-models.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 06:48:46 GMT""},{""version"":""v2"",""created"":""Thu, 1 Apr 1999 02:02:51 GMT""}]","2014-11-18"
+"hep-th/9903177","Boguslaw Broda","Malgorzata Bakalarska, Boguslaw Broda","Three-dimensional topological quantum field theory of Witten type","9 pages, conference: ""Particles, Fields, and Gravitation"", Lodz
+  (Poland) April 1998","AIP Conference Proceedings 453, ed. J.Rembielinski, AIP, Woodbury,
+  New York, 1998, pp. 303-311","10.1063/1.57131",,"hep-th",,"  Description of two three-dimensional topological quantum field theories of
+Witten type as twisted supersymmetric theories is presented. Low-energy
+effective action and a corresponding topological invariant of three-dimensional
+manifolds are considered.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 08:13:05 GMT""}]","2015-06-26"
+"math/9903120","Ian M. Musson","Paula A.A.B. Carvalho and Ian M. Musson","Down-Up Algebras and Representation Theory","23 pages, AMS Latex",,,,"math.RT math.RA",,"  A class of algebras called down-up algebras was introduced by G. Benkart and
+T. Roby. We classify the finite dimensional simple modules over Noetherian
+down-up algebras and show that in some cases every finite dimensional module is
+semisimple. We also study the question of when two down-up algebras are
+isomorphic.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1999 23:30:41 GMT""}]","2007-05-23"
+"math/9903121","Boris Tsirelson","Boris Tsirelson","Scaling limit of Fourier-Walsh coefficients (a framework)","11 pages, 3 figures, LaTeX2e",,,"TAU RP-SOR-99-04","math.PR",,"  Independent random signs can govern various discrete models that converge to
+non-isomorphic continuous limits. Convergence of Fourier-Walsh spectra is
+established under appropriate conditions.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 15:25:36 GMT""}]","2007-05-23"
+"math/9903195","Xian-Jin Li","Xian-Jin Li (AIM)","A residue scalar product for algebraic function fields over a number
+  field",,,,"AIM 1999-4","math.NT",,"  In 1952 Peter Roquette gave an arithmetic proof of the Riemann hypothesis for
+algebraic function fields of a finite constants field, which was proved by
+Andr\'e Weil in 1940. The construction of Weil's scalar product is essential in
+Roquette's proof. In this paper a scalar product for algebraic function fields
+over a number field is constructed which is the analogue of Weil's scalar
+product.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 00:00:00 GMT""}]","2016-09-07"
+"nucl-th/9903053","James L. Popp","Alejandro Ayala, Gordon Baym, James L. Popp","The quantum mechanics of particle-correlation measurements in
+  high-energy heavy-ion collisions","11 pages, REVTEX, Submitted to Nuclear Physics A, revised","Nucl.Phys. A660 (1999) 101-117","10.1016/S0375-9474(99)00388-7",,"nucl-th",,"  The Hanbury Brown--Twiss (HBT) effect in two-particle correlations is a
+fundamental wave phenomenon that occurs at the sensitive elements of detectors;
+it is one of the few processes in elementary particle detection that depends on
+the wave mechanics of the produced particles. We analyze here, within a quantum
+mechanical framework for computing correlations among high-energy particles,
+how particle detectors produce the HBT effect. We focus on the role played by
+the wave functions of particles created in collisions and the sensitivity of
+the HBT effect to the arrival times of pairs at the detectors, and show that
+the two detector elements give an enhanced signal when the single-particle wave
+functions of the detected particles overlap at both elements within the
+characteristic atomic transition time of the elements. The measured pair
+correlation function is reduced when the delay in arrival times between pairs
+at the detectors is of order of or larger than the transition time.
+","[{""version"":""v1"",""created"":""Sun, 21 Mar 1999 04:48:42 GMT""},{""version"":""v2"",""created"":""Mon, 6 Sep 1999 21:25:11 GMT""}]","2009-10-31"

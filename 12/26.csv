@@ -1,0 +1,108 @@
+"cond-mat/9912449","Yury Petrov","Yury Petrov and Takeshi Egami","Phonon mediated hole pairing in the 1D Hubbard model near half-filling","9 pages, 9 figures",,,,"cond-mat.str-el cond-mat.supr-con",,"  The Hamiltonian describing a system of strongly correlated electrons coupled
+to dispersionless phonons was solved numerically for a ring of 8 atoms using
+the density matrix renormalization group (DMRG) method. It was found that
+electron correlation and electron-phonon coupling compete against each other,
+and strong electron correlations suppress the charge-ordered insulating state.
+This allows extended polarons to form in the strong electron-phonon coupling
+regime. It is shown that in this regime two polarons may form a pair via phonon
+mediated charge-fluctuation interaction. Based on the results we propose a
+novel mechanism of hole pairing. This mechanism could be relevant to High-Tc
+cuprates.
+","[{""version"":""v1"",""created"":""Sat, 25 Dec 1999 17:40:34 GMT""},{""version"":""v2"",""created"":""Thu, 20 Apr 2000 07:49:37 GMT""}]","2007-05-23"
+"hep-ex/9912063","Andrei Afanasev","A.V. Glamazdin, V.G. Gorbenko, L.G. Levchuk, R.I. Pomatsalyuk, A.L.
+  Rubashkin, P.V. Sorokin (Kharkov, FTI), D.S. Dale, B. Doyle, T. Gorringe, W.
+  Korsch, V. Zeps (Kentucky U.), J.P. Chen, E. Chudakov, S. Nanda, A. Saha
+  (Jefferson Lab), A. Gasparian (Hampton U.)","Electron Beam M\O ller Polarimeter at Jlab Hall a","4 pages, 2 figures, uses epsfig.sty; presented by A.Glamazdin at
+  Conference on Nuclear and Particle Physics with CEBAF at Jefferson Lab,
+  Dubrovnik, Croatia, 3-10 Nov 1998","FizikaB8:91-95,1999",,,"hep-ex",,"  As part of the spin physics program at Jefferson Laboratory (JLab), a M\o
+ller polarimeter was developed to measure the polarization of electron beam of
+energies 0.8 to 5.0 GeV. A unique signature for M\o ller scattering is obtained
+using a series of three quadrupole magnets which provide an angular selection,
+and a dipole magnet for energy analysis. The design, commissioning, and the
+first results of the polarization measurements of this polarimeter will be
+presented as well as future plans to use its small scattering angle
+capabilities to investigate physics in the very low $Q^2$ regime.
+","[{""version"":""v1"",""created"":""Sat, 25 Dec 1999 22:10:53 GMT""}]","2008-11-26"
+"hep-lat/9912054","Xiang-Qian Luo","E.B. Gregory, S. Guo, H. Kroger, Xiang-Qian Luo (ZSU, corresponding
+  Author)","Hamiltonian lattice QCD at finite chemical potential","Final version appeared in Phys. Rev. D","Phys.Rev. D62 (2000) 054508","10.1103/PhysRevD.62.054508",,"hep-lat hep-ex hep-ph hep-th",,"  At sufficiently high temperature and density, quantum chromodynamics (QCD) is
+expected to undergo a phase transition from the confined phase to the
+quark-gluon plasma phase. In the Lagrangian lattice formulation the Monte Carlo
+method works well for QCD at finite temperature, however, it breaks down at
+finite chemical potential. We develop a Hamiltonian approach to lattice QCD at
+finite chemical potential and solve it in the case of free quarks and in the
+strong coupling limit. At zero temperature, we calculate the vacuum energy,
+chiral condensate, quark number density and its susceptibility, as well as mass
+of the pseudoscalar, vector mesons and nucleon. We find that the chiral phase
+transition is of first order, and the critical chemical potential is $\mu_C
+=m_{dyn}^{(0)}$ (dynamical quark mass at $\mu=0$). This is consistent with
+$\mu_C \approx M_N^{(0)}/3$ (where $M_N^{(0)}$ is the nucleon mass at $\mu=0$).
+","[{""version"":""v1"",""created"":""Sat, 25 Dec 1999 23:50:26 GMT""},{""version"":""v2"",""created"":""Thu, 3 Aug 2000 03:31:01 GMT""}]","2009-10-31"
+"hep-ph/9912508","Kevin E. Cahill","Kevin Cahill","B-L Neutrinos","13 pages, 2 figures; CP phase fixed; new figure",,,,"hep-ph",,"  Neutrino masses and mixings are analyzed in terms of left-handed fields and a
+6x6 complex symmetric mass matrix whose singular values are the neutrino
+masses. An angle theta_nu characterizes the kind of the neutrinos, with
+theta_nu=0 for Dirac neutrinos and theta_nu=pi/2 for Majorana neutrinos. At
+theta_nu = 0 baryon-minus-lepton number is conserved. If theta_nu is
+approximately zero, the six neutrino masses coalesce into three nearly
+degenerate pairs. Thus the tiny mass differences exhibited in the solar and
+atmospheric neutrino experiments are naturally explained by the approximate
+conservation of B-L. Neutrinos are nearly Dirac fermions.
+  This B-L model leads to these predictions: neutrinos oscillate mainly between
+flavor eigenfields and sterile eigenfields, and so the appearance of neutrinos
+and antineutrinos is suppressed; neutrinos may well be of cosmological
+importance; in principle the disappearance of the tau neutrino should be
+observable; and neutrinoless double-beta decay is suppressed by an extra factor
+of 10^(-5) and so will not be seen in the Heidelberg/Moscow, IGEX, GENIUS, or
+CUORE experiments.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 12:19:27 GMT""},{""version"":""v2"",""created"":""Wed, 5 Jan 2000 07:11:32 GMT""},{""version"":""v3"",""created"":""Mon, 19 Jun 2000 23:40:26 GMT""}]","2007-05-23"
+"hep-ph/9912509","Erhan Iltan","M. Boz (Hacettepe Univ., Ankara), E. Iltan (METU, Ankara)","B_s ---> \gamma \gamma decay in the model III and 3HDM(O_2) with CP
+  violating effects","17 pages, 11 figures","Phys.Rev. D62 (2000) 054010","10.1103/PhysRevD.62.054010",,"hep-ph",,"  We analyse the CP asymmetry for B_{s} -->\gamma\gamma in the two Higgs
+doublet model with tree level flavor changing currents (model III) and three
+Higgs doublet model with O_2 symmetry in the Higgs sector, including O_{7} type
+long distance effects. Further, we study the dependencies of the branching
+ratio Br(B_{s} --> \gamma\gamma)$ and the ratio of CP-even and CP-odd amplitude
+squares, R=|A^{+}|^2/|A^{-}|^2, on the CP parameter sin \theta. We found that,
+there is a weak CP asymmetry, at the order of 10^{-4}. Besides, the branching
+ratio Br(B_{s} --> \gamma\gamma), and also R ratio, is not sensitive to the CP
+parameter for |\frac{\bar{\xi}^{U}_{N,tt}}{\bar{\xi}^{D}_{N,bb}}|<1.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 11:53:46 GMT""}]","2009-10-31"
+"hep-th/9912250","Manolo Perez-Victoria","J. Erdmenger, M. Perez-Victoria","Non-renormalization of next-to-extremal correlators in N=4 SYM and the
+  AdS/CFT correspondence","21 pages, LaTex, 9 eps figures, typos corrected and references added","Phys.Rev. D62 (2000) 045008","10.1103/PhysRevD.62.045008","MIT-CTP-2933","hep-th",,"  We show that next-to-extremal correlators of chiral primary operators in N=4
+SYM theory do not receive quantum corrections to first order in perturbation
+theory. Furthermore we consider next-to-extremal correlators within AdS
+supergravity. Here the exchange diagrams contributing to these correlators
+yield results of the same free-field form as obtained within field theory. This
+suggests that quantum corrections vanish at strong coupling as well.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 13:25:08 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jan 2000 22:53:29 GMT""}]","2009-10-31"
+"quant-ph/9912108","Robert Clifton","Rob Clifton (Department of Philosophy, University of Pittsburgh)","Complementarity between Position and Momentum as a Consequence of
+  Kochen-Specker Arguments","4 pages, LaTeX",,"10.1016/S0375-9601(00)00365-0",,"quant-ph",,"  We give two simple Kochen-Specker arguments for complementary between the
+position and momentum components of spinless particles, arguments that are
+identical in structure to those given by Peres and Mermin for spin-1/2
+particles.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 01:47:22 GMT""}]","2009-10-31"
+"quant-ph/9912109","Nakamura Etsuko","Ken-Ichi Aoki, Atsushi Horikoshi, and Etsuko Nakamura (Kanazawa
+  University)","Time of arrival through interacting environments: Tunneling processes","Latex 19 pages, 11 eps figures, title modified, comments and
+  references added, final version","Phys.Rev. A62 (2000) 22101","10.1103/PhysRevA.62.022101","KANAZAWA/99-14","quant-ph gr-qc",,"  We discuss the propagation of wave packets through interacting environments.
+Such environments generally modify the dispersion relation or shape of the wave
+function. To study such effects in detail, we define the distribution function
+P_{X}(T), which describes the arrival time T of a packet at a detector located
+at point X. We calculate P_{X}(T) for wave packets traveling through a
+tunneling barrier and find that our results actually explain recent
+experiments. We compare our results with Nelson's stochastic interpretation of
+quantum mechanics and resolve a paradox previously apparent in Nelson's
+viewpoint about the tunneling time.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 09:18:22 GMT""},{""version"":""v2"",""created"":""Tue, 25 Jul 2000 08:41:42 GMT""}]","2009-10-31"
+"quant-ph/9912110","M. B. Miller","V.B. Belyaev (1), Yu.Z. Ionikh (2), M.B. Miller (3), A.K. Motovilov
+  (1), A.V. Sermyagin (3), A.A. Smolnikov (1,4), Yu.A. Tolmachev (2)((1) Joint
+  Institute for Nuclear Research, (2) Saint-Petersburg State University, (3)
+  Institute of Physical and Engineering Problems,(4) Institute for Nuclear
+  Research)","Experiments on Sonoluminescence: Possible Nuclear and QED Aspects and
+  Optical Applications","4 pages; to be published by AIP in the Proc. ISNA-15","AIP Conference Proceedings 524 (2000), 413-416","10.1063/1.1309253",,"quant-ph",,"  Experiments aimed at testing some hypothesis about the nature of Single
+Bubble Sonoluminescence are discussed. A possibility to search for micro-traces
+of thermonuclear neutrons is analyzed, with the aid of original low-background
+neutron counter operating under conditions of the deep shielding from Cosmic
+and other sources of background. Besides, some signatures of QED-contribution
+to the light emission in SBSL are under the consideration, as well as new
+approaches to probe a temperature inside the bubble. An applied-physics portion
+of the program is presented also, in which an attention is being paid to
+single- and a few-pulse light sources on the basis of SBSL.
+","[{""version"":""v1"",""created"":""Sun, 26 Dec 1999 15:46:42 GMT""}]","2007-07-16"

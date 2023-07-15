@@ -1,0 +1,242 @@
+"cond-mat/9912068","Elena E. Tareyeva","Elena Tareyeva and Valentin Ryzhov (Vereschagin Institute for High
+  Pressure Physics, Troitzk, Russia)","Classical many-particle distribution functions: some new applications","Talk presented at the ""Bogolyubov Conference: Problems of Theoretical
+  and Mathematical Physics"", Moscow-Dubna-Kyiv (September 27 - October 6,
+  1999), 6 pages of Latex",,,,"cond-mat.stat-mech cond-mat.dis-nn",,"  We present a new purely equilibrium microscopic approach to the description
+of liquid-glass transition in terms of space symmetry breaking of three- and
+four-particle distribution functions in the cases of two and three dimensions,
+respectively. The approach has some features of spin glass theories as well as
+of density-functional theories of freezing.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 16:22:46 GMT""}]","2007-05-23"
+"cond-mat/9912069","Elena E. Tareyeva","Elena Tareyeva and Tatiana Schelkacheva (Vereschagin Institute for
+  High Pressure Physics, Troitzk, Russia)","Orientational Phase Transition in solid C_60: Bifurcation Approach","12 pages of Latex, 1 ps figure, to appear in ""Theor.Math.Phys.""
+  (Moscow)","Theor.Math.Phys.(Moscow), v.121, N3, 479-491 (1999)",,,"cond-mat.stat-mech",,"  A simple model for the angular dependent interaction between C_60 molecules
+on the face-centered cubic lattice is proposed. The bifurcations of the
+solutions of the nonlinear integral equations for orientational distribution
+functions in the mean field approximation are analyzed and the orientational
+phase transition in solid C_60 is described. The quantitative results for the
+orientational phase transition are in accordance with experimental data.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 18:43:18 GMT""}]","2007-05-23"
+"cond-mat/9912070","Yshai Avishai","Yehuda Goldin and Yshai Avishai","Non-linear response of a Kondo system: Perturbation approach to the time
+  dependent Anderson impurity model","55 latex pages 11 ps figures",,"10.1103/PhysRevB.61.16750",,"cond-mat.str-el cond-mat.mes-hall",,"  Nonlinear tunneling current through a quantum dot
+  (an Anderson impurity system) subject to both constant and alternating
+electric fields is studied in the Kondo regime. A systematic diagram technique
+is developed for perturbation study of the current in physical systems out of
+equilibrium governed by time - dependent Hamiltonians of the Anderson and the
+Kondo models. The ensuing calculations prove to be too complicated for the
+Anderson model, and hence, a mapping on an effective Kondo problem is called
+for. This is achieved by constructing a time - dependent version of the
+Schrieffer - Wolff transformation. Perturbation expansion of the current is
+then carried out up to third order in the Kondo coupling J yielding a set of
+remarkably simple analytical expressions for the current. The zero - bias
+anomaly of the direct current differential conductance is shown to be
+suppressed by the alternating field while side peaks develop at finite source -
+drain voltage. Both the direct component and the first harmonics of the time -
+dependent response are equally enhanced due to the Kondo effect, while
+amplitudes of higher harmonics are shown to be relatively small. A zero
+alternating bias anomaly is found in the alternating current differential
+conductance, that is, it peaks around zero alternating bias. This peak is
+suppressed by the constant bias. No side peaks show up in the differential
+alternating - conductance but their counterpart is found in the derivative of
+the alternating current with respect to the direct bias. The results pertaining
+to nonlinear response are shown to be valid also below the Kondo temperature.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 15:20:42 GMT""}]","2016-08-31"
+"hep-ex/9912009","John Womersley","John Womersley","Tests of Perturbative QCD and Jet Physics","To appear in the Proceedings of the XIX International Symposium on
+  Lepton and Photon Interactions at High Energies (LP99), Stanford University,
+  August 1999 Replaced version corrects Ref [31] and adds an additional plot to
+  Fig.21","Int.J.Mod.Phys.A15S1:607-631,2000; eConfC990809:607-631,2000",,"Fermilab-Conf-99/353","hep-ex",,"  I describe the current status of tests of perturbative QCD, using
+measurements of jet, photon, weak boson and heavy flavor production from the
+Tevatron, LEP and HERA. Measurements of the strong coupling constant are
+described, and I conclude with a ""wish list"" for the future.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 23:43:28 GMT""},{""version"":""v2"",""created"":""Sat, 11 Dec 1999 22:51:57 GMT""}]","2008-11-26"
+"hep-ph/9912241","Michael Binger","Michael Binger, Chueng-Ryong Ji, David G. Robertson","Renormalization-Scale-Invariant PQCD Predictions for R_e+e- and the
+  Bjorken Sum Rule at Next-to-Leading Order","13 Latex pages with 5 figures; to be published in Physical Review D","Phys.Rev. D61 (2000) 114011","10.1103/PhysRevD.61.114011",,"hep-ph",,"  We discuss application of the physical QCD effective charge $\alpha_V$,
+defined via the heavy-quark potential, in perturbative calculations at
+next-to-leading order. When coupled with the Brodsky-Lepage-Mackenzie
+prescription for fixing the renormalization scales, the resulting series are
+automatically and naturally scale and scheme independent, and represent
+unambiguous predictions of perturbative QCD. We consider in detail such
+commensurate scale relations for the $e^+e^-$ annihilation ratio $R_{e^+e^-}$
+and the Bjorken sum rule. In both cases the improved predictions are in
+excellent agreement with experiment.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 05:54:21 GMT""}]","2009-10-31"
+"hep-ph/9912242","Joao Silva","Joao P Silva and Abner Soffer (SLAC)","Impact of D0-D0bar mixing on the experimental determination of gamma","18 pages, Latex with epsfig, 8 figures","Phys.Rev.D61:112001,2000","10.1103/PhysRevD.61.112001",,"hep-ph hep-ex",,"  Several methods have been devised to measure the weak phase gamma using
+decays of the type B+- --> D K+-, where it is assumed that there is no mixing
+in the D0-D0bar system. However, when using these methods to uncover new
+physics, one must entertain the real possibility that the measurements are
+affected by new physics effects in the D0-D0bar system. We show that even
+values of x_D and/or y_D around 10^{-2} can have a significant impact in the
+measurement of sin^2{gamma}. We discuss the errors incurred in neglecting this
+effect, how the effect can be checked, and how to include it in the analysis.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 06:13:47 GMT""}]","2014-11-17"
+"hep-ph/9912243","Afsar Abbas","Afsar Abbas","What is the Standard Model Higgs ?","Latex file, 9 pages, no figures",,,,"hep-ph astro-ph",,"  It is shown that in the Standard Model, the property of charge quantization
+holds for a Higgs with arbitrary isospin and hypercharge. These defining
+quantum numbers of the Higgs remain unconstrained while the whole basic and
+fundamental structure of the Standard Model remains intact. Hence it is shown
+that the Higgs cannot be a physical particle. Higgs is the underlying `vacuum'
+over which the whole edifice of the Standard Model stands.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 13:44:32 GMT""}]","2007-05-23"
+"hep-ph/9912244","Afsar Abbas","Afsar Abbas","Electric charge, early universe and the Superstring Theories","Latex file, 6 pages, no figures",,,,"hep-ph astro-ph",,"  Very recently, it has been shown by the author that the Standard Model Higgs
+cannot be a physical particle. Here, on most general grounds it is established
+that as per the Standard Model there is no electric charge above the
+electro-weak phase transition temperature. Hence there was no electric charge
+present in the early universe. The Superstring Theories are flawed in as much
+as they are incompatible with this requirement. Hence the Superstring Theories
+are inconsistent with this basic structure and requirement of the Standard
+Model.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 13:52:31 GMT""}]","2007-05-23"
+"hep-th/9912030","Takeshi Sato","Takeshi Sato","A 10-form Gauge Potential and an M-9-brane Wess-Zumino Action in Massive
+  11D Theory","15pages, Latex; in v2 two computational and some typing errors
+  corrected (one term added to eq.(3.19), coeffifients of the third line of
+  eq.(3.22) and that of the last term of eq.(3.18) corrected), one paper by
+  Meessen and Ortin added as ref.26","Phys.Lett. B477 (2000) 457-468","10.1016/S0370-2693(00)00229-X",,"hep-th",,"  We discuss some properties of an M-9-brane in ``massive 11D theory'' proposed
+by Bergshoeff, Lozano and Ortin. A 10-form gauge potential is consistently
+introduced into the massive 11D supergravity, and an M-9-brane Wess-Zumino
+action is constructed as that of a gauged $\sigma$-model. Using duality
+relations is crucial in deriving the action, which we learn from the study of a
+9-form potential in 10D massive IIA theory. A target space solution of an
+M-9-brane with a non-vanishing 10-form gauge field is also obtained, whose
+source is shown to be the M-9-brane effective action.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 17:20:21 GMT""},{""version"":""v2"",""created"":""Wed, 26 Jan 2000 07:31:46 GMT""}]","2009-10-31"
+"hep-th/9912033","Zvi Bern","Z. Bern, A. De Freitas and H.L. Wong","On the Coupling of Gravitons to Matter","RevTex, 4 pages","Phys.Rev.Lett. 84 (2000) 3531","10.1103/PhysRevLett.84.3531","UCLA/99/TEP/55","hep-th gr-qc hep-ph",,"  Using relationships between open and closed strings, we present a
+construction of tree-level scattering amplitudes for gravitons minimally
+coupled to matter in terms of gauge theory partial amplitudes. In particular,
+we present examples of amplitudes with gravitons coupled to vectors or to a
+single fermion pair. We also present two examples with massive graviton
+exchange, as would arise in the presence of large compact dimensions. The gauge
+charges are represented by flavors of dynamical scalars or fermions. This also
+leads to an unconventional decomposition of color and kinematics in gauge
+theories.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 20:30:49 GMT""}]","2009-10-31"
+"hep-th/9912034",,"Yang Ze-sen, Li Xianhui, Zhou Zhining and Zhong Yushu","Scattering Matrix of the SU(n) Gauge Theory with Explicit Gauge Mass
+  Term","14pages, some minor modification",,,,"hep-th",,"  Based on the renormalisability of the SU(n) theory with massive gauge bosons,
+we start with the path integral of the generating functional for the
+renormalized Green functions and develop a method to construct the scattering
+matrix so that the unitarity is evident. By using as basical variables the
+renormalized field functions and defining the unperturbed Hamiltonian operator
+$H_0$ that, under the Lorentz condition, describes the free particles of the
+initial and final states in scattering processes, we form an operator
+description with which the renormalized Green functions can be expressed as the
+vacuum expectations of the time ordered products of the Heisenberg operators of
+the renormalized field functions, that satisfy the usual equal time commutation
+or anticommutation rules. From such an operator description we find a total
+Hamiltonian $\widetilde{H}$ that determine the time evolution of the Heisenberg
+operators of the renormalized field functions. The scattering matrix is nothing
+but the matrix of the operator $U(\infty, -\infty)$, which describes the time
+evolution from $-\infty$ to $\infty$ in the interaction picture specified by
+$\widetilde{H}$ and $H_0$, respect to a base formed by the physical eigen
+states of $H_0$. We also explain the asymptotic field viewpoint of constructing
+the scattering matrix within our operator description. Moreover, we find a
+formular to express the scattering matrix elements in terms of the truncated
+renormalized Green functions.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 01:59:14 GMT""},{""version"":""v2"",""created"":""Thu, 6 Jan 2000 06:40:41 GMT""},{""version"":""v3"",""created"":""Sun, 7 Oct 2001 03:23:23 GMT""}]","2016-09-06"
+"hep-th/9912035","Pierre van Baal","Pierre van Baal","Instantons versus Monopoles","11p, 5 figs in 7 parts, presented at the workshop ""Lattice fermions
+  and structure of the vacuum"", 5-9 Oct. 199, Dubna, Russia",,,"INLO-PUB-21/99","hep-th hep-lat",,"  We review results of the last two years concerning caloron solutions of unit
+charge with non-trivial holonomy, revealing the constituent monopole nature of
+these instantons. For SU(n) there are n such BPS constituents. New is the
+presentation of the exact values for the Polyakov loop at the three constituent
+locations for the SU(3) caloron with arbitrary holonomy. At these points two
+eigenvalues coincide, extending earlier results for SU(2) to a situation more
+generic for general SU(n).
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 13:58:56 GMT""}]","2007-05-23"
+"hep-th/9912036","Benaoum Hachemi","H.B. Benaoum (Mainz Uni.)","Perturbative BF-Yang-Mills theory on noncommutative R^4","15 pages, 4 figures, latex, version to appear in NPB","Nucl.Phys. B585 (2000) 554-566","10.1016/S0550-3213(00)00364-3","MZ-TH/99-48","hep-th",,"  A U(1) BF-Yang-Mills theory on noncommutative ${\mathbb{R}}^4$ is presented
+and in this formulation the U(1) Yang-Mills theory on noncommutative
+${\mathbb{R}}^4$ is seen as a deformation of the pure BF theory. Quantization
+using BRST symmetry formalism is discussed and Feynman rules are given.
+Computations at one-loop order have been performed and their renormalization
+studied. It is shown that the U(1) BFYM on noncommutative ${\mathbb{R}}^4$ is
+asymptotically free and its UV-behaviour in the computation of the
+$\beta$-function is like the usual SU(N) commutative BFYM and Yang Mills
+theories.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 14:10:32 GMT""},{""version"":""v2"",""created"":""Thu, 25 May 2000 11:47:22 GMT""}]","2009-10-31"
+"math/9912029","Vladimir P. Gerdt","Vladimir P. Gerdt and Yuri A. Blinkov","Minimal Involutive Bases","22 pages","Mathematics and Computers in Simulation 45 (1998) 543-560",,,"math.AC math.NA math.RA",,"  In this paper we present an algorithm for construction of minimal involutive
+polynomial bases which are Groebner bases of the special form. The most general
+involutive algorithms are based on the concept of involutive monomial division
+which leads to partition of variables into multiplicative and
+non-multiplicative. This partition gives thereby the self-consistent
+computational procedure for constructing an involutive basis by performing
+non-multiplicative prolongations and multiplicative reductions. Every specific
+involutive division generates a particular form of involutive computational
+procedure. In addition to three involutive divisions used by Thomas, Janet and
+Pommaret for analysis of partial differential equations we define two new ones.
+These two divisions, as well as Thomas division, do not depend on the order of
+variables. We prove noetherity, continuity and constructivity of the new
+divisions that provides correctness and termination of involutive algorithms
+for any finite set of input polynomials and any admissible monomial ordering.
+We show that, given an admissible monomial ordering, a monic minimal involutive
+basis is uniquely defined and thereby can be considered as canonical much like
+the reduced Groebner basis.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 08:55:24 GMT""}]","2007-05-23"
+"math/9912030","Vladimir P. Gerdt","Vladimir P. Gerdt","Involutive Division Technique: Some Generalizations and Optimizations","19 pages","Zapiski nauchgnyh seminarov POMI (St.Petersburg) 258, 1999,
+  185-206",,"formerly math.SC/9912030","math.AC math.NA math.RA",,"  In this paper, in addition to the earlier introduced involutive divisions, we
+consider a new class of divisions induced by admissible monomial orderings. We
+prove that these divisions are noetherian and constructive. Thereby each of
+them allows one to compute an involutive Groebner basis of a polynomial ideal
+by sequentially examining multiplicative reductions of nonmultiplicative
+prolongations. We study dependence of involutive algorithms on the completion
+ordering. Based on properties of particular involutive divisions two
+computational optimizations are suggested. One of them consists in a special
+choice of the completion ordering. Another optimization is related to
+recomputing multiplicative and nonmultiplicative variables in the course of the
+algorithm.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 16:26:47 GMT""},{""version"":""v2"",""created"":""Sun, 26 Mar 2000 13:17:15 GMT""}]","2014-11-18"
+"math/9912031","Vladimir P. Gerdt","Vladimir P. Gerdt, Vladimir V.Kornyak, Matthias Berth, Guenter
+  Czichowski","Construction of Involutive Monomial Sets for Different Involutive
+  Divisions","13 pages","Computer Algebra in Scientific Computing, V.G.Ganzha, E.W.Mayr and
+  E.V.Vorozhtsov (Eds.), Springer-Verlag, Berlin, 1999, pp.147-157",,"formerly math.SC/9912031","math.AC math.NA math.RA",,"  We consider computational and implementation issues for the completion of
+monomial sets to involution using different involutive divisions. Every of
+these divisions produces its own completion procedure. For the polynomial case
+it yields an involutive basis which is a special form of a Groebner basis,
+generally redundant. We also compare our Mathematica implementation of Janet
+division to an implementation in C.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 17:07:53 GMT""}]","2007-05-23"
+"math/9912032","Roger Alperin","Roger Alperin","A Quartic Surface of Integer Hexahedra","3 large pictures included",,,,"math.HO math.NT",,"  Using a quartic surface and its rational curves we can give an infinite
+number of integer hexahedra; these are 6 sided 3d solids, each face a
+trapezoid, with all sides and diagonals having intger lengths.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 19:10:01 GMT""},{""version"":""v2"",""created"":""Tue, 7 Dec 1999 16:10:46 GMT""}]","2009-09-25"
+"math/9912033","Florin Radulescu","Florin G. Radulescu","Non-Commutative Markov Processes in Free Group Factors, Related to
+  Berezin's Quantization and Automorphic Forms","85 pages, Plain TeX. Changes: typographical errors have been fixed;
+  also, extensions in Sections 5 and 6",,,,"math.OA math.QA",,"  In this paper we use the description of free group factors as the von Neumann
+algebras of Berezin's deformation of the upper half-plane, modulo PSL$(2,{\Bbb
+Z})$.
+  The derivative, in the deformation parameter, of the product in the
+corresponding algebras, is a positive Hochschild 2-cocycle, defined on a dense
+subalgebra. By analyzing the structure of the cocycle we prove that there is a
+generator $\cal L$ for a quantum dynamical semigroup that implements the
+cocycle on a strongly dense subalgebra.
+  For $x$ in the dense subalgebra, ${\cal L}(x)$ is the (diffusion) operator $$
+{\cal L}(x)=\Lambda(x)-(1/2)\{T,x\}, $$ where $\Lambda$ is the pointwise
+(Schur) multiplication operator with a symbol function related to the logarithm
+of the automorphic form $\Delta$. The operator $T$ is positive and affiliated
+with the algebra ${\cal A}_t$ and $T$ corresponds to ${\cal L}(1)$, in a sense
+to be made precise in the paper. After a suitable normalization, corresponding
+to a principal-value type method, adapted for II$_1$ factors, $\Lambda$ becomes
+(completely) positive on a union of weakly dense subalgebras. Moreover the
+2-cyclic cohomology cocycle associated to the deformation may be expressed in
+terms of $\Lambda$.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 22:33:24 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jun 2000 17:19:55 GMT""}]","2007-05-23"
+"math/9912034","Eugene Tevelev","E. Tevelev","Subalgebras and Discriminants of Anticommutative Algebras",,"Izvestiya RAN; Ser. Mat., Vol. 63, pp. 169-184","10.1070/IM1999v063n03ABEH000247",,"math.AG",,"  The paper deals with the configuration of subalgebras in generic
+$n$-dimensional $k$-argument anticommutative algebras and ``regular''
+anticommutative algebras.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 14:34:20 GMT""}]","2015-06-26"
+"math/9912035","Steven Finch","Steven Finch","A Convex Maximization Problem: Discrete Case","8 pages",,,,"math.OC",,"  We study a specific convex maximization problem in n-dimensional space. The
+conjectured solution is proved to be a vertex of the polyhedral feasible
+region, but only a partial proof of local maximality is known. Integer
+sequences with interesting patterns arise in the analysis, owing to the number
+theoretic origin of the problem.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 15:50:02 GMT""}]","2007-05-23"
+"physics/9912013","Mariusz Sadzikowski","Leszek Motyka and Mariusz Sadzikowski","Atomic collisions and sonoluminescence","7 pages, revtex",,,,"physics.atom-ph hep-ph quant-ph",,"  We consider inelastic collisions between atoms of different kinds as a
+potential source of photons in the sonoluminescence phenomena. We estimate the
+total energy emitted in one flash and the shape of the spectrum and find a
+rough agreement between the results of our calculation and the experimental
+data. We conclude that the atomic collisions might be a candidate for the
+light-emitting mechanism for sonoluminescence and discuss the implications.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1999 16:35:21 GMT""}]","2007-05-23"
+"physics/9912014","A. Mary Selvam","A.Mary Selvam, A.S.Ramachandra Murty and Bh.V. Ramanamurty","A New Hypothesis for the Vertical Distribution of Atmospheric Aerosols","5 pages, 2 figures, Proc.of the XI Int. Conf. on Atmospheric
+  Aerosols, Condensation and Ice Nuclei, 2-7 Sept.1984, Budapest, Hungary,
+  77-81",,,,"physics.gen-ph",,"  A simple model which can explain the observed vertical distribution and size
+spectrum of atmospheric aerosol has been proposed. The model is based on a new
+physical hypothesis for the vertical mass exchange between the troposphere and
+the stratosphere. The vertical mass excange takes place through a gravity wave
+feedback mechanism. There is a close agreement between the model predicted
+aerosol distribution and size spectrum and the observed distributions.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1999 09:57:36 GMT""}]","2007-05-23"

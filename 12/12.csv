@@ -1,0 +1,132 @@
+"cond-mat/9912201","Peter Gillin","Peter Gillin and David Sherrington","p>2 spin glasses with first order ferromagnetic transitions","AMSLaTeX, 13 pages, 23 EPS figures ; one figure corrected","J. Phys. A 33 p.3081 (2000)","10.1088/0305-4470/33/16/302",,"cond-mat.dis-nn",,"  We consider an infinite-range spherical p-spin glass model with an additional
+r-spin ferromagnetic interaction, both statically using a replica analysis and
+dynamically via a generating functional method. For r>2 we find that there are
+first order transitions to ferromagnetic phases. For r<p there are two
+ferromagnetic phases, one non-glassy replica symmetric and one exhibiting
+glassy one-step replica symmetry breaking and aging, whereas for r>=p only the
+replica symmetric phase exists.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1999 16:14:10 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jan 2000 15:05:17 GMT""}]","2009-10-31"
+"cond-mat/9912202","Kieron Burke","Morrel H Cohen, Derek Frydel, Kieron Burke, and Eberhard Engel","Total energy density as an interpretative tool","5 pages, 3 embedded figures, submitted to J. Chem. Phys",,"10.1063/1.1286805",,"cond-mat.mtrl-sci",,"  We present an unambiguous formulation for the total energy density within
+density-functional theory. We propose that it be used as a tool for the
+interpretation of computed energy and electronic structure changes during
+structural transformations and chemical reactions, augmenting the present use
+of electron density changes and changes in the Kohn-Sham local density of
+states and Kohn-Sham energy density.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1999 22:56:20 GMT""}]","2009-10-31"
+"hep-ph/9912311","Daniel Boer","Daniel Boer (RIKEN-BNL Research Center)","Transverse polarization distribution and fragmentation functions","8 pages, Latex, 7 Postscript figures; Invited talk given at the
+  Circum-Pan-Pacific RIKEN Symposium on ``High Energy Spin Physics'', RIKEN,
+  Wako, Japan, November 3-6, 1999; Some small corrections, Figure 6 replaced","RIKEN Rev.28:26-30,2000",,"RIKEN-BNL preprint, RBRC-69, BNL-67326","hep-ph",,"  We discuss transverse polarization distribution and fragmentation functions,
+in particular, T-odd functions with transverse momentum dependence, which might
+be relevant for the description of single transverse spin asymmetries. The role
+of intrinsic tranverse momentum in the expansion in inverse powers of the hard
+scale is elaborated upon. The sin(phi) single spin asymmetry in the process e
+\vec{p} -> e' pi^+ X as recently reported by the HERMES Collaboration is
+investigated, in particular, by using the bag model.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1999 18:58:39 GMT""},{""version"":""v2"",""created"":""Thu, 27 Apr 2000 17:33:58 GMT""}]","2011-04-15"
+"hep-ph/9912312","Peter Landshoff","A Donnachie and P V Landshoff","Exclusive Vector Photoproduction: Confirmation of Regge Theory","6 pages, plain tex, with 5 figures embedded using epsf","Phys.Lett. B478 (2000) 146-150","10.1016/S0370-2693(00)00194-5","M/C-TH 99-16 DAMTP-1999-167","hep-ph",,"  Recent small-t ZEUS data for exclusive rho photoproduction are in excellent
+agreement with exchange of the classical soft pomeron with slope alpha'=0.25
+GeV^{-2}. Adding in a flavour-blind hard-pomeron contribution, whose magnitude
+is calculated from the data for exclusive J/psi photoproduction, gives a good
+fit also to the ZEUS data for rho photoproduction at larger values of t, and to
+phi photoproduction.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1999 09:03:27 GMT""}]","2009-10-31"
+"hep-ph/9912313","David H. Lyth","David H Lyth","Late-time creation of gravitinos from the vacuum","9 pages. As it will appear in PLB. Small typos corrected, a sign
+  discrepancy cleared up, nothing significant","Phys.Lett. B476 (2000) 356-362","10.1016/S0370-2693(00)00156-8","LANCS-TH/9924","hep-ph astro-ph gr-qc hep-th",,"  Starting with the vacuum fluctuation, it is known that gravitinos will be
+created just after inflation, with number density $\sim 10^{-2}M^3$ where $M$
+is the mass of the inflaton. Here, we argue that creation may be expected to
+continue, maintaining about the same number density, until a usually much later
+epoch. This epoch is either the `intermediate epoch' when Hubble parameter
+falls below the gravitino mass, or the reheat epoch if that is earlier. We
+verify that such late-time creation indeed occurs if only a single chiral
+superfield is relevant, using the description of the helicity 1/2 gravitino
+provided recently by Kallosh et. al. (hep-th/9907124) and Giudice et. al.
+(hep-ph/9907510). Arguments are presented in favor of late-time creation in the
+general case. For the usual inflation models, $M$ is rather large and
+gravitinos from late-time creation are so abundant that a subsequent era of
+thermal inflation is needed to dilute them.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1999 09:10:35 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jan 2000 17:21:52 GMT""}]","2009-10-31"
+"hep-th/9912093","David Broadhurst","D. J. Broadhurst, D. Kreimer","Combinatoric explosion of renormalization tamed by Hopf algebra: 30-loop
+  Pade-Borel resummation","10 pages, LaTeX, 1 eps figure added, comments expanded","Phys.Lett. B475 (2000) 63-70","10.1016/S0370-2693(00)00051-4","OUT-4102-84, MZ-TH/99-57, ESI-805","hep-th hep-ph math.QA",,"  It is easy to sum chain-free self-energy rainbows, to obtain contributions to
+anomalous dimensions. It is also easy to resum rainbow-free self-energy chains.
+Taming the combinatoric explosion of all possible nestings and chainings of a
+primitive self-energy divergence is a much more demanding problem. We solve it
+in terms of the coproduct $\Delta$, antipode S, and grading operator Y of the
+Hopf algebra of undecorated rooted trees. The vital operator is $S\star Y$,
+with a star product effected by $\Delta$. We perform 30-loop Pad\'e-Borel
+resummation of 463 020 146 037 416 130 934 BPHZ subtractions in Yukawa theory,
+at spacetime dimension d=4, and in a trivalent scalar theory, at d=6,
+encountering residues of $S\star Y$ that involve primes with up to 60 digits.
+Even with a very large Yukawa coupling, g=30, the precision of resummation is
+remarkable; a 31-loop calculation suggests that it is of order $10^{-8}$.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1999 18:34:07 GMT""},{""version"":""v2"",""created"":""Fri, 7 Jan 2000 16:47:50 GMT""}]","2009-10-31"
+"hep-th/9912094","Masashi Hayakawa","M.Hayakawa","Perturbative analysis on infrared aspects of noncommutative QED on R^4","10 pages, LaTEX2e, A part of results changed, reference added","Phys.Lett. B478 (2000) 394-400","10.1016/S0370-2693(00)00242-2",,"hep-th",,"  Here we examine the noncommutative counterpart of QED, which is called as
+noncommutative QED. The theory is obtained by examining the consistent minimal
+coupling to noncommutative U(1) gauge field. The *-product admits the coupling
+of the matter with only three varieties of charges, i.e., 0, +1 and -1.
+Ultraviolet divergence can be absorbed into the rescaling of the fields and the
+parameters at least at one loop level. To examine the infrared aspect of the
+theory the anomalous magnetic dipole moment is calculated. The dependence on
+the direction of photon momentum reflects the Lorentz symmetry violation of the
+system. The explicit calculation of the finite part of the photon vacuum
+polarization shows the singularity ln({q C^TC q}) (C^{\mu\nu} is a
+noncommutative parameter.) in the infrared side which also exists in
+noncommutative Yang-Mills theory. It is associated with the ultraviolet
+behavior of the theory. We also consider the extension to chiral gauge theory
+in the present context, but the requirement of anomaly cancellation allows only
+noncommutative QED.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1999 14:59:03 GMT""},{""version"":""v2"",""created"":""Thu, 16 Dec 1999 08:05:26 GMT""},{""version"":""v3"",""created"":""Sun, 19 Dec 1999 02:27:54 GMT""}]","2009-10-31"
+"hep-th/9912095","Jan B. Thomassen","Jan B. Thomassen","Chiral anomalies and Poincare invariance","8 pages, revised version, two references added",,,"IK-TUW 9912401","hep-th",,"  I study variations of the fermionic determinant for a nonabelian Dirac
+fermion with external vector and axial vector sources. I consider different
+regularizations, leading to different chiral anomalies when the variations are
+chiral transformations. For these different regularizations, I then consider
+variations associated with Poincare transformations. I find that both Lorentz
+and translational invariance are anomalously violated in general, but that they
+are respected when the variations of the determinant are regularized to give a
+Wess-Zumino consistent anomaly (the Bardeen anomaly). If the variations are
+regularized to give a covariant anomaly, then Poincare invariance is not
+respected. Following Manohar in an investigation of Poincare anomalies in a
+chiral gauge theory, this gives an alternative way to understand the need for a
+consistent regularization of the variations of the fermionic determinant.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1999 22:43:17 GMT""},{""version"":""v2"",""created"":""Mon, 10 Apr 2000 15:53:58 GMT""}]","2007-05-23"
+"math/9912094","Anatol N. Kirillov","Anatol N. Kirillov","Ubiquity of Kostka polynomials","LaTeX, 104 pages, revised version, many new exercises added (about 35
+  pages), and some typos are corrected",,,,"math.QA math.CO",,"  We report about results revolving around Kostka-Foulkes and parabolic Kostka
+polynomials and their connections with Representation Theory and Combinatorics.
+It appears that the set of all parabolic Kostka polynomials forms a semigroup,
+which we call {\it Liskova semigroup}. We show that polynomials frequently
+appearing in Representation Theory and Combinatorics belong to the Liskova
+semigroup. Among such polynomials we study rectangular $q$-Catalan numbers;
+generalized exponents polynomials; principal specializations of the internal
+product of Schur functions; generalized $q$-Gaussian polynomials; parabolic
+Kostant partition function and its $q$-analog; certain generating functions on
+the set of transportation matrices. In each case we apply rigged configurations
+technique to obtain some interesting and new information about Kostka-Foulkes
+and parabolic Kostka polynomials, Kostant partition function, MacMahon,
+Gelfand-Tsetlin and Chan-Robbins polytopes. We describe certain connections
+between generalized saturation and Fulton's conjectures and parabolic Kostka
+polynomials; domino tableaux and rigged configurations. We study also some
+properties of $l$-restricted generalized exponents and the stable behaviour of
+certain Kostka-Foulkes polynomials.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1999 15:08:55 GMT""},{""version"":""v2"",""created"":""Mon, 27 Dec 1999 06:48:47 GMT""},{""version"":""v3"",""created"":""Tue, 30 May 2000 04:42:52 GMT""},{""version"":""v4"",""created"":""Mon, 27 Nov 2000 06:26:34 GMT""}]","2007-05-23"
+"math/9912095","H. Esnault","Spencer Bloch and H\'el\`ene Esnault","Gau{\ss}-Manin determinant connections and periods for irregular
+  connections","32 pages, latex 2e",,,,"math.AG",,"  Gau{\ss}-Manin determinant connections associated to irregular connections on
+a curve are studied. The determinant of the Fourier transform of an irregular
+connection is calculated. The determinant of cohomology of the standard rank 2
+Kloosterman sheaf is computed modulo 2 torsion. Periods associated to irregular
+connections are studied in the very basic $\exp(f)$ case, and analogies with
+the Gau{\ss}-Manin determinant are discussed.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1999 15:39:38 GMT""}]","2007-05-23"
+"quant-ph/9912054","Brian C. Hall","Brian C. Hall","Holomorphic Methods in Mathematical Physics","Final version","Contemporary Mathematics, Volume 260, pp. 1-59",,,"quant-ph math-ph math.MP",,"  This set of lecture notes gives an introduction to holomorphic function
+spaces as used in mathematical physics. The emphasis is on the Segal-Bargmann
+space and the canonical commutation relations. Later sections describe more
+advanced topics such as the Segal-Bargmann transform for compact Lie groups and
+the infinite-dimensional theory.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1999 20:51:37 GMT""},{""version"":""v2"",""created"":""Thu, 14 Sep 2000 23:07:02 GMT""}]","2007-05-23"
+"quant-ph/9912056","Hagen Kleinert","H.Kleinert, A. Chervyakov","Reparametrization Invariance of Perturbatively Defined Path Integrals.
+  II. Integrating Products of Distributions","Author Information under
+  http://www.physik.fu-berlin.de/~kleinert/institution.html . Latest update of
+  paper also at http://www.physik.fu-berlin.de/~kleinert/302","Phys.Lett. B47 (2000) 373","10.1016/S0370-2693(00)00199-4",,"quant-ph hep-th",,"  We show how to perform integrals over products of distributions in coordinate
+space such as to reproduce the results of momentum space Feynman integrals in
+dimensional regularization. This ensures the invariance of path integrals under
+coordinate transformations. The integrals are uniquely defined by expressing
+the propagators in 1- epsilon dimensions in terms of modified Bessel functions.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1999 11:08:35 GMT""},{""version"":""v2"",""created"":""Thu, 10 Feb 2000 08:18:57 GMT""}]","2009-10-31"

@@ -1,0 +1,265 @@
+"astro-ph/9903210","Hugo Martel","Hugo Martel and Richard Matzner (University of Texas at Austin)","A Database of COBE-Normalized CDM Simulations (Abbreviated Version)","latex source file + 7 Figures in postscript format. Full version of
+  paper submitted to The Astrophysical Journal, Feb. 1999, and available from
+  the authors",,,,"astro-ph",,"  We have simulated the formation and evolution of large-scale structure in the
+universe, for 68 different COBE-normalized cosmological models. For each
+cosmological model, we have performed between 1 and 3 simulations, for a total
+of 160 simulations. This constitutes the largest database of cosmological
+simulations ever assembled, and the largest cosmological parameter space ever
+covered by such simulations. We are making this database available to the
+astronomical community. We provide instructions for accessing the database and
+for converting the data from computational units to physical units.
+  The database includes Tilted Cold Dark Matter (TCDM) models, Tilted Open Cold
+Dark Matter (TOCDM) models, and Tilted Lambda Cold Dark Matter (TLCDM) models.
+(For several simulations, the primordial exponent n of the power spectrum is
+near unity, hence these simulations can be considered as ""untilted."") The
+simulations cover a 4-dimensional cosmological parameter phase space, the
+parameters being the present density parameter Omega_0, cosmological constant
+lambda_0, and Hubble constant H_0, and the rms density fluctuation sigma_8 at
+scale 8/h Mpc. All simulations were performed using a P3M algorithm with 64^3
+particles on a 128^3 mesh, in a cubic volume of comoving size 128 Mpc. Each
+simulation starts at a redshift of 24, and is carried up to the present. More
+simulations will be added to the database in the future.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 17:25:22 GMT""}]","2007-05-23"
+"astro-ph/9903211","Simon Portegies Zwart","Simon Portegies Zwart (Boston U)","Explaining the light curves of Gamma-ray Bursts with precessing jets","2 pages, to be publishes in the Rome Conference: Gamma Ray Bursts in
+  the Afterglow Era",,"10.1051/aas:1999326",,"astro-ph",,"  A phenomenological model is presented to explain the light curves of
+gamma-ray bursts. Gamma-rays are produced in a narrow beam which sweeps through
+space due to the precession of a slaved accretion disc. The light curve
+expected from such a precessing luminosity cone can explain the complex
+temporal behavior of bright gamma-ray bursts.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 20:41:13 GMT""}]","2009-10-31"
+"astro-ph/9903212","Sergey Kuznetsov","S.I. Kuznetsov (1,2), M.R. Gilfanov (3,1), E.M. Churazov (3,1), R.A.
+  Sunyaev (3,1), A.V. Dyachkov (1), N.G. Khavenson (1), B.S. Novikov (1), R.S.
+  Kremnev (1), P. Goldoni (4), A. Goldwurm (4), P. Laurent (4), J. Paul (4),
+  J.-P. Roques (5), E. Jourdain (5), L. Bouchet (5), G. Vedrenne (5) ((1) Space
+  Research Institute, RAS, Moscow, (2) Moscow Physical-Technical Institute,
+  Dolgoprudny, Russia, (3) MPI fuer Astrophysik, Garching, Germany, (4) Service
+  d`Astrophysique, DAPNIA/DSM, CEA Saclay, France, (5) Centre d`Etude Spatiale
+  des Rayonnements (CNRS/UPS), Toulouse Cedex, France)","Long-Term Variability of the Hard X-ray Source GRS 1758-258:
+  GRANAT/SIGMA Observations","18 pages with 5 figures. Astronomy Letters, 1999, 25 (in press)",,,,"astro-ph",,"  The results of GRANAT/SIGMA hard X-ray observations of GRS 1758-258 in
+1990-1998 are presented. The source lies at ~5\arcdeg from the Galactic Center
+and was within the SIGMA field of view during the GRANAT surveys of this
+region. The total exposure time of the Galactic Center was 11x10^6 s. The
+regular SIGMA observations revealed strong variability of the source: the
+40-150 keV flux varied at least by a factor of 8 on a time scale of a year,
+between less than 13 mCrab and ~100-110 mCrab. The average flux was ~60 mCrab
+in 1990-1998. The source's spectrum is well fitted by a power law with a photon
+index \alpha ~1.86 in the energy range 40 to 150 keV and becomes steeper at
+energies above ~100 keV. The radio and hard X-ray properties of GRS 1758-258
+are similar to those of another Galactic Center source, 1E1740.7-2942. GRS
+1758-258 and 1E1740.7-2942 are the two brightest hard X-ray sources in the
+Galactic Center region. Both sources have radio jets, similar X-ray
+luminosities (~10^37 erg/s), and spectra, and exhibit variations in the hard
+X-ray flux on long times scales by a factor of ~10 or more . In contrast to
+most of the known black hole candidates, which are X-ray transients, GRS
+1758-258 and 1E1740.7-2942 were detected by SIGMA during most of the
+observations in 1990-1998. Assuming that this behavior of the sources implies
+the suppression of accretion-disk instability in the region of partial hydrogen
+ionization through X-ray heating, we impose constraints on the mass of the
+optical companion and on the orbital period of the binary system.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 22:30:20 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1999 14:44:54 GMT""}]","2007-05-23"
+"astro-ph/9903213","Christopher F. McKee","Christopher F. McKee and John H. Holliman, II","Multi--Pressure Polytropes as Models for the Structure and Stability of
+  Molecular Clouds. I. Theory","Submitted to ApJ with 10 figures",,"10.1086/307613",,"astro-ph",,"  Molecular clouds are supported by thermal pressure, magnetic pressure, and
+turbulent pressure. Each of these can be modeled with a polytropic equation of
+state, so that overall the total pressure is the sum of the individual
+components. We model the turbulent pressure as being due to a superposition of
+Alfven waves. The theory of polytropes is generalized to allow for the flow of
+entropy in response to a perturbation, as expected for the entropy associated
+with wave pressure. The equation of state of molecular clouds is ""soft"", so
+that the properties of the clouds are generally governed by the conditions at
+the surface. In general, the polytropes are not isentropic, and this permits
+large density and pressure drops to occur between the center and the edge of
+the polytropes, as is observed.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 01:20:17 GMT""}]","2012-08-27"
+"cond-mat/9903217","Alex Bratkovski","A.S. Alexandrov and A.M. Bratkovsky","Colossal magnetooptical conductivity in doped manganites","4 pages, REVTeX 3.0, two eps-figures included in the text",,"10.1103/PhysRevB.60.6215",,"cond-mat.str-el cond-mat.mtrl-sci",,"  We show that the current carrier density collapse in doped manganites, which
+results from bipolaron formation in the paramagnetic phase, leads to a colossal
+change of the optical conductivity in an external magnetic field at
+temperatures close to the ferromagnetic transition. As with the colossal
+magnetoresistance (CMR) itself, the corresponding magnetooptical effect is
+explained by the dissociation of localized bipolarons into mobile polarons
+owing to the exchange interaction with the localized Mn spins in the
+ferromagnetic phase. The effect is positive at low frequencies and negative in
+the high-frequency region. The present results agree with available
+experimental observations.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 18:10:25 GMT""}]","2009-10-31"
+"cond-mat/9903218","Andrei S. Mishchenko","K. A. Kikoin (1), M. N. Kiselev(2,3), A. S. Mishchenko (2), A. de
+  Visser (4) ((1) Ben-Gurion University of the Negev, Beer-Sheva, Israel, (2)
+  Russian Research Center ""Kurchatov Institute"", Moscow, Russia, (3)
+  Laboratoire Leon Brillouin, CE-Saclay Gif-sur-Yvette, France, (4) Van der
+  Waals-Zeeman Institute, University of Amsterdam, Amsterdam, The Netherlands)","Thermodynamics of CeNiSn at low temperatures and in weak magnetic fields","32 pages, 12 Postscript Figures","Phys. Rev. B, vol. 59, p. 15070","10.1103/PhysRevB.59.15070","PSL27","cond-mat.str-el",,"  Detailed experimental and theoretical studies of the low-temperature specific
+heat, magnetic susceptibility, thermal expansion and magnetostriction of the
+orthorhombic compound CeNiSn are presented. All anomalies observed in the
+thermodynamic and magnetic properties of CeNiSn are explained in a framework of
+a model of metallic Kondo lattice with well developed spin-liquid-type
+excitations. The pseudogap behavior of these excitations appears due to
+interplay between spin-fermions and soft crystal-field (CF) states. The
+thermodynamic relations for the spin liquid are derived. Together with the
+explanation of inelastic neutron scattering spectra given earlier within a same
+approach these studies of the low-temperature thermodynamics and magnetic
+response give a consistent description of the nature of anomalies in the
+low-temperature thermodynamics of perfect and imperfect CeNiSn crystals.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 10:17:11 GMT""}]","2009-10-31"
+"cond-mat/9903219","Kihong Kim","Kihong Kim","Quantum critical phenomena of long-range interacting bosons in a
+  time-dependent random potential","10 pages, 3 figures","Physical Review B 60(2), R742-R745 (1999)","10.1103/PhysRevB.60.R742",,"cond-mat.supr-con cond-mat.dis-nn",,"  We study the superfluid-insulator transition of a particle-hole symmetric
+system of long-range interacting bosons in a time-dependent random potential in
+two dimensions, using the momentum-shell renormalization-group method. We find
+a new stable fixed point with non-zero values of the parameters representing
+the short- and long-range interactions and disorder when the interaction is
+asymptotically logarithmic. This is contrasted to the non-random case with a
+logarithmic interaction, where the transition is argued to be first-order, and
+to the $1/r$ Coulomb interaction case, where either a first-order transition or
+an XY-like transition is possible depending on the parameters. We propose that
+our model may be relevant in studying the vortex liquid-vortex glass transition
+of interacting vortex lines in point-disordered type-II superconductors.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 10:46:32 GMT""}]","2009-10-31"
+"cond-mat/9903220","Gianaurelio Cuniberti","Gianaurelio Cuniberti (1), Marco Raberto (2), Enrico Scalas (3) ((1)
+  Max-Planck-Institut fuer Physik komplexer Systeme, Germany, (2) Universita`
+  di Genova, Italy, (3) Universita` del Piemonte Orientale, Italy)","Correlations in the Bond-Future Market","10 pages, 5 figures, LaTeX2e, to be published in Physica A","Physica A 269, 90-97 (1999)","10.1016/S0378-4371(99)00083-7",,"cond-mat.stat-mech cond-mat.dis-nn q-fin.TR",,"  We analyze the time series of overnight returns for the bund and btp futures
+exchanged at LIFFE (London). The overnight returns of both assets are mapped
+onto a one-dimensional symbolic-dynamics random walk: The `bond walk'. During
+the considered period (October 1991 - January 1994) the bund-future market
+opened earlier than the btp-future one. The crosscorrelations between the two
+bond walks, as well as estimates of the conditional probability, show that they
+are not independent; however each walk can be modeled by means of a trinomial
+probability distribution. Monte Carlo simulations confirm that it is necessary
+to take into account the bivariate dependence in order to properly reproduce
+the statistical properties of the real-world data. Various investment
+strategies have been devised to exploit the `prior' information obtained by the
+aforementioned analysis.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 14:57:52 GMT""}]","2008-12-02"
+"cond-mat/9903221","Gianaurelio Cuniberti","Marco Raberto (1), Enrico Scalas (2), Gianaurelio Cuniberti (3),
+  Massimo Riani (1) ((1) Universita` di Genova, Italy, (2) Universita` del
+  Piemonte Orientale, Italy, (3) Max-Planck-Institut fuer Physik komplexer
+  Systeme, Germany)","Volatility in the Italian Stock Market: an Empirical Study","9 pages, 4 figures, LaTeX2e, to be published in Physica A","Physica A 269, 148-155 (1999)","10.1016/S0378-4371(99)00089-8",,"cond-mat.stat-mech cond-mat.dis-nn q-fin.ST",,"  We study the volatility of the MIB30-stock-index high-frequency data from
+November 28, 1994 through September 15, 1995. Our aim is to empirically
+characterize the volatility random walk in the framework of continuous-time
+finance. To this end, we compute the index volatility by means of the
+log-return standard deviation. We choose an hourly time window in order to
+investigate intraday properties of volatility. A periodic component is found
+for the hourly time window, in agreement with previous observations.
+Fluctuations are studied by means of detrended fluctuation analysis, and we
+detect long-range correlations. Volatility values are log-stable distributed.
+We discuss the implications of these results for stochastic volatility
+modelling.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 15:29:14 GMT""}]","2008-12-02"
+"gr-qc/9903051","Cenalo T. A. Vaz","Cenalo Vaz (Universidade do Algarve)","Canonical Quantization and the Statistical Entropy of the Schwarzschild
+  Black Hole","21 pages, PHYZZX macros. The counting of physical states has been
+  corrected. Revised version to appear in Phys. Rev. D","Phys.Rev. D61 (2000) 064017","10.1103/PhysRevD.61.064017","UATP-01/99","gr-qc hep-th",,"  The canonical quantization of a Schwarzschild black hole yields a picture of
+the black hole that is shown to be equivalent to a collection of oscillators
+whose density of levels is commensurate with that of the statistical bootstrap
+model. Energy eigenstates of definite parity exhibit the Bekenstein mass
+spectrum, $M \sim \sqrt{\cal N} M_p$, where ${\cal N} \in {\bf N}$. From the
+microcanonical ensemble, we derive the statistical entropy of the black hole by
+explicitly counting the microstates corresponding to a macrostate of fixed
+total energy.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 22:32:42 GMT""},{""version"":""v2"",""created"":""Wed, 29 Sep 1999 11:44:21 GMT""}]","2009-10-31"
+"gr-qc/9903052","Michele Vallisneri","Massimo Pauri, Michele Vallisneri","Classical roots of the Unruh and Hawking effects","AmsLaTeX, 18 pages, 1 eps figure; revised, references added. To
+  appear in Foundations of Physics, 4th quarter, 1999","Found.Phys. 29 (1999) 1499-1520",,"UPRF-98-08","gr-qc hep-th",,"  Although the Unruh and Hawking phenomena are commonly linked to field
+quantization in ""accelerated"" coordinates or in curved spacetimes, we argue
+that they are deeply rooted at the classical level. We maintain in particular
+that these effects should be best understood by considering how the
+special-relativistic notion of ""particle"" gets blurred when employed in
+theories including accelerated observers or in general-relativistic theories,
+and that this blurring is an instantiation of a more general behavior arising
+when the principle of equivalence is used to generalize classical or quantum
+special-relativistic theories to curved spacetimes or accelerated observers. A
+classical analogue of the Unruh effect, stemming from the non-invariance of the
+notion of ""electromagnetic radiation"" as seen by inertial and accelerated
+observers, is illustrated by means of four gedanken-experimente. The issue of
+energy balance in the various cases is also briefly discussed.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 02:27:07 GMT""},{""version"":""v2"",""created"":""Thu, 8 Jul 1999 17:38:52 GMT""}]","2007-05-23"
+"gr-qc/9903053","Bg Sidharth","B.G. Sidharth","Large Scale Structures in the Universe","2 pages, TeX",,,,"gr-qc",,"  In this brief communication we show why superclusters would naturally arise
+in the universe.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 12:58:44 GMT""}]","2007-05-23"
+"hep-ex/9903022","Michael Matthews","S. C. Bennett and C. E. Wieman","Measurement of the 6S-7S transition polarizablility in atomic cesium and
+  an improved test of the standard model","12 pages, 1 figure","Phys.Rev.Lett.82:2484-2487,1999; Erratum-ibid.83:889,1999","10.1103/PhysRevLett.82.2484",,"hep-ex",,"  The ratio of the off-diagonal hyperfine amplitude to the tensor transition
+polarizability (Mhf/beta) for the 6S-7S transition in cesium has been measured.
+The value of beta=27.024(43)(expt)(67)(theory)a_0^3 is then obtained using an
+accurate semi-empirical value of Mhf. This is combined with a previous
+measurement of parity nonconservation in atomic cesium and previous atomic
+structure calculations to determine the value of the weak charge. The
+uncertainties in the atomic structure calculations are updated (and reduced) in
+light of new experimental tests. The result Q_W=-72.06(28)(expt) (34)(theory)
+differs from the prediction of the standard model of elementary particle
+physics by 2.5 sigma.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 17:42:32 GMT""}]","2008-11-26"
+"hep-ex/9903023","Ren-Yuan Zhu","Ren-yuan Zhu (Caltech)","Precision Crystal Calorimetry in High Energy Physics","8 pages with 13 eps Figures, RevTex",,"10.1016/S0920-5632(99)00547-2","DPF99 Section 12 Report 6","hep-ex",,"  Crystal Calorimetry is widely used in high energy physics because of its
+precision. Recent development in crystal technology identified two key issues
+to reach and maintain crystal precision: light response uniformity and
+calibration in situ. Crystal radiation damage is understood. While the damage
+in alkali halides is found to be caused by the oxygen/hydroxyl contamination,
+it is the structure defects, such as oxygen vacancies, cause damage in oxides.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 11:38:55 GMT""}]","2009-10-31"
+"hep-ex/9903024","Andy. Hocker","Andy Hocker (University of Chicago)","The Status of MSSM Higgs Boson Searches at LEP","7 pages, 6 figures, REVTeX, to appear in the proceedings of the DPF
+  '99 conference, 5-9 January 1999, Los Angeles, CA",,,,"hep-ex",,"  The most recently available results from searches conducted by the four LEP
+experiments at 189 GeV center-of-mass energy for Higgs bosons of the Minimal
+Supersymmetric Standard Model (MSSM) are presented. No evidence for a signal
+has been observed, and the null result is used by the experiments, both
+individually and collectively, to exclude regions of the MSSM parameter space
+and to set lower limits on Higgs boson masses at 95% confidence level in
+constrained MSSM scenarios.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 14:02:05 GMT""}]","2007-05-23"
+"hep-th/9903115","Koji Hashimoto","Koji Hashimoto","Gauge Symmetry Breaking in Models inspired by Non-Commutative Geometry","7 pages, 3 eps figures, requires PTP style files, minor corrections","Prog.Theor.Phys. 102 (1999) 419-425","10.1143/PTP.102.419","KUNS-1565","hep-th",,"  In models inspired by non-commutative geometry, patterns of gauge symmetry
+breaking are analyzed, and SU(5) models are found to naturally favor a vacuum
+preserving SU(3) X SU(2) X U(1). A more realistic model is presented, and the
+possibility of D-brane interpretation is discussed.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 14:36:20 GMT""},{""version"":""v2"",""created"":""Thu, 25 Mar 1999 07:43:31 GMT""},{""version"":""v3"",""created"":""Sat, 22 May 1999 05:36:45 GMT""},{""version"":""v4"",""created"":""Mon, 6 Sep 1999 06:27:58 GMT""}]","2009-10-31"
+"hep-th/9903118","Zhou Bin","Bihn Zhou, Chuan-Jie Zhu","A Study of Brane Solutions in D-dimensional Coupled Gravity System","15 pages, Latex, no figuers, uses amsfonts and amssymb","Commun.Theor.Phys. 32 (1999) 507-514","10.1088/0253-6102/32/4/507",,"hep-th",,"  In this paper, we use only the equation of motion for an interacting system
+of gravity, dilaton and antisymmetric tensor to study the soliton solutions by
+making use of a Poincar\'e invariant ansatz. We show that the system of
+equations are completly integrable and the solution is unique with appropriate
+boundary conditions. Some new class of solutions are also given explicitly.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 09:19:22 GMT""}]","2018-01-17"
+"hep-th/9903119","Kazutaka Takahashi","K. Takahashi (Univ. of Tsukuba), S. Iida (Ryukoku Univ.)","Thouless energy in QCD and effects of diffusion modes on level
+  correlations of Dirac operator","17 pages, section 4.3 removed, minor changes","Nucl.Phys. B573 (2000) 685-702","10.1016/S0550-3213(99)00782-8",,"hep-th hep-ph",,"  The correlations of the QCD Dirac eigenvalues are studied with use of an
+extended chiral random matrix model. The inclusion of spatial dependence which
+the original model lacks enables us to investigate the effects of diffusion
+modes. We get analytical expressions of level correlation functions with
+non-universal behavior caused by diffusion modes which is characterized by
+Thouless energy. Pion mode is shown to be responsible for these diffusion
+effects when QCD vacuum is considered a disordered medium.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 15:44:08 GMT""},{""version"":""v2"",""created"":""Tue, 4 Apr 2000 09:07:10 GMT""}]","2009-10-31"
+"math-ph/9903031",,"A. N. Leznov","New approach to representation theory of semisimple Lie algebras and
+  quantum algebras","LaTeX, 20 pages",,"10.1007/BF02551396",,"math-ph hep-th math.MP math.RT",,"  A method to construct in explicit form the generators of the simple roots of
+an arbitrary finite-dimensional representation of a quantum or standard
+semisimple algebra is found. The method is based on general results from the
+global theory of representations of semisimple groups. The rank two algebras
+$A_2$, $B_2=C_2$, $D_2$ and $G_2$ are considered as examples. The generators of
+the simple roots are presented as solutions of a system of finite difference
+equations and given in the form of $N_l\times N_l$ matrices, where $N_l$ is the
+dimension of the representation.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 09:15:24 GMT""}]","2009-10-31"
+"math/9903193","Gregery Buzzard","Gregery T. Buzzard, Stephen Lu (Fields Institute and University of
+  Waterloo)","Algebraic surfaces holomorphically dominable by C^2",,,"10.1007/s002220050021","FI-NP1999-002","math.CV math.AG",,"  Using the Kodaira dimension and the fundamental group of X, we succeed in
+classifying algebraic surfaces which are dominable by C^2 except for certain
+cases in which X is an algebraic surface of Kodaira dimension zero and the case
+when X is rational without any logarithmic 1-form. More specifically, in the
+case when X is compact (namely projective), we need to exclude only the case
+when X is birationally equivalent to a K3 surface (a simply connected compact
+complex surface which admits a globally non-vanishing holomorphic 2-form) that
+is neither elliptic nor Kummer.
+  With the exceptions noted above, we show that for any algebraic surface of
+Kodaira dimension less than 2, dominability by C^2 is equivalent to the
+apparently weaker requirement of the existence of a holomorphic image of C
+which is Zariski dense in the surface. With the same exceptions, we will also
+show the very interesting and revealing fact that dominability by C^2 is
+preserved even if a sufficiently small neighborhood of any finite set of points
+is removed from the surface. In fact, we will provide a complete classification
+in the more general category of (not necessarily algebraic) compact complex
+surfaces before tackling the problem in the case of non-compact algebraic
+surfaces.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 00:00:00 GMT""}]","2016-09-07"
+"nucl-th/9903039","Stephen D. H. Hsu","Stephen D.H. Hsu","Neutron Star Vortex Dynamics and Magnetic Field Decay: Implications for
+  High Density Nuclear Matter","7 pages, 2 figures, uses LaTeX","Phys.Lett. B469 (1999) 161-165","10.1016/S0370-2693(99)01228-9","OITS-672","nucl-th astro-ph hep-ph",,"  We investigate the effect of the density-dependent proton and neutron gaps on
+vortex dynamics in neutron stars. We argue that the persistence of neutron star
+magnetic fields on timescales of $10^9$ y suggests a superconducting gap curve
+with local maximum at intermediate density. We discuss the implications for
+exotic core phenomena such as pion/kaon condensation or a transition to quark
+matter.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1999 21:13:24 GMT""}]","2009-10-31"
+"quant-ph/9903049","Vlatko Vedral","V. Vedral","Landauer's erasure, error correction and entanglement","11 pages, 1 figure, to appear in The Proceedings of The Royal Society",,"10.1098/rspa.2000.0545",,"quant-ph",,"  Classical and quantum error correction are presented in the form of Maxwell's
+demon and their efficiency analyzed from the thermodynamic point of view. We
+explain how Landauer's principle of information erasure applies to both cases.
+By then extending this principle to entanglement manipulations we rederive
+upper bounds on purification procedures thereby linking the ''no local increase
+of entanglement'' principle to the Second Law of thermodynamics.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1999 15:35:07 GMT""},{""version"":""v2"",""created"":""Mon, 20 Dec 1999 16:04:51 GMT""}]","2009-10-31"

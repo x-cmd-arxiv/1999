@@ -1,0 +1,140 @@
+"astro-ph/9909323","Joachim Siebert","J.Siebert, S.Komossa, W.Brinkmann (Max-Planck-Institut f.
+  extraterrestrische Physik, Garching, Germany)","The warm absorber in IRAS 13349+2438: dusty or not?","10 pages, 6 figures, to appear in Astronomy & Astrophysics",,,,"astro-ph",,"  IRAS13349+2438 was the first quasar suggested to host a warm absorber with
+internal dust. We obtained new HRI data for this object and derive constraints
+on the X-ray emitting region of IRAS13349+2438 by investigating its X-ray
+extent and lightcurve. Rapid X-ray variability is detected with a factor of two
+change in count rate within one day and 20% variability within about three
+hours, which practically rules out any significant contribution of scattered
+X-rays. We present for the first time a detailed, self-consistent modeling of
+the ROSAT PSPC and ASCA spectrum of IRAS13349+2438 in terms of a warm absorber
+including dust. It turns out that both a dust-free and a dusty single-component
+warm absorber fail to explain the ROSAT, ASCA, and optical data simultaneously.
+We discuss possible explanations such as a variable and/or complex warm
+absorber, a variable soft X-ray continuum and instrumental effects.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1999 16:57:26 GMT""}]","2007-05-23"
+"cond-mat/9909278","Viatcheslav V. Dobrovitski","M. Al-Saqer, V. V. Dobrovitski, B. N. Harmon, and M. I. Katsnelson","Many-Spin Effects and Tunneling Properties of Magnetic Molecules","3REVTeX pages, 2 figures",,"10.1063/1.372675",,"cond-mat.mtrl-sci cond-mat.mes-hall",,"  Spin tunneling in molecular magnets has attracted much attention, however
+theoretical considerations of this phenomenon up to now have not taken into
+account the many-spin nature of molecular magnets. We present, to our
+knowledge, the first successful attempt of a realistic calculation of tunneling
+splittings for Mn$_{12}$ molecules, thus achieving a quantitatively accurate
+many-spin description of a real molecular magnet in the energy interval ranging
+from about 100 K down to 10$^{-12}$ K. Comparison with the results of the
+standard single-spin model shows that many-spin effects affect the tunneling
+splittings considerably. The values of ground state splitting given by
+single-spin and many-spin models differ from each other by a factor of five.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1999 22:26:21 GMT""}]","2009-10-31"
+"cond-mat/9909279","Daniel G. Barci","Daniel G. Barci, E. S. Fraga and Rudnei O. Ramos","A Nonequilibrium Quantum Field Theory Description of the Bose-Einstein
+  Condensate","4 pages, 1 figure, RevTex Final version to appear in the Physical
+  Review Letters","Phys.Rev.Lett. 85 (2000) 479-482","10.1103/PhysRevLett.85.479",,"cond-mat.soft hep-ph hep-th nucl-th quant-ph",,"  We study the detailed out of equilibrium time evolution of a homogeneous
+Bose-Einstein condensate.We consider a nonrelativistic quantum theory for a
+self-interacting complex scalar field, immersed in a thermal bath, as an
+effective microscopic model for the description of the Bose-Einstein
+condensate. This approach yields the following main results:(i) the interaction
+between fluctuations proves to be crucial in the mechanism of instability
+generation; (ii) there are essentially two regimes in the $k$-space, with a
+crossover for $k^2/2m \sim 2\lambda |\phi_0|^2$, where, in our notation,
+$\lambda$ is the coupling constant and $|\phi_0|^2$ is the condensate density;
+(iii) a set of coupled equations that determines completely the nonequilibrium
+dynamics of the condensate density as a function of the temperature and of the
+total density of the gas.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1999 23:55:46 GMT""},{""version"":""v2"",""created"":""Fri, 19 May 2000 19:31:25 GMT""}]","2009-10-31"
+"gr-qc/9909055","Koji Uryu","Yoshiharu Eriguchi (Univ. Tokyo), Koji Uryu (SISSA)","Darwin-Riemann Problems in Newtonian Gravity","17 pages, 10 figures, PTPTeX style files are included","Prog.Theor.Phys.Suppl.136:199-215,1999","10.1143/PTPS.136.199",,"gr-qc",,"  In this paper, we have reviewed the present status of the theory of
+equilibrium configurations of compact binary star systems in Newtonian gravity.
+Evolutionary processes of compact binary star systems due to gravitational wave
+emission can be divided into three stages according to the time scales and
+configurations. The evolution is quasi-stationary until a merging process
+starts, since the time scale of the orbital change due to gravitational wave
+emission is longer than the orbital period. In this stage, equilibrium
+sequences can be applied to evolution of compact binary star systems. Along the
+equilibrium sequences, there appear several critical states where some
+instability sets in or configuration changes drastically. We have discussed
+relations among these critical points and have stressed the importance of the
+mass overflow as well as the dynamical instability of orbital motions.
+Concerning the equilibrium sequences of binary star systems, we have summarized
+classical results of incompressible ellipsoidal configurations. Recent results
+of compressible binary star systems obtained by the ellipsoidal approximation
+and by numerical computations have been shown and discussed. It is important to
+note that numerical computational solutions to {\it exact equations} show that
+compressibility may lead realistic neutron star binary systems to mass
+overflows instead of dynamical disruptions for a wide range of parameters.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1999 16:29:34 GMT""},{""version"":""v2"",""created"":""Wed, 22 Sep 1999 12:17:20 GMT""}]","2008-11-26"
+"hep-th/9909129","Richard Szabo","Nick E. Mavromatos and Richard J. Szabo","Non-linear Schroedinger Dynamics of Matrix D-branes","47 pages LaTeX, 1 eps figure; clarifying comments and appendix added","Int.J.Mod.Phys.A16:209-250,2001","10.1142/S0217751X01002348","OUTP-99-47P, CERN-TH/99-256, NBI-HE-99-34","hep-th gr-qc quant-ph",,"  We formulate an effective Schroedinger wave equation describing the quantum
+dynamics of a system of D0-branes by applying the Wilson renormalization group
+equation to the worldsheet partition function of a deformed sigma-model
+describing the system, which includes the quantum recoil due to the exchange of
+string states between the individual D-particles. We arrive at an effective
+Fokker-Planck equation for the probability density with diffusion coefficient
+determined by the total kinetic energy of the recoiling system. We use Galilean
+invariance of the system to show that there are three possible solutions of the
+associated non-linear Schroedinger equation depending on the strength of the
+open string interactions among the D-particles. When the open string energies
+are small compared to the total kinetic energy of the system, the solutions are
+governed by freely-propagating solitary waves. When the string coupling
+constant reaches a dynamically determined critical value, the system is
+described by minimal uncertainty wavepackets which describe the smearing of the
+D-particle coordinates due to the distortion of the surrounding spacetime from
+the string interactions. For strong string interactions, bound state solutions
+exist with effective mass determined by an energy-dependent shift of the static
+BPS mass of the D0-branes.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 12:56:20 GMT""},{""version"":""v2"",""created"":""Tue, 30 May 2000 13:11:50 GMT""}]","2015-06-26"
+"hep-th/9909130","Andrew Chamblin","A. Chamblin and G.W. Gibbons","Supergravity on the Brane","4 pages REVTeX, version to appear in Physical Review Letters","Phys.Rev.Lett.84:1090-1093,2000","10.1103/PhysRevLett.84.1090","DAMTP-1999-126","hep-th astro-ph hep-ph",,"  We show that smooth domain wall spacetimes supported by a scalar field
+separating two anti-de-Sitter like regions admit a single graviton bound state.
+Our analysis yields a fully non-linear supergravity treatment of the
+Randall-Sundrum model. Our solutions describe a pp-wave propagating in the
+domain wall background spacetime. If the latter is BPS, our solutions retain
+some supersymmetry. Nevertheless, the Kaluza-Klein modes generate ``pp
+curvature'' singularities in the bulk located where the horizon of AdS would
+ordinarily be.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 14:42:44 GMT""},{""version"":""v2"",""created"":""Wed, 6 Oct 1999 01:51:38 GMT""},{""version"":""v3"",""created"":""Sat, 20 Nov 1999 02:38:36 GMT""}]","2009-10-07"
+"math-ph/9909023","Hiroyuki Ochiai","Hiroyuki Ochiai","Counting functions for branched covers of elliptic curves and
+  quasi-modular forms","LaTeX, 16 pages, no figures",,,,"math-ph math.CO math.MP",,"  We prove that each counting function of the m-simple branched covers with a
+fixed genus of an elliptic curve is expressed as a polynomial of the Eisenstein
+series E_2, E_4 and E_6 . The special case m=2 is considered by Dijkgraaf.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 13:36:24 GMT""}]","2007-05-23"
+"math/9909108","Tomasz Brzezinski","Tomasz Brzezinski","The cohomology structure of an algebra entwined with a coalgebra","LaTeX, 24 pages, uses Paul Taylor's diagrams.tex",,,,"math.RA math.QA",,"  Two cochain complexes are constructed for an algebra A and a coalgebra C
+entwined with each other via the map $\psi:C\otimes A\to A\otimes C$. One
+complex is associated to an A-bimodule, the other to a C-bicomodule. In the
+former case the resulting complex can be considered as a $\psi$-twisted
+Hochschild complex of A, while for the latter one obtains a $\psi$-twist of the
+Cartier complex of C. The notion of a {\em weak comp algebra} is introduced by
+weakening the axioms of the Gerstenhaber comp algebra. It is shown that such a
+weak comp algebra is a cochain complex with two cup products that descend to
+the cohomology. It is also shown that the complexes associated to an entwining
+structure and A or C are examples of a weak comp algebra. Finally both
+complexes are combined in a double complex whose role in the deformation theory
+of entwining structures is outlined.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1999 19:35:28 GMT""}]","2007-05-23"
+"math/9909109","Daniel Huybrechts","Daniel Huybrechts","The Kaehler cone of a compact hyperkaehler manifold","This is a major revision of the paper. All results based on the
+  projectivity criterion for hyperkahler manifolds have a complete proof now
+  (see the Erratum in alg-geom/9705025). The sections on the
+  Beauville-Bogomolov form are omitted in this version. Further corrections are
+  made in Sect. 1 and 4",,,,"math.AG",,"  This is an attempt towards the understanding of the (birational) Kaehler cone
+of a compact hyperkaehler manifold in terms of the Beauville-Bogomolov form on
+its second cohomology. We discuss birational correspondences between
+hyperkaehler manifolds and their effects on the cohomology. Many of the results
+are conjectural in as much as they depend on a projectivity criterion for
+compact hyperkaehler manifolds contained in this paper's predecessor, but in
+which a serious mistake has oocured. An erratum is given in Sect. 6 and a way
+to rescue the approach is proposed in Sect. 7.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 12:27:53 GMT""},{""version"":""v2"",""created"":""Sun, 3 Jun 2001 10:44:08 GMT""}]","2007-05-23"
+"math/9909189","Kenji Handa","Kenji Handa (Saga University)","Quasi-invariance and reversibility in the Fleming-Viot process",,,,"FI-PIA1999-018","math.PR",,"  Reversible measures of the Fleming-Viot process are shown to be characterized
+as quasi-invariant measures with a cocycle given in terms of the mutation
+operator. As applications, we give certain integral characterization of
+Poisson-Dirichlet distributions and a proof that the stationary measure of the
+step-wise mutation model of Ohta-Kimura with periodic boundary condition is
+nonreversible.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 00:00:00 GMT""}]","2016-09-07"
+"nucl-th/9909048","Alexander Sibirtsev","M.V. Polyakov (Ruhr U. Bochum and NPI Petersburg), A. Sibirtsev
+  (Giessen U.), K. Tsushima (Adelaide U. and CSSM), W. Cassing (Giessen U.), K.
+  Goeke (Ruhr U. Bochum)","On the search for a narrow penta-quark Z$^+$ baryon in NN interactions","5 pages, espcrc2, including 3 ps-figures","Eur.Phys.J. A9 (2000) 115-118","10.1007/s100500070061","RUB-TPII-14/99, ADP-99-37/T374, UGI-99-23","nucl-th",,"  The possibility for an observation of a narrow penta-quark $Z^+$ baryon in
+$NN$ reactions is discussed. It is shown that the $pp{\to}n\Sigma^+K^+$
+reaction at excess energies around 100 MeV above threshold provides optimal
+conditions for $Z^+$ baryon detection by an analysis of the $nK^+$ invariant
+mass spectrum, if the $Z^+$ mass is located around 1.5 GeV involving a rather
+narrow width.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 13:44:05 GMT""}]","2009-10-31"
+"physics/9909035","Haret Rosu","H.C. Rosu","Classical Mechanics","131 pages, 5 eps figures",,,,"physics.ed-ph",,"  This is the English version of a friendly graduate course on Classical
+Mechanics, containing about 80% of the material I covered during the
+January-June 1999 semester at IFUG in the Mexican city of Leon. For the Spanish
+version, see physics/9906066
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1999 04:02:42 GMT""}]","2007-05-23"
